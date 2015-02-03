@@ -1,0 +1,96 @@
+#logo {
+	visibility: hidden;
+}
+
+#mym_header {
+	font-family: "Proxima Nova Regular","Helvetica Neue","Calibri","Droid Sans","Helvetica","Arial",sans-serif; 
+	font-style: normal; 
+	font-weight: 400; 
+	font-size: 100%; 
+	line-height: 1.22em; 
+	font-size: 1.41em;
+}
+
+#mym_header .inside {
+	background-color: #262829;
+}
+
+#mym_header #mym_logo {
+	float: left;
+	padding: 15px 0 12px 2%;
+}
+
+#mym_header .main_nav {
+	position: relative;
+	z-index: 128;
+	top: 23px;
+	float: right;	
+}
+
+#mym_header .main_nav ul, #mym_header .main_nav li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#mym_header .main_nav > ul > li {
+	display: inline-block;
+	position: relative;
+}
+
+#mym_header .main_nav > ul > li > a {
+	padding: 10px 20px;
+	margin-top: 6px;
+	background-color: #262829;
+	color: #FFF;
+	text-decoration: none;
+}
+
+#mym_header .main_nav > ul > li:hover > a {
+	background-color: #444;
+	border-bottom: 4px solid #FFD900;
+}
+
+#mym_header .main_nav .inner {
+	display: none;
+	background-color: #FFF;
+	right: 0;
+	border: 14px solid #444;
+	position: absolute;
+	top: 36px;
+	padding: 20px;
+	vertical-align: middle;
+}
+
+#mym_header .main_nav > ul > li:hover .inner {
+	display: block;
+}
+
+#mym_header #nav_stats .inner a {
+	display: block;
+	text-align: center;
+	width: 200px;
+	color: #FFF;
+	font-weight: bold;
+	line-height: 64px;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	text-decoration: none;
+}
+
+
+#mym_header .placeholder {
+	height: 4px;
+	background-color: #5d5959;
+	clear: both;
+}
+
+@media (max-width: 1100px) {
+	#mym_header .inside > * {display: block; position: relative; margin: auto; float: none; text-align: center;}
+	#mym_header .main_nav {top: 18px;}
+	#mym_header #mym_logo {float: none;}
+	#mym_header .inside nav > ul {height: 50px; }
+}
+@media (max-width: 610px) {
+	#mym_header {display: none;}
+}
