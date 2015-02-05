@@ -11,9 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 3
 
-   Modpacks_Server/1.4.7/index
-   Modpacks_Server/1.6.4/index
-   Modpacks_Server/1.7.10/index
+   MineYourMind/index
+   FAQ/index
+   Performance/index
+   Modpacks_Server/index
+   Launcher/index
 
 
 Indices and tables
