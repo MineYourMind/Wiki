@@ -1,11 +1,10 @@
 Modpacks/Servers
 ================
 
-Contents:
+Contents
+--------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
-   1.4.7/index
-   1.6.4/index
-   1.7.10/index
+   *

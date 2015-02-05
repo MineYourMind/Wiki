@@ -6,7 +6,8 @@
 Welcome to MineYourMind's wiki and documentation!
 =================================================
 
-Contents:
+Contents
+--------
 
 .. toctree::
    :maxdepth: 3
@@ -19,9 +20,8 @@ Contents:
 
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

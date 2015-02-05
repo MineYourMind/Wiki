@@ -1,5 +1,7 @@
-1.4.7 Modpacks/Servers
-======================
+1.4.7
+=====
 
 .. toctree::
    :maxdepth: 2
+
+   *
