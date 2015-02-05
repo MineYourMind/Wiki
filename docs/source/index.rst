@@ -11,6 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 3
 
+   Modpacks_Server/1.4.7
+   Modpacks_Server/1.6.4
+   Modpacks_Server/1.7.10
+
 
 Indices and tables
 ==================
