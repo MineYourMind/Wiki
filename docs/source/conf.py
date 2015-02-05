@@ -264,3 +264,5 @@ texinfo_documents = [
 #html_theme = 'mym_custom'
 #html_theme_path = ['_themes', ]
 #html_static_path = ['_static', '_themes/mym_custom/_static', ]
+
+todo_include_todos = 'true'

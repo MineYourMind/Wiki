@@ -1,2 +1,0 @@
-FTB Ultimate (deprecated)
-==========================
