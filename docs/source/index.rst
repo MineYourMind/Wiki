@@ -6,11 +6,10 @@
 Welcome to MineYourMind's wiki and documentation!
 =================================================
 
-Contents
---------
+Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
 
    MineYourMind/index
    FAQ/index

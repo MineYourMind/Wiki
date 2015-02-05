@@ -1,8 +1,7 @@
 Modpacks/Servers
 ================
 
-Contents
-========
+Contents:
 
 .. toctree::
    :glob:
