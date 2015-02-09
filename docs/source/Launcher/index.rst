@@ -7,8 +7,8 @@ Why?
 FAQ
 ---
 
-How to change the file directory
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+How to change the save location
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Create a new ``text document``.
 2. Include the following code in to the text document:
