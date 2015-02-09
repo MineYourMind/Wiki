@@ -65,9 +65,6 @@ Once you get to a big base automating multiple mods it is often not a lot to ask
 Active Tile Entities
 --------------------
 
-.. todo::
-   Tile Entities performance Guide
-
 .. note::
    Tile entities are blocks being able to do a bit more than just being around (Chest, machine, lamp...). In this case we have to further split it up. There are active and passive tile entities. The active ones are ticking while the passive ones are not. So for example all those machines doing production are active and carpenters blocks inactive.
 
