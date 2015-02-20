@@ -269,6 +269,6 @@ todo_include_todos = 'true'
 
 
 
-html_theme = 'readthedocs'
-html_theme_path = ['_themes', ]
-html_static_path = ['_static', '_themes/readthedocs/static', ]
+#html_theme = 'readthedocs'
+#html_theme_path = ['_themes', ]
+#html_static_path = ['_static', '_themes/readthedocs/static', ]
