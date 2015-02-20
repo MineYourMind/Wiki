@@ -5,6 +5,10 @@ KnowledgeBase
 .. toctree::
    :maxdepth: 2
 
+   index
+
+-----------
+
 ========
 Commands
 ========
@@ -23,6 +27,10 @@ Market
 
 Perks
 -----
+
+* content
+
+-----------
 
 ========================
 GriefPrevention Tutorial
@@ -76,6 +84,7 @@ Fakeplayers
 * [[BuildCraft]]
 * [SFM_Player]
 
+-----------
 
 ========================
 Getting the Crash-Report
