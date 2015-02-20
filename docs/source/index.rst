@@ -13,6 +13,7 @@ Contents:
 
    MineYourMind/index
    FAQ/index
+   KnowledgeBase/index
    Performance/index
    Modpacks_Server/index
    Launcher/index
