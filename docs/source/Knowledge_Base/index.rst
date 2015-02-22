@@ -2,13 +2,6 @@
 KnowledgeBase
 +++++++++++++
 
-.. toctree::
-   :maxdepth: 2
-
-   index
-
------------
-
 ========
 Commands
 ========
@@ -28,9 +21,9 @@ Market
 Perks
 -----
 
-* content
+* todo
 
------------
+----------
 
 ========================
 GriefPrevention Tutorial
@@ -40,6 +33,7 @@ GriefPrevention Tutorial
   :height: 101px
   :align:  right
  
+
 Create a claim
 --------------
 
@@ -84,7 +78,9 @@ Fakeplayers
 * [[BuildCraft]]
 * [SFM_Player]
 
------------
+
+----------
+
 
 ========================
 Getting the Crash-Report
@@ -92,7 +88,6 @@ Getting the Crash-Report
 
 If your game crashes and you want to get it solved we require the crash report which get automatically created.
 
-------------
 
 MyM Launcher
 ------------
@@ -130,3 +125,4 @@ Technic Launcher
 ATLauncher
 ----------
 
+todo
