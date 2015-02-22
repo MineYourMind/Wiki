@@ -33,6 +33,8 @@ How to change the save location
 4. Save the document as ``MyM-Launcher.bat`` in the same directory as the ``MyM-Launcher.exe``.
 5. Run the ``MyM-Launcher.bat`` to download and start the modpacks.
 
+-----------
+
 REI Minimap migration
 ---------------------
 These are the steps to migrate the REI's waypoints from FTB Launcher to the MYM Launcher.
