@@ -6,6 +6,10 @@ F.A.Q.
    Use ``ctrl`` + ``F`` to search through this page.
 
 
+.. contents::
+   :depth: 2
+   :local:
+
 Where do I apply for Staff (Moderator, Co-Admin)?
 -------------------------------------------------
 
