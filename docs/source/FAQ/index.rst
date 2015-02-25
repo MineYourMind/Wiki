@@ -21,7 +21,7 @@ The ranks are only titles nothing more. It is planned more but on a pretty low p
 What are credits and how do I get them?
 ---------------------------------------
 
-Credits is our micro payment currency. It can be obtained on `the shop <http://mym.li/shop>`_ and can be spend in game via ``/shop``.
+Credits is our micro payment currency. It can be obtained on `the shop <http://mym.li/shop>`_.
 
 
 How frequently does the server restart (every x hours)?
@@ -50,7 +50,7 @@ Of course, please use the command ``/ts`` on any of our servers for the details.
 Can I record YouTube or Twitch on here?
 ---------------------------------------
 
-We don't have anything against it, but you better be restant as we can not guarantee a constant stability of the server/modpack.
+We don't have anything against it, but you better have good endurance as we can not guarantee a constant stability of the server/modpack.
 
 
 Do I get a special rank if im a Streamer/Youtuber?
@@ -68,7 +68,7 @@ MyM is the ingame currency used for the market, player to player trading, buying
 What protection does this server use?
 -------------------------------------
 
-On the general server's we use GriefPrevention due to its ease of use for the player. Other servers with modpacks like agrarian skies or crash landing use worldguard regions created from the skyblock plugin. Both third party protection systems are extended by our custom ProtectEx extension to protect against more modded items. More information at `GriefPrevention Tutorial <http://mineyourmind.readthedocs.org/en/latest/Knowledge_Base/index.html#griefprevention-tutorial>`_
+On the general server's we use GriefPrevention due to its ease of use for the player. Other servers with modpacks like agrarian skies or crash landing use worldguard regions created from the skyblock plugin. Both third party protection systems are extended by our custom ProtectEx extension to protect against more modded items. More information about Grief Prevention can be found here :doc:`Knowledge_Base/index`
 
 
 What is the difference between Farmworld and Overworld?" AKA "What does Farmworld mean?
@@ -92,7 +92,7 @@ Warnings are given around 5-7 days before with automated ingame announcements. I
 How do I get more Claimblocks/MyM's?
 ------------------------------------
 
-Claimblocks and MyM's are given as vote rewards. Use ``/vote`` and ``/vote redeem`` ingame for more information. You can also make MyM's by trading with players either person to person or the market ``/market``. MyM's can be used to buy claimblocks at the shop NPC's or via ``/shop``.
+Claimblocks and MyM's are given as vote rewards. Use ``/vote`` and ``/vote redeem`` ingame for more information. You can also make MyM's by trading with players either person to person or the market ``/market``. MyM's can be used to buy claimblocks at the shop NPC or via ``/shop``.
 
 
 Is there a limit to the amount of Claimblocks you can have?
@@ -104,7 +104,7 @@ There is a limit, but you don't really need to worry about it as it is quite hig
 Is PvP allowed here?
 --------------------
 
-Unless stated otherwise PvP is not allowed but on some servers you can use ``/pvp`` to have the ability to attack other players with PVP enabled.
+Unless stated otherwise PvP is not allowed. On some servers you can use ``/pvp`` allowing you to toggle PvP.
 
 
 Is raiding allowed?
@@ -143,7 +143,7 @@ Mainly the forums. Depending on the kind of bug either in the public or private 
 Can you remove this claim next to mine?
 ---------------------------------------
 
-Our rules stated 2 weeks. Once the owner of the claim and possible trusted people have been offline for more than 2 weeks we are happy to remove the claim and restore the region unless it is an awesome build. In case of small unused claims there is no need for the full 2 weeks in activity rule. To request a claim removal use our `ticket system <http://mineyourmind.readthedocs.org/en/latest/FAQ/index.html#how-do-i-create-a-ticket>`_.
+Our rules stated 2 weeks. Once the owner of the claim and possible trusted people have been offline for more than 2 weeks we are happy to remove the claim and restore the region unless it is an awesome build. In case of small unused claims there is no need for the full 2 weeks in activity rule. To request a claim removal use our :ref:`ticket system <ref-title>`_ within the claim.
 
 
 Do staff get payed for working for MyM?
@@ -171,7 +171,9 @@ There is not a single item being banned for no reason. While our banlist might n
 
 If you have questions about a particular item feel free to open up a `support thread <https://mineyourmind.net/forum/categories/support-forums.155/>`_ on the forums.
 
+.. _ref-ticket
+
 How do I create a ticket?
 ----------------------------------------
 
-To create a ticket it requires a forum account which you can create `here <https://mineyourmind.net/forum/login/>`. If you are registered you can use the command ``/ticket`` in game which will give you a link to your ticket template. (Make sure to be at the correct location for your issue if you use the command.) Open the link in your browser to add all the relevant information and click ``Submit`` if you're done.
+Create a ticket requires a forum account which you can create `here <https://mineyourmind.net/forum/login/>`_. Once created use ``/ticket`` in game and follow the instructions. (Make sure to be at the correct location befor you issue the command as your locaton will be included.) **Be aware** the command only creates a ticket mask, you need to go to the ticket system and fill it out else no one will see it.
