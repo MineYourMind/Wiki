@@ -68,7 +68,7 @@ MyM is the ingame currency used for the market, player to player trading, buying
 What protection does this server use?
 -------------------------------------
 
-On the general server's we use GriefPrevention due to its ease of use for the player. Other servers with modpacks like agrarian skies or crash landing use worldguard regions created from the skyblock plugin. Both third party protection systems are extended by our custom ProtectEx extension to protect against more modded items. More information about Grief Prevention can be found here :doc:`Knowledge_Base/index`
+On the general server's we use GriefPrevention due to its ease of use for the player. Other servers with modpacks like agrarian skies or crash landing use worldguard regions created from the skyblock plugin. Both third party protection systems are extended by our custom ProtectEx extension to protect against more modded items. More information about Grief Prevention can be found :ref:`here <ref-griefprevention-tutorial>`
 
 
 What is the difference between Farmworld and Overworld?" AKA "What does Farmworld mean?
