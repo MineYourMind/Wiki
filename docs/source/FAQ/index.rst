@@ -21,7 +21,7 @@ The ranks are only titles nothing more. It is planned more but on a pretty low p
 What are credits and how do I get them?
 ---------------------------------------
 
-Credits is our micro payment currency. It can be obtained on `the shop <http://mym.li/shop>`_.
+Credits is our micro payment currency. It can be obtained on `the shop <http://mym.li/shop>`_ and can be spend in game via ``/shop``.
 
 
 How frequently does the server restart (every x hours)?
@@ -50,7 +50,7 @@ Of course, please use the command ``/ts`` on any of our servers for the details.
 Can I record YouTube or Twitch on here?
 ---------------------------------------
 
-We don't have anything against it, but you better be enduranced as we can not guarantee a constant stability of the server/modpack.
+We don't have anything against it, but you better be restant as we can not guarantee a constant stability of the server/modpack.
 
 
 Do I get a special rank if im a Streamer/Youtuber?
@@ -68,7 +68,7 @@ MyM is the ingame currency used for the market, player to player trading, buying
 What protection does this server use?
 -------------------------------------
 
-On the general server's we use GriefPrevention due to its ease of use for the player. Other servers with modpacks like agrarian skies or crash landing use worldguard regions created from the skyblock plugin. Both third party protection systems are extended by our custom ProtectEx extension to protect against more modded items.
+On the general server's we use GriefPrevention due to its ease of use for the player. Other servers with modpacks like agrarian skies or crash landing use worldguard regions created from the skyblock plugin. Both third party protection systems are extended by our custom ProtectEx extension to protect against more modded items. More information at `GriefPrevention Tutorial <http://mineyourmind.readthedocs.org/en/latest/Knowledge_Base/index.html#griefprevention-tutorial>`_
 
 
 What is the difference between Farmworld and Overworld?" AKA "What does Farmworld mean?
@@ -80,7 +80,7 @@ The overworld (build world) is the only world which isn't being reset. All the o
 When will the farmwold be reset?
 --------------------------------
 
-We do not have scheduled farmworld resets. A farmworld reset will only happen when the worlds are depleted (no glowstone in nether..) and a request has been put on the forums. The reason is that pre generate worlds in order to avoid the world generation eating up server resources and lagging the server. Unfortunately is the pre generation a task which takes day, hence the not so frequent reset.
+We do not have scheduled farmworld resets. A farmworld reset will only happen when the worlds are depleted (no glowstone in nether..) and a request has been put on the forums. The reason is that pre generate worlds in order to avoid the world generation eating up server resources and lagging the server. Unfortunately is the pre generation a task which takes days, hence the not so frequent reset.
 
 
 Are there any warnings prior to the reset?
@@ -92,7 +92,7 @@ Warnings are given around 5-7 days before with automated ingame announcements. I
 How do I get more Claimblocks/MyM's?
 ------------------------------------
 
-Claimblocks and MyM's are given as vote rewards. Use ``/vote`` and ``/vote redeem`` ingame for more information. You can also make MyM's by trading with players either person to person or the market ``/market``. MyM's can be used to buy claimblocks at the shop NPC's at the ``/spawn``.
+Claimblocks and MyM's are given as vote rewards. Use ``/vote`` and ``/vote redeem`` ingame for more information. You can also make MyM's by trading with players either person to person or the market ``/market``. MyM's can be used to buy claimblocks at the shop NPC's or via ``/shop``.
 
 
 Is there a limit to the amount of Claimblocks you can have?
@@ -104,7 +104,7 @@ There is a limit, but you don't really need to worry about it as it is quite hig
 Is PvP allowed here?
 --------------------
 
-Unless stated otherwise PvP is not allowed unless the other player agrees to it.
+Unless stated otherwise PvP is not allowed but on some servers you can use ``/pvp`` to have the ability to attack other players with PVP enabled.
 
 
 Is raiding allowed?
@@ -143,7 +143,7 @@ Mainly the forums. Depending on the kind of bug either in the public or private 
 Can you remove this claim next to mine?
 ---------------------------------------
 
-Our rules stated 2 weeks. Once the owner of the claim and possible trusted people have been offline for more than 2 weeks we are happy to remove the claim and restore the region unless it is an awesome build. In case of small unused claims there is no need for the full 2 weeks in activity rule.
+Our rules stated 2 weeks. Once the owner of the claim and possible trusted people have been offline for more than 2 weeks we are happy to remove the claim and restore the region unless it is an awesome build. In case of small unused claims there is no need for the full 2 weeks in activity rule. To request a claim removal use our `ticket system <http://mineyourmind.readthedocs.org/en/latest/FAQ/index.html#how-do-i-create-a-ticket>`_.
 
 
 Do staff get payed for working for MyM?
@@ -161,7 +161,7 @@ Even instant teleportation is not allowed to be used for personal gain. All the 
 Can i transfer claim blocks to a friend?
 ----------------------------------------
 
-Claimblocks can be transfered by selling those for MyM's at the Shop NPC ``/spawn`` and transfering those to your friend ``/money send``.
+Claimblocks can be transfered by selling those for MyM's at the Shop NPC or via ``/shop`` and transfering those to your friend ``/money send``.
 
 
 Why is [Modname/Item] banned?
@@ -170,3 +170,8 @@ Why is [Modname/Item] banned?
 There is not a single item being banned for no reason. While our banlist might not seem like the smallest be aware that we are a huge network with quite some knowledge about grief potential, performance issues and server crashes. So minimal ban list doesn't directly mean they know what they do as they might not even be aware of the issues of the items. We have quite some experience in pathing mod's to fix server crashes, improve performance and extend the usual griefprotection to a limit and look for all sorts of possibilities before restricting any item. Check out these `Guidelines <https://mineyourmind.net/forum/threads/our-guidelines-for-banning-items.1017/>`_ explaining our decision making about problematic items.
 
 If you have questions about a particular item feel free to open up a `support thread <https://mineyourmind.net/forum/categories/support-forums.155/>`_ on the forums.
+
+How do I create a ticket?
+----------------------------------------
+
+To create a ticket it requires a forum account which you can create `here <https://mineyourmind.net/forum/login/>`. If you are registered you can use the command ``/ticket`` in game which will give you a link to your ticket template. (Make sure to be at the correct location for your issue if you use the command.) Open the link in your browser to add all the relevant information and click ``Submit`` if you're done.
