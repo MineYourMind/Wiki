@@ -3,7 +3,7 @@ F.A.Q.
 ++++++
 
 .. note::
-   Use ``ctrl`` + ``F`` to search through the page.
+   Use ``ctrl`` + ``F`` to search through this page.
 
 
 Where do I apply for Staff (Moderator, Co-Admin)?
@@ -50,7 +50,7 @@ Of course, please use the command ``/ts`` on any of our servers for the details.
 Can I record YouTube or Twitch on here?
 ---------------------------------------
 
-A sample answer to the sample question, to give this some sort of structure..
+We don't have anything against it, but you better be enduranced as we can not guarantee a constant stability of the server/modpack.
 
 
 Do I get a special rank if im a Streamer/Youtuber?
@@ -122,7 +122,7 @@ Griefing is not allowed, be it protected or not. Taking the belongings of anothe
 Can I get a refund for my [Item]?
 ---------------------------------
 
-`Refund Policy <https://mineyourmind.net/forum/threads/refunds-on-lost-items.2722/>`_
+Please check out our `Refund Policy <https://mineyourmind.net/forum/threads/refunds-on-lost-items.2722/>`_
 
 
 Where can I see the banned items?
@@ -136,8 +136,8 @@ Where do I report a bug?
 
 Mainly the forums. Depending on the kind of bug either in the public or private section. If it is a dupe bug or containing personal information please use the private one, if not use the public area to which more people have access hence getting an answer is quicker.
 
-`Public Support Forum <https://mineyourmind.net/forum/categories/support-forums.155/>`_
-`Private Support Forum <https://mineyourmind.net/forum/forums/private-bug-reports.189/>`_
+ - `Public Support Forum <https://mineyourmind.net/forum/categories/support-forums.155/>`_
+ - `Private Support Forum <https://mineyourmind.net/forum/forums/private-bug-reports.189/>`_
 
 
 Can you remove this claim next to mine?
