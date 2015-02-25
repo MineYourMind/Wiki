@@ -143,7 +143,7 @@ Mainly the forums. Depending on the kind of bug either in the public or private 
 Can you remove this claim next to mine?
 ---------------------------------------
 
-Our rules stated 2 weeks. Once the owner of the claim and possible trusted people have been offline for more than 2 weeks we are happy to remove the claim and restore the region unless it is an awesome build. In case of small unused claims there is no need for the full 2 weeks in activity rule. To request a claim removal use our :ref:`ticket system <ref-ticket>`_ within the claim.
+Our rules stated 2 weeks. Once the owner of the claim and possible trusted people have been offline for more than 2 weeks we are happy to remove the claim and restore the region unless it is an awesome build. In case of small unused claims there is no need for the full 2 weeks in activity rule. To request a claim removal use our :ref:`ticket system <ref-ticket>` within the claim.
 
 
 Do staff get payed for working for MyM?
