@@ -25,7 +25,7 @@ Perks
 
 ----------
 
-.. _ref-griefprevention-tutorial
+.. _ref-griefprevention-tutorial:
 
 ========================
 GriefPrevention Tutorial

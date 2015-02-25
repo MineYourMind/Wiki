@@ -171,7 +171,7 @@ There is not a single item being banned for no reason. While our banlist might n
 
 If you have questions about a particular item feel free to open up a `support thread <https://mineyourmind.net/forum/categories/support-forums.155/>`_ on the forums.
 
-.. _ref-ticket
+.. _ref-ticket:
 
 How do I create a ticket?
 ----------------------------------------
