@@ -167,5 +167,8 @@ Claimblocks can be transfered by selling those for MyM's at the Shop NPC ``/spaw
 Why is [Modname/Item] banned?
 -----------------------------
 
-There is not a single item being banned for no reason. While our banlist might not seem like the smallest be aware that we are a huge network with quite some knowledge about grief potential, performance issues and server crashes. So minimal ban list doesn't directly mean they know what they do as they might not even be aware of the issues of the items. We have quite some experience in pathing mod's to fix server crashes, improve performance and extend the usual griefprotection to a limit and look for all sorts of possibilities before restricting any item. `Guidelines <https://mineyourmind.net/forum/threads/our-guidelines-for-banning-items.1017/>`_
+There is not a single item being banned for no reason. While our banlist might not seem like the smallest be aware that we are a huge network with quite some knowledge about grief potential, performance issues and server crashes. So minimal ban list doesn't directly mean they know what they do as they might not even be aware of the issues of the items. We have quite some experience in pathing mod's to fix server crashes, improve performance and extend the usual griefprotection to a limit and look for all sorts of possibilities before restricting any item. 
+
+`Guidelines <https://mineyourmind.net/forum/threads/our-guidelines-for-banning-items.1017/>`_
+
 If you have questions about a particular item feel free to open up a `support thread <https://mineyourmind.net/forum/categories/support-forums.155/>`_ on the forums.
