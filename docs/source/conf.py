@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'MyMWiki'
+project = 'MyM-Wiki'
 copyright = '2015, MyM Community'
 
 # The version info for the project you're documenting, acts as replacement for
