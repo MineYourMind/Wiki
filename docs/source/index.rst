@@ -17,6 +17,7 @@ Contents:
    Performance/index
    Modpacks_Server/index
    Launcher/index
+   Credits/index
 
 
 Indices and tables
