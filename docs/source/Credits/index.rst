@@ -35,6 +35,7 @@ Pixelmon
 - `Modpack-Tweaks <https://github.com/TPPIDev/Modpack-Tweaks>`_, tterrag1098
 - `NotEnoughItems <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods>`_, Chickenbones
 - `WAILA <http://minecraft.curseforge.com/members/ProfMobius/projects>`_, ProfMobius
+- `InventoryTweaks <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25>`_, Kobata
 
 
 ==============
