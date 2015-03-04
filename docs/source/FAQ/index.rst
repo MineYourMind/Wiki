@@ -181,3 +181,7 @@ How do I create a ticket?
 ----------------------------------------
 
 Create a ticket requires a forum account which you can create `here <https://mineyourmind.net/forum/login/>`_. Once created use ``/ticket`` in game and follow the instructions. (Make sure to be at the correct location befor you issue the command as your locaton will be included.) **Be aware** the command only creates a ticket mask, you need to go to the ticket system and fill it out else no one will see it.
+
+How do I build a nether portal?
+----------------------------------------
+See :ref:`Multiplex Nether Portal Tutorial <ref-ticket>`
