@@ -184,4 +184,4 @@ Create a ticket requires a forum account which you can create `here <https://min
 
 How do I build a nether portal?
 ----------------------------------------
-See :ref:`Multiplex Nether Portal Tutorial <ref-ticket>`
+See :ref:`Multiplex Nether Portal Tutorial <ref-nether-portal>`
