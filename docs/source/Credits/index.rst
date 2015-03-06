@@ -5,6 +5,7 @@ Credits
 =======
 Overall
 =======
+- `Forge <http://www.minecraftforge.net/>`_, LexManos
 - `LiteLoader <http://www.minecraftforum.net/topic/1868280-172api-liteloader-for-minecraft-172/>`_, Mumfrey
 - `VoxelLib <http://www.voxelwiki.com/minecraft/VoxelLib>`_, VoxelModPack Team
 - `VoxelMenu <http://www.voxelwiki.com/minecraft/VoxelMenu>`_, Mumfrey & Thatapplefreak
