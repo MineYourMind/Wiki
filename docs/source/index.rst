@@ -9,7 +9,7 @@ Welcome to MineYourMind's wiki and documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    MineYourMind/index
    FAQ/index
