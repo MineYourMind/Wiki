@@ -32,8 +32,9 @@ GriefPrevention Tutorial
 ========================
  
 .. image:: https://mineyourmind.net/forum/attachments/created_claim-png.702/
-  :height: 101px
+  :height: 120px !important
   :align:  right
+  :target: #
  
 
 Create a claim
