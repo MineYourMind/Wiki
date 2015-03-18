@@ -8,20 +8,72 @@ Commands
 
 General
 -------
+* ``/spawn`` - Teleports you to the spawn point
+* ``/sethome`` - Sets your home location
+* ``/pvp`` - Toggle PVP on/off
+* ``/ignore &a<player>`` - Show the ignore list or ignore a player
+* ``/money`` - Shows your money
+* ``/pay [player] [amount]`` - Send money to a player
+* ``/money top`` - This displays the top 5 richest players
+* ``/suicide`` - Kills yourself
+* ``/stats`` - Shows your ontime
+* ``/vote`` - Vote for our server and get rewards
+* ``/ts`` - Show our TS3 IP
+* ``/website`` - Show our website url
+* ``/forum`` - Show our forum url
+* ``/premium`` - Show our shop url
 
-Claim/Protection (Griefprevention)
-----------------------------------
+Chat
+----
+* ``/msg [player] [message]`` - Sends a private message
+* ``/r [message]`` - Reply to the player
+* ``/mail send [player] [message]`` -  Send a offline message
+* ``/mail read`` - Check your offline messages
+* ``/mail clear`` - Remove your messages
 
-Money
------
+Claims
+------
+See :ref:`ref-griefprevention-tutorial` for more information.
+
 
 Market
 ------
+* ``/market listings`` - Opens the buy interface
+* ``/market mail`` - Open your mailbox
+* ``/market create [price] <amount>`` - Creates a listing. You need to be holding the item you wish to list in your hand.
+* ``/market pricecheck`` - Check the item in your hand's price
 
-Perks
------
+Tickets
+-------
+* ``/ticket`` - Create a new ticket
 
-* todo
+See :ref:`ref-ticket` for more information.
+
+Premium
+-------
+**Tier1:**
+
+* ``/kit <kitname>`` - Shows all kits and gives you the kit
+* ``/enderchest`` - Open your enderchest from any place
+* ``/workbench`` - Open a crafting grid from any place
+
+**Tier3:**
+
+* ``/back`` - Teleports you to the latest location
+* ``/feed`` - Fills your hunger bar
+* ``/hat`` - Sets your item in the hand as hat
+ 
+**Tier4:**
+
+* ``/back`` - Teleports you back to your death location
+* ``/fly`` - Enables creative fly mode
+* ``/nick [nickname|off]`` - Set a nickname
+* ``/heal`` - Heals yourself
+ 
+**Tier5:**
+
+* ``/god`` - Enables god mode to get no damage
+
 
 ----------
 
