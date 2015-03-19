@@ -76,12 +76,14 @@ Premium
 * ``/kit <kitname>`` - Shows all kits and gives you the kit
 * ``/enderchest`` - Open your enderchest from any place
 * ``/workbench`` - Open a crafting grid from any place
+* ``/is flag [greeting/farewell] [message]`` - Change the leave/enter message of your island
 
 **Tier3:**
 
 * ``/back`` - Teleports you to the latest location
 * ``/feed`` - Fills your hunger bar
 * ``/hat`` - Sets your item in the hand as hat
+* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island
  
 **Tier4:**
 
@@ -93,7 +95,7 @@ Premium
 **Tier5:**
 
 * ``/god`` - Enables god mode to get no damage
-
+* ``/is flag creeper-explosion [deny/allow]`` - Enable/Disable Creeper explosion
 
 ----------
 
