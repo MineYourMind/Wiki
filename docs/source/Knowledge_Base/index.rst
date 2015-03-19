@@ -35,6 +35,26 @@ Claims
 ------
 See :ref:`ref-griefprevention-tutorial` for more information.
 
+Island
+------
+* ``/island`` - Opens the GUI
+* ``/island restart`` - Deletes your island and start a new one
+* ``/island sethome`` - Set your island teleport point
+* ``/island home`` - Teleports to your island home point
+* ``/island invite [player]`` - Invite a player to join your island
+* ``/island trust [player]`` - Same as invite but allows to keep the island for the trusted player
+* ``/island untrust [player]`` - Removes the build permission for the player
+* ``/island [accept/reject]`` - Accept or reject the invite (Your own Island get deleted)
+* ``/island party`` - View your island members
+* ``/island leave`` - Leave another player's island
+* ``/island kick [player]`` - Remove a player from your island
+* ``/island warp [player]`` - Warp to another player's island
+* ``/island setwarp`` - Set your island's warp location
+* ``/island togglewarp`` - Enable/disable warping to your island
+* ``/island ban [player]`` - Ban/unban a player from your island
+* ``/island lock`` - Non-group members can't enter your island
+* ``/island unlock`` - Allow anyone to enter your island
+* ``/island makeleader [player]`` - Makes the player to the owner of the island
 
 Market
 ------
