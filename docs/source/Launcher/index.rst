@@ -62,11 +62,29 @@ by `slyder5649 <https://mineyourmind.net/forum/threads/reis-migration-to-mym-lau
 Known issues
 ============
 
-none
+Mac OS X
+---------
+
+Mac OS X is shipping the java version 6 and even if 7 or 8 is installed it still prefers java 6. Due to this you will need to tell the launcher where to find the newer java version's in order to be able to enjoy the modpacks which require java 7 or newer.
+
+1. Make sure you have Java 7 or 8 installed (Mac only ships with Java 6 by default)
+2. Open your system controls and select the java control panel
+3. Click on the option that is called "show", "view" or similar (there shouldn't be many)
+4. It will show you the installed java version and the path to the location where it is stored
+5. Copy this path into the "JVM Path" textbox on the MyMLauncher under "Options.."
+6. By default installation of java the path looks like this: (/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java)
+7. You should be to play modpacks that require java 7, now.
 
 -----------
 
 Planned
 =======
 
-* Built in instance location option
+* optional install location
+* per modpack icons
+* new ui design
+* auto retry failed downloads
+* reuse valid sessions
+* new newspage design
+* bootstrapper for auto-updates
+* warn about java 6 incompatibility with some modpacks
