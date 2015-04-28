@@ -93,3 +93,10 @@ Known performance eater
 
 .. todo::
    Known performance eater
+
+
+Client
+------
+
+.. todo::
+   Client performance guide. (get the most out of it)
