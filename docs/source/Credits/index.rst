@@ -30,7 +30,7 @@ Overall
 ================
 Galactic Science
 ================
-- `Treecapacitor <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing>`_, bspkrs&DaftPVF 
+- `Treecapitator <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing>`_, bspkrs&DaftPVF 
 - `4Space <mattparks5855.com>`_, mattparks5855
 - `Armourer's Workshop <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2309193-wip-alpha-armourers-workshop-weapon-armour-skins>`_, RiskyKen
 - `Carpenter's Blocks <http://www.carpentersblocks.com/>`_, 
@@ -63,7 +63,7 @@ Galactic Science
 - `SolarFlux <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2187592-solar-flux-a-k-a-compactsolars-for-redstone-flux>`_, Nauktis
 - `Super Massive Techn <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2105190-super-massive-tech-harness-the-power-of-the-stars>`_, Tterrag
 - `WAILA <http://minecraft.curseforge.com/members/ProfMobius/projects>`_, ProfMobius
-- `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_,   
+- `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_, 
 
 ========
 Pixelmon
