@@ -67,7 +67,7 @@ See :ref:`ref-ticket` for more information.
 
 Server Restart Votes
 ====================
-* ``/srv request`` - Will start a 2 minute voting poll to restart the server or not
+* ``/srv request`` - Will start a 2 minute voting poll to restart the server or not (Only on specific servers at the moment)
 * ``/srv [yes/no]`` - Will vote either yes or no on the current poll
 
 Premium
@@ -76,27 +76,29 @@ Premium
 
 * ``/kit <kitname>`` - Shows all kits and gives you the kit
 * ``/is flag [greeting/farewell] [message]`` - Change the leave/enter message of your island
+* ``/feed`` - Fills your hunger bar to full, with a 24hr cooldown. See ``mym.li/shop`` for more cooldown times       (Only applicable on Ag's and Sf2)
 
 **Tier2:**
 
 * ``/enderchest`` - Allows you remote access to a vanilla enderchest belonging to you
 * ``/workbench`` - Allows access to a remote crafting table
-* ``/ptime [day/night]`` - Allows you to change the time for just you. Please note this doesnt affect machines needingcertain times of the day! (Only applicable on Ag's and Sf2)
+* ``/ptime [day/night]`` - Allows you to change the time for just you. Please note this doesnt affect blocks needing certain times of the day! (Only applicable on Ag's and Sf2)
 
 **Tier3:**
 
-* ``/back`` - Teleports you to the latest location (Excludes Ag's and Sf2)
-* ``/feed`` - Fills your hunger bar with a 5min cooldown (Excludes Ag's and Sf2)
+* ``/back`` - Teleports you to the latest location    (Excludes Ag's and Sf2)
+* ``/feed`` - Fills your hunger bar with a 5min cooldown    (See Tier 1 for Ag and Sf2 access to this command)
 * ``/hat`` - Sets your item in the hand as hat
-* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island (Denyable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat)
+
  
 **Tier4:**
 
-* ``/back`` - Teleports you back to your death location (Excludes Ag's and Sf2)
-* ``/fly`` - Enables creative fly mode (Excludes Ag's and Sf2)
+* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island    (Denyable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat)
+* ``/back`` - Teleports you back to your death location    (Excludes Ag's and Sf2)
+* ``/fly`` - Enables creative fly mode    (Excludes Ag's and Sf2)
 * ``/nick [nickname|off]`` - Set a nickname
 * ``/heal`` - Heals yourself with a 5min cooldown (Excludes Ag's And Sf2)
-* ``/pvp`` - Will disable pvp in the nether (Only applies to Ag's and Sf2)
+* ``/pvp`` - Will disable pvp in the nether    (Only applies to Ag's and Sf2)
  
 **Tier5:**
 
