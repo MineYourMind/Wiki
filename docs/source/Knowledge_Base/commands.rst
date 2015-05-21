@@ -65,30 +65,42 @@ Tickets
 
 See :ref:`ref-ticket` for more information.
 
+Server Restart Votes
+====================
+* ``/srv request`` - Will start a 2 minute voting poll to restart the server or not
+* ``/srv [yes/no]`` - Will vote either yes or no on the current poll
+
 Premium
 =======
 **Tier1:**
 
 * ``/kit <kitname>`` - Shows all kits and gives you the kit
-* ``/enderchest`` - Open your enderchest from any place
-* ``/workbench`` - Open a crafting grid from any place
 * ``/is flag [greeting/farewell] [message]`` - Change the leave/enter message of your island
+
+**Tier2:**
+
+* ``/enderchest`` - Allows you remote access to a vanilla enderchest belonging to you
+* ``/workbench`` - Allows access to a remote crafting table
+* ``/ptime [day/night]`` - Allows you to change the time for just you. Please note this doesnt affect machines needingcertain times of the day! (Only applicable on Ag's and Sf2)
 
 **Tier3:**
 
-* ``/back`` - Teleports you to the latest location
-* ``/feed`` - Fills your hunger bar
+* ``/back`` - Teleports you to the latest location (Excludes Ag's and Sf2)
+* ``/feed`` - Fills your hunger bar with a 5min cooldown (Excludes Ag's and Sf2)
 * ``/hat`` - Sets your item in the hand as hat
-* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island
+* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island (Denyable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat)
  
 **Tier4:**
 
-* ``/back`` - Teleports you back to your death location
-* ``/fly`` - Enables creative fly mode
+* ``/back`` - Teleports you back to your death location (Excludes Ag's and Sf2)
+* ``/fly`` - Enables creative fly mode (Excludes Ag's and Sf2)
 * ``/nick [nickname|off]`` - Set a nickname
-* ``/heal`` - Heals yourself
+* ``/heal`` - Heals yourself with a 5min cooldown (Excludes Ag's And Sf2)
+* ``/pvp`` - Will disable pvp in the nether (Only applies to Ag's and Sf2)
  
 **Tier5:**
 
-* ``/god`` - Enables god mode to get no damage
+* ``/god``- Enables god mode to get no damage
 * ``/is flag creeper-explosion [deny/allow]`` - Enable/Disable Creeper explosion
+* ``/thru`` - Will allow you to go through blocks, does the same as right click of a compass
+* ``/jump`` - Will allow you to jump to where your cursor is looking, does the same as left click of a compass
