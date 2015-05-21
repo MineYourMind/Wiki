@@ -41,4 +41,9 @@ Technic Launcher
 ATLauncher
 ==========
 
-todo
+1. Open the Launcher
+2. Select ``instances``, and locate your pack. and 
+3. Click ``Open Folder``and locate the ``crash-report`` folder.
+4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
+5. Click on the ``Submit`` button and copy the web link.
+6. Paste the link in the forum thread/webchat/ticket.
