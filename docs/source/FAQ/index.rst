@@ -13,10 +13,10 @@ F.A.Q.
 Where do I apply for Staff (Moderator, Co-Admin)?
 -------------------------------------------------
 
-All information about staff applications and theire responsibilities can be found on `the forums <https://mineyourmind.net/forum/forums/jobs.239/>`_.
+All information about staff applications and their responsibilities can be found on `the forums <https://mineyourmind.net/forum/forums/jobs.239/>`_.
 
 
-When do i get promoted from Lost Soul etc.?
+When do I get promoted from Lost Soul etc.?
 -------------------------------------------
 
 The ranks are only titles nothing more. It is planned more but on a pretty low priority. The promotion it self happens based on your time spent on the server. If you wanna know your tracked time try ``/stats``. 
