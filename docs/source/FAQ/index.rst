@@ -162,7 +162,7 @@ Are you guys (staff) playing legit, or use creative for own sake?
 Even instant teleportation is not allowed to be used for personal gain. All the extra permissions coming with the staff rank are only allowed for staff work, not for personal. We enforce this strict, if you are seeing someone not playing legit `please report <https://mineyourmind.net/forum/forums/complaints-against-players-and-staff.186/>`_.
 
 
-Can i transfer claim blocks to a friend?
+Can I transfer claim blocks to a friend?
 ----------------------------------------
 
 Claimblocks can be transfered by selling those for MyM's at the Shop NPC or via ``/shop`` and transfering those to your friend ``/money send``.
