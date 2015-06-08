@@ -103,3 +103,17 @@ Agrarian Skies +
 - `Botania <http://www.minecraftforum.net/topic/2440071-botania-an-innovative-natural-magic-themed-tech-mod-not-in-beta-any-more/>`_, Vazkii
 - `Super Crafting Frame <http://www.minecraftforum.net/topic/1870830-edgarallens-mods-super-crafting-frame/>`_, EdgarAllen
 - `OpenCCSensorrs <http://www.computercraft.info/forums2/index.php?/topic/5996-164-cc-163-openccsensors/>`_, Lua Liquidator
+
+
+============
+Third Party
+============
+- `Agrarian Skies <https://feedthebeast.atlassian.net/wiki/display/PML/Agrarian+Skies%3A+Hardcore+Quest>`_, jadedcat
+- `Agrarian Skies 2 <http://minecraft.curseforge.com/modpacks/225550-agrarian-skies-2>`_, jadedcat
+- `Attack of the B-Team <http://www.technicpack.net/modpack/attack-of-the-bteam.552556>`_, TechnicLauncher Team
+- `Crash Landing <http://www.feed-the-beast.com/modpacks/CrashLanding>`_, iskander
+- `Direwolf20 <https://feedthebeast.atlassian.net/wiki/display/PML/Direwolf20>`_, FTB-Team
+- `Infinity <https://feedthebeast.atlassian.net/wiki/display/PML/Infinity+1.7>`_, FTB-Team
+- `Regrowth <http://www.feed-the-beast.com/modpacks/Regrowth>`_, thephoenixlodge
+- `SkyFactory <https://www.atlauncher.com/pack/SkyFactory>`_, Bacon_Donut
+- `The Dark Trilogy <https://feedthebeast.atlassian.net/wiki/display/PML/The+Dark+Trilogy>`_, tfox83 & Gideonseymour
