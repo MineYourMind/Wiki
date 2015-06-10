@@ -13,10 +13,10 @@ F.A.Q.
 Where do I apply for Staff (Moderator, Co-Admin)?
 -------------------------------------------------
 
-All information about staff applications and theire responsibilities can be found on `the forums <https://mineyourmind.net/forum/forums/jobs.239/>`_.
+All information about staff applications and their responsibilities can be found on `the forums <https://mineyourmind.net/forum/forums/jobs.239/>`_.
 
 
-When do i get promoted from Lost Soul etc.?
+When do I get promoted from Lost Soul etc.?
 -------------------------------------------
 
 The ranks are only titles nothing more. It is planned more but on a pretty low priority. The promotion it self happens based on your time spent on the server. If you wanna know your tracked time try ``/stats``. 
@@ -162,7 +162,7 @@ Are you guys (staff) playing legit, or use creative for own sake?
 Even instant teleportation is not allowed to be used for personal gain. All the extra permissions coming with the staff rank are only allowed for staff work, not for personal. We enforce this strict, if you are seeing someone not playing legit `please report <https://mineyourmind.net/forum/forums/complaints-against-players-and-staff.186/>`_.
 
 
-Can i transfer claim blocks to a friend?
+Can I transfer claim blocks to a friend?
 ----------------------------------------
 
 Claimblocks can be transfered by selling those for MyM's at the Shop NPC or via ``/shop`` and transfering those to your friend ``/money send``.
