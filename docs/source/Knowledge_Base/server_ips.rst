@@ -18,7 +18,7 @@ These servers run version ``3.1.1``. And are all :ref:`standalone`
 
 Agrarian Skies +
 ^^^^^^^^^^^^^^^^
-* ``agrarain-plus.mym.li`` - This is a custom pack requiring the `MyM launcher <http://mineyourmind.net/#secondsection>`_ which only ships the correct version. And is bases on Agrarian skies from JadedCat.
+* ``agrarain-plus.mym.li`` - This is a custom pack requiring the `MyM launcher <http://mineyourmind.net/#second_section>`_ which only ships the correct version. And is bases on Agrarian skies from JadedCat.
 
 Agrarian Skies 2 (1.7.10 Version)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -45,7 +45,7 @@ These servers are version ``1.4.1``.
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
-* Ip can be found using the `MyM launcher <http://mineyourmind.net/#seconsection>`_ - Version ``1.07``.
+* Ip can be found using the `MyM launcher <http://mineyourmind.net/#second_section>`_ - Version ``1.07``.
 
 Infinity
 ^^^^^^^^
