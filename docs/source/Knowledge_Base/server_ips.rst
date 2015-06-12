@@ -1,7 +1,7 @@
 ===========
 Server Ip's
 ===========
-.. note:: The ``mym.li`` can be swapped for ``mineyourmind.net`
+.. note:: The ``mym.li`` can be swapped for ``mineyourmind.net``
 .. contents:: Servers
   :depth: 2
   :local:
