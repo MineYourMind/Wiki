@@ -34,7 +34,7 @@ These servers are version ``1.0.10b``.
 
 Crash Landing
 ^^^^^^^^^^^^^
-*``crash.mym.li`` - Version ``1.1.2``.
+* ``crash.mym.li`` - Version ``1.1.2``.
 
 Direwolf20
 ^^^^^^^^^^
