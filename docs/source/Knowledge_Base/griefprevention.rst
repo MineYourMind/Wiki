@@ -50,3 +50,4 @@ Fakeplayers
 * [FakeThaumcraftBore]
 * [[BuildCraft]]
 * [SFM_Player]
+* [ThaumcraftTablet]
