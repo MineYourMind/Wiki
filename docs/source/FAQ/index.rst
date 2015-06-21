@@ -185,3 +185,8 @@ Create a ticket requires a forum account which you can create `here <https://min
 How do I build a nether portal?
 ----------------------------------------
 See :ref:`Multiplex Nether Portal Tutorial <ref-nether-portal>`
+
+What is a Standalone server?
+----------------------------------------
+
+A Standalone server is one that has a seperate inventory and chat from the other servers of the same pack.
