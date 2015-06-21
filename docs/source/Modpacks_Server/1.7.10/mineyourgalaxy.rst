@@ -1,8 +1,0 @@
-MineYourGalaxy (MyM)
-====================
-
-Concept
--------
-
-Mods
-----
