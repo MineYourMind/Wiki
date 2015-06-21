@@ -117,3 +117,4 @@ Third Party
 - `Regrowth <http://www.feed-the-beast.com/modpacks/Regrowth>`_, thephoenixlodge
 - `SkyFactory <https://www.atlauncher.com/pack/SkyFactory>`_, Bacon_Donut
 - `The Dark Trilogy <https://feedthebeast.atlassian.net/wiki/display/PML/The+Dark+Trilogy>`_, tfox83 & Gideonseymour
+- `Horizons: Daybreaker <http://www.feed-the-beast.com/modpacks/FTBHorizonsII>`_, FTB-Team
