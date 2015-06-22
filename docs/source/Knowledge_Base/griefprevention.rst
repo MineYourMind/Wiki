@@ -51,3 +51,4 @@ Fakeplayers
 * [[BuildCraft]]
 * [SFM_Player]
 * [ThaumcraftTablet]
+* [Mekanism]
