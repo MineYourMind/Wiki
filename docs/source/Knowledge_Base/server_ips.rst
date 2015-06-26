@@ -36,12 +36,24 @@ Crash Landing
 ^^^^^^^^^^^^^
 * ``crash.mym.li`` - Version ``1.1.2``.
 
+Departed
+^^^^^^^^
+* ``departed.mym.li`` - Version ``1.1.1``.
+
 Direwolf20
 ^^^^^^^^^^
 These servers are version ``1.4.1``.
 
 * ``direwolf.mym.li`` 
 * ``direwolf2.mym.li``
+
+Horizons Daybreaker
+^^^^^^^^^^^^^^^^^^^
+* ``horizons.mym.li`` - Version ``1.0.2``.
+
+Hubris
+^^^^^^
+* ``hubris.mym.li`` - Version ``1.4.1``.
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
