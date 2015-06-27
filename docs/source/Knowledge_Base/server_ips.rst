@@ -32,6 +32,11 @@ These servers are version ``1.0.10b``.
 * ``bteam2.mym.li``
 * ``bteam3.mym.li`` - This is a :ref:`standalone` server!
 
+Cloud 9
+^^^^^^^
+
+* ``cloud9.mym.li`` - Version ``1.0.0``.
+
 Crash Landing
 ^^^^^^^^^^^^^
 * ``crash.mym.li`` - Version ``1.1.2``.
@@ -90,3 +95,8 @@ SkyFactory 2
 The Dark Trilogy
 ^^^^^^^^^^^^^^^^
 * ``trilogy.mym.li`` - Version ``1.1.1``
+
+Vanilla Plus
+^^^^^^^^^^^^
+
+* ``vanilla-plus.mym.li``
