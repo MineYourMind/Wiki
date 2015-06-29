@@ -16,25 +16,6 @@ Why?
 F.A.Q.
 ======
 
-How to change the save location
--------------------------------
-
-1. Create a new ``text document``.
-2. Include the following code in to the text document:
-
-.. code-block:: none
-
-   SET sPath=%appdata%
-   SET AppData=[Location]
-   MyM-Launcher.exe
-   SETAppdata=%sPath%
-   
-3. Change [Location] to your custom directory (For example: ``D:\Program Files (x86)\MyMLauncher``).
-4. Save the document as ``MyM-Launcher.bat`` in the same directory as the ``MyM-Launcher.exe``.
-5. Run the ``MyM-Launcher.bat`` to download and start the modpacks.
-
------------
-
 REI Minimap migration
 ---------------------
 These are the steps to migrate the REI's waypoints from FTB Launcher to the MYM Launcher.
@@ -65,6 +46,8 @@ Known issues
 Mac OS X
 ---------
 
+Not required since 4.3 unless the install location of java was modified.
+
 Mac OS X is shipping the java version 6 and even if 7 or 8 is installed it still prefers java 6. Due to this you will need to tell the launcher where to find the newer java version's in order to be able to enjoy the modpacks which require java 7 or newer.
 
 1. Make sure you have Java 7 or 8 installed (Mac only ships with Java 6 by default)
@@ -80,11 +63,19 @@ Mac OS X is shipping the java version 6 and even if 7 or 8 is installed it still
 Planned
 =======
 
-* optional install location
-* per modpack icons
-* new ui design
-* auto retry failed downloads
-* reuse valid sessions
-* new newspage design
 * bootstrapper for auto-updates
+* reuse valid sessions
+* bright design (as alternative to the dark one)
+
+Implemented
+===========
+
+* new ui design
+* search bar
+* per modpack icons
+* new newspage design
+* optional install location
+* auto retry failed downloads
 * warn about java 6 incompatibility with some modpacks
+* custom java installation detection on mac
+* improved (auto) java ram settings for 32 bit systems
