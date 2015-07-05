@@ -18,7 +18,7 @@ These servers run version ``3.1.1``. And are all :ref:`standalone`
 
 Agrarian Skies +
 ^^^^^^^^^^^^^^^^
-* ``agrarain-plus.mym.li`` - This is a custom pack requiring the `MyM launcher <http://mineyourmind.net/#second_section>`_ which only ships the correct version. And is bases on Agrarian skies from JadedCat.
+* ``agrarain-plus.mym.li`` - This is a custom pack requiring the `MyM launcher <http://mineyourmind.net/#second_section>`_ which only ships the correct version. And is based on Agrarian skies from JadedCat.
 
 Agrarian Skies 2 (1.7.10 Version)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -66,13 +66,11 @@ Galactic Science
 
 Infinity
 ^^^^^^^^
-These servers are version ``1.5.1``.
+These servers are version ``1.7.0``.
 .. note:: Infinity 1 - 4 all share inventories!
 
 * ``infinity.mym.li``
 * ``infinity2.mym.li``
-* ``infinity3.mym.li``
-* ``infinity4.mym.li``
 * ``infinity5.mym.li`` - This Is a :ref:`Standalone` Server! 
 
 Pixelmon
