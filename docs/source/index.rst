@@ -16,6 +16,7 @@ Contents:
    Knowledge_Base/index
    Performance/index
    Modpacks_Server/index
+   Server_Ips/index
    Launcher/index
    Credits/index
 
