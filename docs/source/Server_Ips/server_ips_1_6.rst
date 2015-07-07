@@ -1,6 +1,6 @@
-===========
-Server Ip's
-===========
+=================
+Server Ip's 1.6.4
+=================
 .. note:: The ``mym.li`` can be swapped for ``mineyourmind.net``
 .. contents:: Servers
   :depth: 2
