@@ -20,10 +20,6 @@ Agrarian Skies +
 ^^^^^^^^^^^^^^^^
 * ``agrarain-plus.mym.li`` - This is a custom pack requiring the `MyM launcher <http://mineyourmind.net/#second_section>`_ which only ships the correct version. And is based on Agrarian skies from JadedCat.
 
-Agrarian Skies 2 (1.7.10 Version)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* ``agrarianskies2.mym.li`` - Version ``1.1.5``.
-
 Bteam
 ^^^^^
 These servers are version ``1.0.10b``.
