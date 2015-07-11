@@ -57,11 +57,6 @@ Regrowth
 ^^^^^^^^
 * ``regrowth.mym.li`` - Version ``0.7.4``.
 
-SkyBlock
-^^^^^^^^
-.. note:: You can use any Minecraft version from 1.8 through to 1.8.6!
-* ``skyblock.mym.li`` - Version ``1.8``
-
 SkyFactory 2
 ^^^^^^^^^^^^
 * ``skyfactory.mym.li`` - Version ``2.4``.
