@@ -6,24 +6,22 @@ Server Ip's 1.7 +
   :depth: 2
   :local:
 
-
+Hub
+^^^
+.. note:: You can use any Minecraft 1.7 and 1.8 Version
+* ``hub.mym.li`` - Version ``1.7``
 
 Agrarian Skies 2 (1.7.10 Version)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* ``agrarianskies2.mym.li`` - Version ``1.1.5``.
+* ``agrarianskies2.mym.li`` - Version ``1.1.8``.
 
 Cloud 9
 ^^^^^^^
-
 * ``cloud9.mym.li`` - Version ``1.0.0``.
-
-Departed
-^^^^^^^^
-* ``departed.mym.li`` - Version ``1.1.1``.
 
 Direwolf20
 ^^^^^^^^^^
-These servers are version ``1.4.1``.
+These servers are version ``1.5.0``.
 
 * ``direwolf.mym.li`` 
 * ``direwolf2.mym.li``
@@ -38,11 +36,11 @@ Hubris
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
-* Ip can be found using the `MyM launcher <http://mineyourmind.net/#second_section>`_ - Version ``1.07``.
+* Ip can be found using the `MyM launcher <http://mineyourmind.net/#second_section>`_ - Version ``1.3.1``.
 
 Infinity
 ^^^^^^^^
-These servers are version ``1.7.0``.
+These servers are version ``1.8.2``.
 .. note:: Infinity 1 - 4 all share inventories!
 
 * ``infinity.mym.li``
@@ -67,5 +65,4 @@ The Dark Trilogy
 
 Vanilla Plus
 ^^^^^^^^^^^^
-
 * ``vanilla-plus.mym.li`` - Version ``1.0``.

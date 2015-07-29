@@ -6,6 +6,10 @@ Server Ip's 1.8 +
   :depth: 2
   :local:
 
+Hub
+^^^
+.. note:: You can use any Minecraft 1.7 and 1.8 Version
+* ``hub.mym.li`` - Version ``1.7``
 
 SkyBlock
 ^^^^^^^^

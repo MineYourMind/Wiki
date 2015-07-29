@@ -18,7 +18,7 @@ These servers run version ``3.1.1``. And are all :ref:`standalone`
 
 Agrarian Skies +
 ^^^^^^^^^^^^^^^^
-* ``agrarain-plus.mym.li`` - This is a custom pack requiring the `MyM launcher <http://mineyourmind.net/#second_section>`_ which only ships the correct version. And is based on Agrarian skies from JadedCat.
+* ``agrarain-plus.mym.li`` - This is a custom pack requiring the `MyM launcher <http://mineyourmind.net/#second_section>`_ which only ships the correct version. And is based on Agrarian Skies from JadedCat.
 
 Bteam
 ^^^^^
