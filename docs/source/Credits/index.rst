@@ -27,15 +27,16 @@ Overall
 - `ItemPhysic <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic-1-1-0-more-realtistic-items-stone>`_, CreativeMD
 - `InGameInfoXML <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods>`_, Lunatrius
 
-================
+
+==============
 Galactic Science
-================
+==============
 - `Treecapitator <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281180-daftpvfs-mods-treecapitator-crystalwing>`_, bspkrs&DaftPVF 
 - `4Space <mattparks5855.com>`_, mattparks5855
 - `Armourer's Workshop <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2309193-wip-alpha-armourers-workshop-weapon-armour-skins>`_, RiskyKen
 - `Carpenter's Blocks <http://www.carpentersblocks.com/>`_, 
 - `ChickenChunks <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods>`_, ChickenBones
-- `Chisel <http://minecraft.curseforge.com/mc-mods/225236-chisel-2>`_, AUTOMATIC_MAIDEN
+- `Chisel 2 <http://minecraft.curseforge.com/mc-mods/225236-chisel-2>`_, TheCricket26
 - `DimStorage <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104639-dimstorage>`_, Gaarnik
 - `EnderIO <http://enderio.com/>`_, CrazyPants
 - `Ex Astris <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2210492-ex-astris-1-12-project-closed>`_, LoveHoly
@@ -51,7 +52,7 @@ Galactic Science
 - `NEI Addons <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-2-now-supports-botany-flower>`_, bdew
 - `NotEnoughItems <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods>`_, Chickenbones
 - `Nuclearcraft <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2187231-nuclearcraft-mod-rf-reactors-nuclear-power>`_, TLJGames
-- `OpenAutomation <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093100-sandras-mods-openautomation-now-with-lasers>`_, gjgfuj 
+- `OpenAutomation <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093100-sandras-mods-openautomation-now-with-lasers>`_, gjgfuj
 - `OpenBlocks <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291207-openblocks-1-2-8>`_, OpenMods Team
 - `OpenComputers <http://www.minecraftforum.net/topic/2201440-opencomputers-v127/>`_, Sangar
 - `Progressive Automation <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation-upgradeable-machines>`_, Vanhal
@@ -64,6 +65,16 @@ Galactic Science
 - `Super Massive Techn <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2105190-super-massive-tech-harness-the-power-of-the-stars>`_, Tterrag
 - `WAILA <http://minecraft.curseforge.com/members/ProfMobius/projects>`_, ProfMobius
 - `HQM <http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode>`_, 
+- `NoTimeFix <https://github.com/CannibalVox/NoTimeFix/>`_, CannibalVox
+- `ResourceLoader <http://minecraft.curseforge.com/mc-mods/226447-resource-loader>`_. Lumien
+- `SGCraft <http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/SGCraft/>`_, Greg
+- `Netherless <http://minecraft.curseforge.com/mc-mods/226117-netherless>`_, hilburn
+- `The Dalek Mod <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286606-the-dalek-mod-updated-10-05-15>`_, 1WTC
+- `Blood Magic <https://github.com/WayofTime/BloodMagic>`_, WayofTime
+- `Tardis Mod <http://www.curse.com/mc-mods/minecraft/230170-tardis-mod>`_, ShaneDarkholme
+- `INpureCore <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods>`_, denoflions
+- `CustomMainMenu <http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu>`_, Lumien
+
 
 ========
 Pixelmon
