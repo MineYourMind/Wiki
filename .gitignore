@@ -8,3 +8,6 @@ docs/Gruntfile.js
 docs/README.md
 docs/package.json
 docs/assets/
+docs/make.bat
+docs/Makefile
+docs/requirements.txt
