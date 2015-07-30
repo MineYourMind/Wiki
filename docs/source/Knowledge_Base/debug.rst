@@ -22,7 +22,7 @@ To profile your client performance do the following:
 4. Click on the first button (``Export to...``) and save the file
 5. Zip the exported file and send it us
 
-**Thread**
+**Threads**
 
 To find out what minecraft is doing at the moment do the following:
 
