@@ -33,6 +33,6 @@ To find out what minecraft is doing at the moment do the following:
 5. Send the link to us
 
 Connection
-======
+==========
 Todo
 
