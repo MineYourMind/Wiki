@@ -19,6 +19,10 @@ Cloud 9
 ^^^^^^^
 * ``cloud9.mym.li`` - Version ``1.0.0``.
 
+Crundee Craft
+^^^^^^^^^^^^^
+* ``crundee.mym.li`` - Version 1.0.6
+
 Direwolf20
 ^^^^^^^^^^
 These servers are version ``1.5.0``.
@@ -32,7 +36,7 @@ Horizons Daybreaker
 
 Hubris
 ^^^^^^
-* ``hubris.mym.li`` - Version ``1.4.1``.
+* ``hubris.mym.li`` - Version ``1.5.1``.
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
@@ -41,7 +45,7 @@ Galactic Science
 Infinity
 ^^^^^^^^
 These servers are version ``1.8.2``.
-.. note:: Infinity 1 - 4 all share inventories!
+.. note:: Infinity 1 - 2 share inventories!
 
 * ``infinity.mym.li``
 * ``infinity2.mym.li``
