@@ -7,6 +7,7 @@ Plugins (bukkit)
 
 ProtectEx
 ---------
+ProtectEx is an anti-griefing plugin designed to protect Claims and Restricted Areas from unauthorized use, building, and use of certain tools and inventory items.
 
 Backup
 ------
