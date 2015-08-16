@@ -21,11 +21,11 @@ Cloud 9
 
 Crundee Craft
 ^^^^^^^^^^^^^
-* ``crundee.mym.li`` - Version 1.0.6
+* ``crundee.mym.li`` - Version 1.0.9
 
 Direwolf20
 ^^^^^^^^^^
-These servers are version ``1.5.0``.
+These servers are version ``1.6.1``.
 
 * ``direwolf.mym.li`` 
 * ``direwolf2.mym.li``
@@ -44,7 +44,7 @@ Galactic Science
 
 Infinity
 ^^^^^^^^
-These servers are version ``1.8.2``.
+These servers are version ``1.10.1``.
 .. note:: Infinity 1 - 2 share inventories!
 
 * ``infinity.mym.li``
