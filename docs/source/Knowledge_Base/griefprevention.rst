@@ -1,3 +1,4 @@
+.. _ref-griefprevention:
 +++++++++++++++++++++++++++++++++++
 GriefPrevention (protect your land)
 +++++++++++++++++++++++++++++++++++
