@@ -29,7 +29,7 @@ Chat
 
 Claims
 ======
-See :ref:`ref-griefprevention-tutorial` for more information.
+See :ref:`ref-griefprevention` for more information.
 
 Island
 ======
