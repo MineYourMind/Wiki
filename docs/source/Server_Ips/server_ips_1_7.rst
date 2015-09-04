@@ -21,7 +21,7 @@ Cloud 9
 
 Crundee Craft
 ^^^^^^^^^^^^^
-* ``crundee.mym.li`` - Version 1.0.9
+* ``crundee.mym.li`` - Version 1.0.10
 
 Direwolf20
 ^^^^^^^^^^
@@ -45,6 +45,7 @@ Galactic Science
 Infinity
 ^^^^^^^^
 These servers are version ``1.10.1``.
+
 .. note:: Infinity 1 - 2 share inventories!
 
 * ``infinity.mym.li``
@@ -66,6 +67,10 @@ SkyFactory 2
 The Dark Trilogy
 ^^^^^^^^^^^^^^^^
 * ``trilogy.mym.li`` - Version ``1.1.1``.
+
+The Ferret Business
+^^^^^^^^^^^^^^^^^^^
+* ``ferret.mym.li`` - Version ``0.1.0``.
 
 Vanilla Plus
 ^^^^^^^^^^^^
