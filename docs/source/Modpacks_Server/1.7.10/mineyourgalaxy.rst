@@ -6,3 +6,94 @@ Concept
 
 Mods
 ----
+- `AOBD <http://minecraft.curseforge.com/mc-mods/221863-another-one-bites-the-dust>`_, ganymedes01
+- `AppleCore <http://minecraft.curseforge.com/mc-mods/224472-applecore>`_, squeek502
+- `AppliedEnergistics2 <http://minecraft.curseforge.com/mc-mods/223794-applied-energistics-2>`_, AlgorithmX2
+- `BiblioCraft <http://minecraft.curseforge.com/mc-mods/228027-bibliocraft>`_, Nuchaz
+- `BiblioCraft [BiomesOPlenty Edition] <http://minecraft.curseforge.com/mc-mods/228362-bibliocraft-bibliowoods-biomes-oplenty-edition>`_, Nuchaz
+- `BigReactors <http://www.big-reactors.com/#/>`_, ErogenousBeef
+- `Blood Magic <https://github.com/WayofTime/BloodMagic>`_, WayofTime
+- `Botania <http://minecraft.curseforge.com/mc-mods/225643-botania>`_, Vazkii
+- `Buildcraft <http://minecraft.curseforge.com/mc-mods/61811-buildcraft>`_, CovertJaguar
+- `Carpenter's Blocks <http://www.carpentersblocks.com/>`_, Mineshopper
+- `Chisel 2 <http://minecraft.curseforge.com/mc-mods/225236-chisel-2>`_, TheCricket26
+- `ChiselTones <http://minecraft.curseforge.com/mc-mods/228004-chiseltones>`_, TehNut
+- `CoFHCore <http://minecraft.curseforge.com/mc-mods/69162-cofhcore>`_, TeamCoFH
+- `CoFHLib <http://minecraft.curseforge.com/mc-mods/220333-cofhlib>`_, TeamCoFH
+- `CodeChickenCore <http://minecraft.curseforge.com/mc-mods/222213-codechickencore>`_, chicken_bones
+- `ComputerCraft <http://minecraft.curseforge.com/mc-mods/67504-computercraft>`_, dan200
+- `Dark Menagerie <http://minecraft.curseforge.com/mc-mods/224039-dark-menagerie>`_, RWTema
+- `DeadlyWorld <http://minecraft.curseforge.com/mc-mods/60098-deadly-world>`_, FatherToast
+- `DeathCounter <http://minecraft.curseforge.com/mc-mods/229068-death-counter>`_, iChun
+- `Dimensional Anchor <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers>`_, immibis
+- `Ender Zoo <http://enderio.com/>`_, CrazyPants
+- `EnderIO <http://enderio.com/>`_, CrazyPants
+- `EnderStorage <http://minecraft.curseforge.com/mc-mods/229306-ender-storage>`_, chicken_bones
+- `EnderTech <http://minecraft.curseforge.com/mc-mods/223428-endertech>`_, voxelcarrot
+- `EnderUtilities <http://minecraft.curseforge.com/mc-mods/224320-ender-utilities>`_, masa
+- `Extra Utilities <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k>`_, RWThema
+- `ExtraCells2 <http://minecraft.curseforge.com/mc-mods/229218-extracells2>`_, DrummerMC
+- `Forbidden Magic <http://minecraft.curseforge.com/mc-mods/224237-forbidden-magic>`_, SpitefulFox
+- `Forestry <http://minecraft.curseforge.com/mc-mods/59751-forestry>`_, SirSengir
+- `Galacticraft <http://micdoodle8.com/mods/galacticraft>`_, Micdoodle8
+- `GalacticraftPlanets <http://micdoodle8.com/mods/galacticraft>`_, Micdoodle8
+- `Gendustry <http://minecraft.curseforge.com/mc-mods/70492-gendustry>`_, bdew
+- `Growthcraft <http://minecraft.curseforge.com/mc-mods/60941-growthcraft>`_, Gwafu
+- `GuideAPI <http://minecraft.curseforge.com/mc-mods/228832-guide-api>`_, TehNut
+- `HardcoreEnderExpansion <http://minecraft.curseforge.com/mc-mods/228015-hardcore-ender-expansion>`_, chylex
+- `IndustrialCraft2 <http://wiki.industrial-craft.net/index.php?title=Main_Page>`_, Player
+- `InfernalMobs <http://minecraft.curseforge.com/mc-mods/227875-atomicstrykers-infernal-mobs>`_, AtomicStryker
+- `InventoryTweaks <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-59-march-31>`_, Kobata
+- `IronChests <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0>`_, cpw
+- `JABBA <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292942-1-7-2-1-6-4-jabba-1-1-3-just-another-better>`_, ProfMobius
+- `JourneyMap <http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274>`_, techbrew
+- `LiquidXP <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers>`_, immibis
+- `Logistic Pipes <http://minecraft.curseforge.com/mc-mods/232838-logistics-pipes>`_, RS485
+- `Magic Bees <http://minecraft.curseforge.com/mc-mods/65764-magic-bees>`_, MysteriousAges
+- `Mantle <http://minecraft.curseforge.com/mc-mods/74924-mantle>`_, mDiyo
+- `MineFactory Reloaded <http://minecraft.curseforge.com/mc-mods/66672-minefactory-reloaded>`_, skyboy026
+- `MineTweaker3 <http://minecraft.curseforge.com/mc-mods/224029-minetweaker3>`_, StanH
+- `ModTweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-5d-minetweaker-addon>`_, joshie
+- `NEI Addons <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-2-now-supports-botany-flower>`_, bdew
+- `Natura <http://minecraft.curseforge.com/mc-mods/74120-natura>`_, mDiyo
+- `NoMoreRecipeConflict <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1440404-1-1-smp-ssp-no-more-recipe-conflicts-0-3>`_, stimmedcow
+- `NotEnoughItems <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods>`_, Chickenbones
+- `OpenBlocks <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291207-openblocks-1-2-8>`_, OpenMods Team
+- `OpenComputers <http://www.minecraftforum.net/topic/2201440-opencomputers-v127/>`_, Sangar
+- `OpenPeripheral <http://openperipheral.info/>`_, Mikeemoo
+- `OreGenAnything <http://minecraft.curseforge.com/mc-mods/228893-ore-gen-anything>`_, knoxz
+- `Pams HarvestCraft <http://minecraft.curseforge.com/mc-mods/221857-pams-harvestcraft>`_, MatrexsVigil
+- `PneumaticCraft <http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft>`_, MineMaarten
+- `ProjectRed <http://projectredwiki.com/wiki/Main_Page>`_, MrTJP
+- `ProjectZulu <http://minecraft.curseforge.com/mc-mods/62986-project-zulu>`_, Crudedragos
+- `Railcraft <http://minecraft.curseforge.com/mc-mods/51195-railcraft>`_, CovertJaguar
+- `RandomThings <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-0-remake>`_, lumien
+- `Redstone Arsenal <http://minecraft.curseforge.com/mc-mods/70631-redstone-arsenal>`_, TeamCoFH
+- `ReptileMod <http://minecraft.curseforge.com/mc-mods/77994-reptilemod>`_, crackedEgg
+- `ResourceLoader <http://minecraft.curseforge.com/mc-mods/226447-resource-loader>`_, Lumien
+- `RougeLike Dungeons <http://minecraft.curseforge.com/mc-mods/221585-roguelike-dungeons>`_, Greymerk
+- `Ruins <http://minecraft.curseforge.com/mc-mods/227873-ruins-structure-spawning-system>`_, AtomicStryker
+- `Sanguimancy <http://minecraft.curseforge.com/mc-mods/223722-sanguimancy>`_, Tombenpotter
+- `SimplyJetpacks <http://minecraft.curseforge.com/mc-mods/79325-simply-jetpacks>`_, Tonius
+- `Spice Of Life <http://minecraft.curseforge.com/mc-mods/220811-the-spice-of-life>`_, squeek502
+- `Steves Factory Manager <http://minecraft.curseforge.com/mc-mods/228626-steves-factory-manager>`_, Vswe
+- `StevesCarts2 <http://minecraft.curseforge.com/mc-mods/228625-steves-carts-2>`_, Vswe
+- `Sync <http://minecraft.curseforge.com/mc-mods/229090-sync>`_, iChun
+- `Thaumcraft <http://minecraft.curseforge.com/mc-mods/223628-thaumcraft>`_, azanor
+- `Thaumcraft NeiPlugin <http://minecraft.curseforge.com/mc-mods/225095-thaumcraft-nei-plugin>`_, DjGiannuzz
+- `ThaumicEnergistics <http://minecraft.curseforge.com/mc-mods/223666-thaumic-energistics>`_, Nividica
+- `ThaumicExploration <http://vazkii.us/mod/TX/>`_, Flaxbeard
+- `ThaumicTinkerer <http://minecraft.curseforge.com/mc-mods/75598-thaumic-tinkerer>`_, nekosune
+- `Thermal Dynamics <http://minecraft.curseforge.com/mc-mods/227443-thermal-dynamics>`_, TeamCoFH
+- `Thermal Expansion <http://minecraft.curseforge.com/mc-mods/69163-thermalexpansion>`_, TeamCoFH
+- `Thermal Foundation <http://minecraft.curseforge.com/mc-mods/222880-thermal-foundation>`_, TeamCoFH
+- `Tinkers Construct <http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct>`_, mDiyo
+- `Tinkers Mechworks <http://minecraft.curseforge.com/mc-mods/78057-tinkers-mechworks>`_, mDiyo
+- `Translocators <http://minecraft.curseforge.com/mc-mods/229318-translocators>`_, chicken_bones
+- `Utility Mobs <http://minecraft.curseforge.com/mc-mods/59983-utility-mobs>`_, FatherToast
+- `WAILA <http://minecraft.curseforge.com/members/ProfMobius/projects>`_, ProfMobius
+- `WR-CBE <http://minecraft.curseforge.com/mc-mods/229314-wr-cbe-universal>`_, chicken_bones
+- `WarpBook <http://minecraft.curseforge.com/mc-mods/71869-warp-book>`_, panicnot42
+- `Ztones <http://minecraft.curseforge.com/mc-mods/224369-ztones>`_, riciJak
+- `bdlib <http://minecraft.curseforge.com/mc-mods/70496-bdlib>`_, bdew
+- `iChunUtil <http://minecraft.curseforge.com/mc-mods/229060-ichunutil>`_, iChun
