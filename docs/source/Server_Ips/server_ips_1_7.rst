@@ -17,7 +17,7 @@ Agrarian Skies 2 (1.7.10 Version)
 
 Cloud 9
 ^^^^^^^
-* ``cloud9.mym.li`` - Version ``1.0.0``.
+* ``cloud9.mym.li`` - Version ``1.1.1``.
 
 Crundee Craft
 ^^^^^^^^^^^^^
