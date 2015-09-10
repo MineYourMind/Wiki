@@ -69,7 +69,6 @@ Mods
 - `Railcraft <http://minecraft.curseforge.com/mc-mods/51195-railcraft>`_, CovertJaguar
 - `RandomThings <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-0-remake>`_, lumien
 - `Redstone Arsenal <http://minecraft.curseforge.com/mc-mods/70631-redstone-arsenal>`_, TeamCoFH
-- `ReptileMod <http://minecraft.curseforge.com/mc-mods/77994-reptilemod>`_, crackedEgg
 - `ResourceLoader <http://minecraft.curseforge.com/mc-mods/226447-resource-loader>`_, Lumien
 - `RougeLike Dungeons <http://minecraft.curseforge.com/mc-mods/221585-roguelike-dungeons>`_, Greymerk
 - `Ruins <http://minecraft.curseforge.com/mc-mods/227873-ruins-structure-spawning-system>`_, AtomicStryker
