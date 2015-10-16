@@ -48,9 +48,10 @@ Fakeplayers
 * [CoFH]
 * [[Forestry]]
 * [ComputerCraft]
-* [FakeThaumcraftGolem]
+* FakeThaumcraftGolem
 * [FakeThaumcraftBore]
-* [[BuildCraft]]
+* [BuildCraft]
 * [SFM_Player]
 * [ThaumcraftTablet]
 * [Mekanism]
+* [EioKillera]
