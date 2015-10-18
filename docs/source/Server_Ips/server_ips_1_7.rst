@@ -58,11 +58,15 @@ Pixelmon
 
 Regrowth
 ^^^^^^^^
-* ``regrowth.mym.li`` - Version ``0.7.4``.
+* ``regrowth.mym.li`` - Version ``0.8.2``.
 
 SkyFactory 2
 ^^^^^^^^^^^^
 * ``skyfactory.mym.li`` - Version ``2.4``.
+
+Tekkit Legends
+^^^^^^^^^^^^^^
+* ``tekkit.mym.li`` - Version ``1.0.9``
 
 The Dark Trilogy
 ^^^^^^^^^^^^^^^^
@@ -70,7 +74,7 @@ The Dark Trilogy
 
 The Ferret Business
 ^^^^^^^^^^^^^^^^^^^
-* ``ferret.mym.li`` - Version ``0.1.0``.
+* ``ferret.mym.li`` - Version ``0.1.1``.
 
 Vanilla Plus
 ^^^^^^^^^^^^
