@@ -25,10 +25,9 @@ Crundee Craft
 
 Direwolf20
 ^^^^^^^^^^
-These servers are version ``1.6.1``.
+These servers are version ``1.7.0``.
 
-* ``direwolf.mym.li`` 
-* ``direwolf2.mym.li``
+* ``direwolf20-new.mym.li`` 
 
 Horizons Daybreaker
 ^^^^^^^^^^^^^^^^^^^
