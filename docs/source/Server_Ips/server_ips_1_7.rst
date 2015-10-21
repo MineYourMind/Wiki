@@ -43,7 +43,7 @@ Galactic Science
 
 Infinity
 ^^^^^^^^
-These servers are version ``1.10.1``.
+These servers are version ``1.11.2``.
 
 .. note:: Infinity 1 - 2 share inventories!
 
