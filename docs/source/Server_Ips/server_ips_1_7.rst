@@ -43,13 +43,13 @@ Galactic Science
 
 Infinity
 ^^^^^^^^
-These servers are version ``1.11.2``.
+These servers are version ``2.0.0``.
 
 .. note:: Infinity 1 - 2 share inventories!
 
-* ``infinity.mym.li``
-* ``infinity2.mym.li``
-* ``infinity5.mym.li`` - This Is a :ref:`Standalone` Server! 
+* ``infinity-new.mym.li`` - normal mode
+* ``evolved.mym.li`` - expert mode
+* ``evolved2.mym.li`` - expert mode
 
 Pixelmon
 ^^^^^^^^
