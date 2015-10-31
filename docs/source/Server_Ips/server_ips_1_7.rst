@@ -45,8 +45,6 @@ Infinity
 ^^^^^^^^
 These servers are version ``2.0.0``.
 
-.. note:: Infinity 1 - 2 share inventories!
-
 * ``infinity-new.mym.li`` - normal mode
 * ``evolved.mym.li`` - expert mode
 * ``evolved2.mym.li`` - expert mode
