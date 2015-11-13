@@ -66,10 +66,6 @@ Tekkit Legends
 ^^^^^^^^^^^^^^
 * ``tekkit.mym.li`` - Version ``1.0.9``
 
-The Dark Trilogy
-^^^^^^^^^^^^^^^^
-* ``trilogy.mym.li`` - Version ``1.1.1``.
-
 The Ferret Business
 ^^^^^^^^^^^^^^^^^^^
 * ``ferret.mym.li`` - Version ``0.1.1``.
