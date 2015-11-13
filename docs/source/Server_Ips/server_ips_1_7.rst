@@ -39,7 +39,7 @@ Hubris
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
-* IP can be found using the `MyM launcher <http://mineyourmind.net/#second_section>`_ - Version ``1.4.12``.
+* IP can be found using the `MyM launcher <http://mineyourmind.net/#second_section>`_ - Version ``always latest``.
 
 Infinity
 ^^^^^^^^
