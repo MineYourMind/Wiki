@@ -43,7 +43,7 @@ Galactic Science
 
 Infinity
 ^^^^^^^^
-These servers are version ``2.0.2``.
+These servers are version ``2.1.2``.
 
 * ``infinity-new.mym.li`` - normal mode
 * ``infinity2.mym.li`` - normal mode
