@@ -21,7 +21,7 @@ Cloud 9
 
 Crundee Craft
 ^^^^^^^^^^^^^
-* ``crundee.mym.li`` - Version 1.0.10
+* ``crundee.mym.li`` - Version ``1.0.10``.
 
 Direwolf20
 ^^^^^^^^^^
