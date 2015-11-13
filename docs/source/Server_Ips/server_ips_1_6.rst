@@ -13,8 +13,6 @@ Agrarian Skies (1.6.4 Version)
 These servers run version ``3.1.1``. And are all :ref:`standalone`
 
 * ``agrarian.mym.li``
-* ``agrarian2.mym.li``
-* ``agrarian3.mym.li``
 
 Agrarian Skies +
 ^^^^^^^^^^^^^^^^
@@ -22,11 +20,9 @@ Agrarian Skies +
 
 Bteam
 ^^^^^
-These servers are version ``1.0.10b``.
+These servers are version ``1.0.12c``.
 
 * ``bteam.mym.li``
-* ``bteam2.mym.li``
-* ``bteam3.mym.li`` - This is a :ref:`standalone` server!
 
 Crash Landing
 ^^^^^^^^^^^^^
