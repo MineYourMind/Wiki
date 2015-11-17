@@ -57,6 +57,7 @@ Pixelmon
 Regrowth
 ^^^^^^^^
 * ``regrowth.mym.li`` - Version ``0.8.4``.
+* ``regrowth2.mym.li`` - Version ``0.8.4``.
 
 SkyFactory 2
 ^^^^^^^^^^^^
