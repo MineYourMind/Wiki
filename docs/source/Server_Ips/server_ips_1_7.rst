@@ -45,7 +45,7 @@ Infinity
 ^^^^^^^^
 These servers are version ``2.1.2``.
 
-* ``infinity-new.mym.li`` - normal mode
+* ``infinity.mym.li`` - normal mode
 * ``infinity2.mym.li`` - normal mode
 * ``evolved.mym.li`` - expert mode
 * ``evolved2.mym.li`` - expert mode
