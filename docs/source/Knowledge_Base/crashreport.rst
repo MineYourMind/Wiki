@@ -47,3 +47,13 @@ ATLauncher
 4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
 5. Click on the ``Submit`` button and copy the web link.
 6. Paste the link in the forum thread/webchat/ticket.
+
+Curse Launcher
+==============
+
+1. Open the launcher.
+2. Select ``Minecraft``, and locate your pack.
+3. Right click and select ``Open folder``, then locate the ``crash-reports`` folder.
+4. Paste the contents of the latest crash-report on `Pastebin <http://pastebin.com>`_.
+5. Click on the ``Submit`` button and copy the web link.
+6. Paste the link in the forum thread/webchat/ticket.
