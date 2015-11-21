@@ -15,10 +15,6 @@ Agrarian Skies 2 (1.7.10 Version)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``agrarianskies2.mym.li`` - Version ``1.1.8``.
 
-Cloud 9
-^^^^^^^
-* ``cloud9.mym.li`` - Version ``1.1.1``.
-
 Crundee Craft
 ^^^^^^^^^^^^^
 * ``crundee.mym.li`` - Version ``1.0.10``.
@@ -28,14 +24,6 @@ Direwolf20
 These servers are version ``1.7.0``.
 
 * ``direwolf20-new.mym.li`` 
-
-Horizons Daybreaker
-^^^^^^^^^^^^^^^^^^^
-* ``horizons.mym.li`` - Version ``1.0.2``.
-
-Hubris
-^^^^^^
-* ``hubris.mym.li`` - Version ``1.5.1``.
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
