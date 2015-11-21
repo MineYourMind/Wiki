@@ -23,7 +23,7 @@ Direwolf20
 ^^^^^^^^^^
 These servers are version ``1.7.0``.
 
-* ``direwolf20-new.mym.li`` 
+* ``direwolf20.mym.li`` 
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
