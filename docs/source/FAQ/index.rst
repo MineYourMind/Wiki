@@ -63,10 +63,28 @@ Do I get a special rank if im a Streamer/Youtuber?
 Currently we don't have any special ranks in place.
 
 
+What are tokens and how do I get them?
+-------------------------------------
+
+You get tokens by voting. For further information use /vote ingame. Once you have tokens, you can change them to ClaimBlocks, MyMs, tickets and random items by using /shop.
+
+
 What are MyM's, what can I use them for and how do I get them?
 -------------------------------------------------------------
 
-MyM is the ingame currency used for the market, player to player trading, buying/selling claimblocks... MyM's them self are only generated as vote rewards but you can also make quite a lot from trading with other players.
+MyM is the ingame currency used for the market, player to player trading, buying/selling claimblocks... You can change tokens into MyM, but you can also make quite a lot from trading with other players.
+
+
+What are tickets, what can I use them for and how do I get them?
+----------------------------------------------------------------
+
+Tickets are used to keep your chunk loaders active. All 1.7. servers introduce online (iron block) and offline (gold block) chunk loaders. The chunk loaders use up a certain amount of tickets per minute, dependent on the size of the area you want to keep loaded. You get tickets by changing tokens into them in the /shop.
+
+
+Tokens? MyMs? Tickets? I am confused, do you have more information?
+------------------------------------------------------------------
+
+For a more detailed explanation of the different things you can get from voting, please have a look at `this thread <https://mineyourmind.net/forum/threads/figuring-out-the-way-new-voting-tickets-and-tokens-work.13054/>`_.
 
 
 What protection does this server use?
@@ -93,10 +111,10 @@ Are there any warnings prior to the reset?
 Warnings are given around 5-7 days before with automated ingame announcements. If the reset only affects the End the warning might not be so long ahead due to the nature of the end not containing big/expensive setups and the bigger urge of more frequent resets.
 
 
-How do I get more Claimblocks/MyM's?
+How do I get more Claimblocks?
 ------------------------------------
 
-Claimblocks and MyM's are given as vote rewards. Use ``/vote`` and ``/vote redeem`` ingame for more information. You can also make MyM's by trading with players either person to person or the market ``/market``. MyM's can be used to buy claimblocks at the shop NPC or via ``/shop``.
+You can change MyMs and tokens into claim blocks. You get tokens from voting, which you can then change into claimblocks in the ``/shop``. You can also change MyMs into claimblocks.
 
 
 Is there a limit to the amount of Claimblocks you can have?
