@@ -63,10 +63,28 @@ Do I get a special rank if im a Streamer/Youtuber?
 Currently we don't have any special ranks in place.
 
 
-What are MyM's, what can I use them for and how do I get them?
--------------------------------------------------------------
+What are tokens and how do I get them?
+--------------------------------------
 
-MyM is the ingame currency used for the market, player to player trading, buying/selling claimblocks... MyM's them self are only generated as vote rewards but you can also make quite a lot from trading with other players.
+You get tokens by voting. For further information use /vote ingame. Once you have tokens, you can change them to Claimblocks, MyMs, chunk loader tickets and random items by using /shop.
+
+
+What are MyM's, what can I use them for and how do I get them?
+--------------------------------------------------------------
+
+MyM is the ingame currency used for the market, player to player trading, buying/selling Claimblocks... You can change tokens into MyM, but you can also make quite a lot from trading with other players.
+
+
+What are chunk loader tickets, what can I use them for and how do I get them?
+-----------------------------------------------------------------------------
+
+Chunk loader tickets are used to keep your chunk loaders active. All 1.7. servers introduce online (iron block) and offline (gold block) chunk loaders. The chunk loaders use up a certain amount of chunk loader tickets per minute, dependent on the size of the area you want to keep loaded. You get chunk loader tickets by changing tokens into them in the /shop.
+
+
+Tokens? MyMs? Tickets? I am confused, do you have more information?
+------------------------------------------------------------------
+
+For a more detailed explanation of the different things you can get from voting, please have a look at `this thread <https://mineyourmind.net/forum/threads/figuring-out-the-way-new-voting-tickets-and-tokens-work.13054/>`_.
 
 
 What protection does this server use?
@@ -93,10 +111,10 @@ Are there any warnings prior to the reset?
 Warnings are given around 5-7 days before with automated ingame announcements. If the reset only affects the End the warning might not be so long ahead due to the nature of the end not containing big/expensive setups and the bigger urge of more frequent resets.
 
 
-How do I get more Claimblocks/MyM's?
-------------------------------------
+How do I get more Claimblocks?
+------------------------------
 
-Claimblocks and MyM's are given as vote rewards. Use ``/vote`` and ``/vote redeem`` ingame for more information. You can also make MyM's by trading with players either person to person or the market ``/market``. MyM's can be used to buy claimblocks at the shop NPC or via ``/shop``.
+You can change MyMs and tokens into Claimblocks. You get tokens from voting, which you can then change into Claimblocks (or MyMs) in the ``/shop``. On some servers you can also get MyMs from trading, which you can change then into Claimblocks.
 
 
 Is there a limit to the amount of Claimblocks you can have?
@@ -162,7 +180,7 @@ Are you guys (staff) playing legit, or use creative for own sake?
 Even instant teleportation is not allowed to be used for personal gain. All the extra permissions coming with the staff rank are only allowed for staff work, not for personal. We enforce this strict, if you are seeing someone not playing legit `please report <https://mineyourmind.net/forum/forums/complaints-against-players-and-staff.186/>`_.
 
 
-Can I transfer claim blocks to a friend?
+Can I transfer Claimblocks to a friend?
 ----------------------------------------
 
 Claimblocks can be transfered by selling those for MyM's at the Shop NPC or via ``/shop`` and transfering those to your friend ``/money send``.
