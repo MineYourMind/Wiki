@@ -64,21 +64,21 @@ Currently we don't have any special ranks in place.
 
 
 What are tokens and how do I get them?
--------------------------------------
+--------------------------------------
 
-You get tokens by voting. For further information use /vote ingame. Once you have tokens, you can change them to ClaimBlocks, MyMs, tickets and random items by using /shop.
+You get tokens by voting. For further information use /vote ingame. Once you have tokens, you can change them to Claimblocks, MyMs, chunk loader tickets and random items by using /shop.
 
 
 What are MyM's, what can I use them for and how do I get them?
--------------------------------------------------------------
+--------------------------------------------------------------
 
-MyM is the ingame currency used for the market, player to player trading, buying/selling claimblocks... You can change tokens into MyM, but you can also make quite a lot from trading with other players.
+MyM is the ingame currency used for the market, player to player trading, buying/selling Claimblocks... You can change tokens into MyM, but you can also make quite a lot from trading with other players.
 
 
-What are tickets, what can I use them for and how do I get them?
-----------------------------------------------------------------
+What are chunk loader tickets, what can I use them for and how do I get them?
+-----------------------------------------------------------------------------
 
-Tickets are used to keep your chunk loaders active. All 1.7. servers introduce online (iron block) and offline (gold block) chunk loaders. The chunk loaders use up a certain amount of tickets per minute, dependent on the size of the area you want to keep loaded. You get tickets by changing tokens into them in the /shop.
+Chunk loader tickets are used to keep your chunk loaders active. All 1.7. servers introduce online (iron block) and offline (gold block) chunk loaders. The chunk loaders use up a certain amount of chunk loader tickets per minute, dependent on the size of the area you want to keep loaded. You get chunk loader tickets by changing tokens into them in the /shop.
 
 
 Tokens? MyMs? Tickets? I am confused, do you have more information?
@@ -112,9 +112,9 @@ Warnings are given around 5-7 days before with automated ingame announcements. I
 
 
 How do I get more Claimblocks?
-------------------------------------
+------------------------------
 
-You can change MyMs and tokens into claim blocks. You get tokens from voting, which you can then change into claimblocks in the ``/shop``. You can also change MyMs into claimblocks.
+You can change MyMs and tokens into Claimblocks. You get tokens from voting, which you can then change into Claimblocks (or MyMs) in the ``/shop``. On some servers you can also get MyMs from trading, which you can change then into Claimblocks.
 
 
 Is there a limit to the amount of Claimblocks you can have?
@@ -180,7 +180,7 @@ Are you guys (staff) playing legit, or use creative for own sake?
 Even instant teleportation is not allowed to be used for personal gain. All the extra permissions coming with the staff rank are only allowed for staff work, not for personal. We enforce this strict, if you are seeing someone not playing legit `please report <https://mineyourmind.net/forum/forums/complaints-against-players-and-staff.186/>`_.
 
 
-Can I transfer claim blocks to a friend?
+Can I transfer Claimblocks to a friend?
 ----------------------------------------
 
 Claimblocks can be transfered by selling those for MyM's at the Shop NPC or via ``/shop`` and transfering those to your friend ``/money send``.
