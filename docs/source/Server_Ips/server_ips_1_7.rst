@@ -35,8 +35,10 @@ These servers are version ``2.1.2``.
 
 * ``infinity.mym.li`` - normal mode
 * ``infinity2.mym.li`` - normal mode
+* ``infinity3.mym.li`` - normal mode - latest - stand alone
 * ``evolved.mym.li`` - expert mode
 * ``evolved2.mym.li`` - expert mode
+* ``evolved3.mym.li`` - expert mode - latest - stand alone
 
 Pixelmon
 ^^^^^^^^
