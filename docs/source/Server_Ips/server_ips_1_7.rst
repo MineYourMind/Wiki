@@ -17,7 +17,7 @@ Agrarian Skies 2 (1.7.10 Version)
 
 Crundee Craft
 ^^^^^^^^^^^^^
-* ``crundee.mym.li`` - Version ``1.0.10``.
+* ``crundee.mym.li`` - Version ``1.0.17``.
 
 Direwolf20
 ^^^^^^^^^^
