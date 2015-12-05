@@ -13,7 +13,7 @@ Hub
 
 Agrarian Skies 2 (1.7.10 Version)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* ``as2.mym.li`` - Version ``1.1.8``.
+* ``as2.mym.li`` - Version ``1.1.14``.
 
 Crundee Craft
 ^^^^^^^^^^^^^
