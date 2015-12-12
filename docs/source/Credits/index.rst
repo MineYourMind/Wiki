@@ -131,3 +131,4 @@ Third Party
 - `Horizons: Daybreaker <http://www.feed-the-beast.com/modpacks/FTBHorizonsII>`_, FTB-Team
 - `Vanilla + <http://www.feed-the-beast.com/modpacks/FTBVanillaPlus>`_, FTB-Team
 - `Cloud 9 <http://www.feed-the-beast.com/modpacks/FTBPresentsCloud9>`_, FTB-Team
+- `BeeHappy <http://forum.feed-the-beast.com/threads/1-7-10-205-quests-listed-beehappy-a-quest-based-map-about-bees.97329/>`_, jtmnf
