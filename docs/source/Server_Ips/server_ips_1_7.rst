@@ -25,7 +25,7 @@ Crundee Craft
 
 Direwolf20
 ^^^^^^^^^^
-These servers are version ``1.7.0``.
+These servers are version ``1.9.0``.
 
 * ``direwolf20.mym.li`` 
 
@@ -50,8 +50,8 @@ Pixelmon
 
 Regrowth
 ^^^^^^^^
-* ``regrowth.mym.li`` - Version ``0.8.4``.
-* ``regrowth2.mym.li`` - Version ``0.8.4``.
+* ``regrowth.mym.li`` - Version ``0.8.6``.
+* ``regrowth2.mym.li`` - Version ``0.8.6``.
 
 SkyFactory 2
 ^^^^^^^^^^^^
