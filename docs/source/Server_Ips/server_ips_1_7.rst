@@ -21,7 +21,7 @@ BeeHappy
 
 Crundee Craft
 ^^^^^^^^^^^^^
-* ``crundee.mym.li`` - Version ``1.0.17``.
+* ``crundee.mym.li`` - Version ``1.0.18``.
 
 Direwolf20
 ^^^^^^^^^^
@@ -35,7 +35,7 @@ Galactic Science
 
 Infinity
 ^^^^^^^^
-These servers are version ``2.1.3``.
+These servers are version ``2.2.2``.
 
 * ``infinity.mym.li`` - normal mode
 * ``infinity2.mym.li`` - normal mode
@@ -50,8 +50,8 @@ Pixelmon
 
 Regrowth
 ^^^^^^^^
-* ``regrowth.mym.li`` - Version ``0.8.6``.
-* ``regrowth2.mym.li`` - Version ``0.8.6``.
+* ``regrowth.mym.li`` - Version ``0.8.7``.
+* ``regrowth2.mym.li`` - Version ``0.8.7``.
 
 SkyFactory 2
 ^^^^^^^^^^^^
