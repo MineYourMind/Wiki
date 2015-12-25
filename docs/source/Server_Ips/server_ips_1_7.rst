@@ -33,6 +33,10 @@ Galactic Science
 ^^^^^^^^^^^^^^^^
 * ``galactic.mym.li`` - Version ``1.4.13``.
 
+ThaumicSkies
+^^^^^^^^^^^^^^^^
+* ``thaumic.mym.li`` - Version ``0.8.0``.
+
 Infinity
 ^^^^^^^^
 These servers are version ``2.2.2``.
