@@ -70,10 +70,10 @@ Agrarian Skies +
 =========
 MyM Packs
 =========
-- `Galactic Science` <https://github.com/MyM-ModpackTeam/GalacticScience/blob/master/credits.rst>`_, caithleen
-- `Hypovolemia` <https://github.com/MyM-ModpackTeam/hypovolemia/blob/master/credits.rst>`_, caithleen
-- `Thaumic Skies` <https://github.com/MyM-ModpackTeam/ThaumicSkies>`_, MaelstromPhoenix
-- `Civilization` <http://minecraft.curseforge.com/projects/civilization>`_, Krhymez
+- `Galactic Science <https://github.com/MyM-ModpackTeam/GalacticScience/blob/master/credits.rst>`_, caithleen
+- `Hypovolemia <https://github.com/MyM-ModpackTeam/hypovolemia/blob/master/credits.rst>`_, caithleen
+- `Thaumic Skies <https://github.com/MyM-ModpackTeam/ThaumicSkies>`_, MaelstromPhoenix
+- `Civilization <http://minecraft.curseforge.com/projects/civilization>`_, Krhymez
 
 ============
 Third Party
