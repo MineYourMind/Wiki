@@ -15,8 +15,12 @@ Agrarian Skies 2 (1.7.10 Version)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``as2.mym.li`` - Version ``1.1.14``.
 
-BeeHappy
+Project Ozone
 ^^^^^^^^^^^^^
+* ``projectozone.mym.li`` - Version ``1.5.2``.
+
+BeeHappy
+^^^^^^^^
 * ``beehappy.mym.li`` - Version ``2.0.8``.
 
 Crundee Craft
