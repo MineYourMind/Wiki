@@ -29,7 +29,7 @@ Crundee Craft
 
 Direwolf20
 ^^^^^^^^^^
-These servers are version ``1.9.0``.
+These servers are version ``1.10.0``.
 
 * ``direwolf20.mym.li`` 
 
@@ -43,14 +43,16 @@ ThaumicSkies
 
 Infinity
 ^^^^^^^^
-These servers are version ``2.2.2``.
+These servers are version ``2.3.5``.
 
 * ``infinity.mym.li`` - normal mode
 * ``infinity2.mym.li`` - normal mode
-* ``infinity3.mym.li`` - normal mode - latest - stand alone
+* ``infinity3.mym.li`` - normal mode - stand alone
+* ``infinity4.mym.li`` - normal mode - latest - stand alone
 * ``evolved.mym.li`` - expert mode
 * ``evolved2.mym.li`` - expert mode
-* ``evolved3.mym.li`` - expert mode - latest - stand alone
+* ``evolved3.mym.li`` - expert mode - stand alone
+* ``evolved4.mym.li`` - expert mode - latest - stand alone
 
 Pixelmon
 ^^^^^^^^
