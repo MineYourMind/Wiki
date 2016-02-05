@@ -21,7 +21,7 @@ Project Ozone
 
 BeeHappy
 ^^^^^^^^
-* ``beehappy.mym.li`` - Version ``2.0.8``.
+* ``beehappy.mym.li`` - Version ``2.0.9``.
 
 Crundee Craft
 ^^^^^^^^^^^^^
@@ -35,7 +35,11 @@ These servers are version ``1.10.0``.
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
-* ``galactic.mym.li`` - Version ``1.4.13``.
+* ``galactic.mym.li`` - Version ``1.5.8``.
+
+Civilization
+^^^^^^^^^^^^^^^^
+* ``civ.mym.li`` - Version ``1.2.9``.
 
 ThaumicSkies
 ^^^^^^^^^^^^^^^^
