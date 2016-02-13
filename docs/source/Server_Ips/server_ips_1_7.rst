@@ -20,6 +20,10 @@ Project Ozone
 * ``projectozone.mym.li`` - Version ``1.5.4``.
 * ``projectozone2.mym.li`` - Version ``1.5.4``.
 
+Revenge of the C-Team
+^^^^^^^^^^^^^^^^^^^^^
+* ``cteam.mym.li`` - Version ``1.4``.
+
 BeeHappy
 ^^^^^^^^
 * ``beehappy.mym.li`` - Version ``2.0.9``.
