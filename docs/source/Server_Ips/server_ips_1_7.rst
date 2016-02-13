@@ -17,7 +17,8 @@ Agrarian Skies 2 (1.7.10 Version)
 
 Project Ozone
 ^^^^^^^^^^^^^
-* ``projectozone.mym.li`` - Version ``1.5.2``.
+* ``projectozone.mym.li`` - Version ``1.5.4``.
+* ``projectozone2.mym.li`` - Version ``1.5.4``.
 
 BeeHappy
 ^^^^^^^^
