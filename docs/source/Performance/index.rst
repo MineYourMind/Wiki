@@ -62,6 +62,15 @@ Specific
 Once you get to a big base automating multiple mods it is often not a lot to ask you to split it up even more. Have a single setup for bee automation, one for ore pre processing, one for energy production...
 
 
+Ancient Warfare Automation Tree Farm
+-------------------
+
+There are only a few things to check to set up those farm correctly. If you don't follow these steps they can drain the performance of the whole server.
+ - Make sure you have enough power so the Farm can cut down the trees as soon as they spawn. (use Flywheels to store the energy)
+ - Never let the output invenotry get filled up else the machines stops working and still tries to cut down trees
+ - Please only use a size you can handle with your machine/energy
+
+
 Active Tile Entities
 --------------------
 
