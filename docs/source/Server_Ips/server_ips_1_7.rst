@@ -22,7 +22,7 @@ Project Ozone
 
 Revenge of the C-Team
 ^^^^^^^^^^^^^^^^^^^^^
-* ``cteam.mym.li`` - Version ``1.4``.
+* ``cteam.mym.li`` - Version ``0.4.5``.
 
 BeeHappy
 ^^^^^^^^
