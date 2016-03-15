@@ -18,7 +18,6 @@ Agrarian Skies 2 (1.7.10 Version)
 Project Ozone
 ^^^^^^^^^^^^^
 * ``projectozone.mym.li`` - Version ``1.5.4``.
-* ``projectozone2.mym.li`` - Version ``1.5.4``.
 
 Revenge of the C-Team
 ^^^^^^^^^^^^^^^^^^^^^
@@ -69,7 +68,6 @@ Pixelmon
 
 Regrowth
 ^^^^^^^^
-* ``regrowth.mym.li`` - Version ``0.8.7``.
 * ``regrowth2.mym.li`` - Version ``0.8.7``.
 
 SkyFactory 2
