@@ -43,7 +43,7 @@ Galactic Science
 
 Civilization
 ^^^^^^^^^^^^^^^^
-* ``civ.mym.li`` - Version ``1.3.8``.
+* ``civ.mym.li`` - Version ``1.3.9``.
 
 ThaumicSkies
 ^^^^^^^^^^^^^^^^
