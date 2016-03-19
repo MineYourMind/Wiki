@@ -51,7 +51,7 @@ ThaumicSkies
 
 Infinity
 ^^^^^^^^
-These servers are version ``2.3.5``.
+These servers are version ``2.4.2``.
 
 * ``infinity.mym.li`` - normal mode
 * ``infinity2.mym.li`` - normal mode
