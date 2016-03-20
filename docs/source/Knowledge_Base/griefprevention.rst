@@ -54,4 +54,4 @@ Fakeplayers
 * [SFM_Player]
 * [ThaumcraftTablet]
 * [Mekanism]
-* [EioKillera]
+* [EioKiller]
