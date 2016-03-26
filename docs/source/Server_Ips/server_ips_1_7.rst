@@ -17,7 +17,7 @@ Agrarian Skies 2 (1.7.10 Version)
 
 Project Ozone
 ^^^^^^^^^^^^^
-* ``projectozone.mym.li`` - Version ``1.5.4``.
+* ``projectozone.mym.li`` - Version ``1.7.2``.
 
 Revenge of the C-Team
 ^^^^^^^^^^^^^^^^^^^^^
