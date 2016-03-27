@@ -26,6 +26,7 @@ Overall
 - `Unity TexturePack <http://minecraft.curseforge.com/texture-packs/222097-unity>`_, Cyanidex
 - `ItemPhysic <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic-1-1-0-more-realtistic-items-stone>`_, CreativeMD
 - `InGameInfoXML <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284041-lunatrius-mods>`_, Lunatrius
+- `ReAuth <http://minecraft.curseforge.com/projects/reauth>`_, TechnicianLP
 
 
 ========
