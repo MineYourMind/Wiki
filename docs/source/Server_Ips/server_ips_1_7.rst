@@ -29,7 +29,7 @@ BeeHappy
 
 Crundee Craft
 ^^^^^^^^^^^^^
-* ``crundee.mym.li`` - Version ``1.0.21``.
+* ``crundee.mym.li`` - Version ``1.0.22``.
 
 Direwolf20
 ^^^^^^^^^^
@@ -62,6 +62,14 @@ These servers are version ``2.4.2``.
 * ``evolved2.mym.li`` - expert mode
 * ``evolved3.mym.li`` - expert mode - stand alone
 * ``evolved4.mym.li`` - expert mode - latest - stand alone
+
+Infinity Skyblock
+^^^^^^^^^^^^^^^^^
+These servers are version ``1.0.4``.
+
+* ``infinityskyblock.mym.li``
+* ``infinityskyblock2.mym.li``
+
 
 Pixelmon
 ^^^^^^^^
