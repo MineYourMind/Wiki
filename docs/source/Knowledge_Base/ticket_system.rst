@@ -8,4 +8,4 @@ Ticket System
 3. This will provide you with a ``link``. on ``mym.li/ticket``.
 4. This will require a forum account, which you can register for at mym.li/forum
 5. Follow the link, this will create a blank ticket, fill out the form, make your ticket as detailed as possible.
-6: Keep an eye on the ticket, and respond to Staff, as prompted.
+6. Keep an eye on the ticket, and respond to Staff, as prompted.
