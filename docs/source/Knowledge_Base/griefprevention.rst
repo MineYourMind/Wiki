@@ -45,13 +45,28 @@ Commands
 Fakeplayers
 ===========
  
-* [CoFH]
-* [[Forestry]]
-* [ComputerCraft]
-* FakeThaumcraftGolem
-* [FakeThaumcraftBore]
 * [BuildCraft]
-* [SFM_Player]
-* [ThaumcraftTablet]
-* [Mekanism]
+* [CoFH]
+* [ComputerCraft]
+* [EioFarmer]
 * [EioKillera]
+* FakeThaumcraftGolem
+* [[Forestry]]
+* [Mekanism]
+* [Minecraft]
+* [MineFactory]
+* [OpenComputers]
+* OpenModsFakePlayer-001
+* OpenModsFakePlayer-002
+* OpenModsFakePlayer-003
+* OpenModsFakePlayer-004
+* OpenModsFakePlayer-005
+* OpenModsFakePlayer-006
+* OpenModsFakePlayer-007
+* OpenModsFakePlayer-008
+* OpenModsFakePlayer-009
+* OpenModsFakePlayer-010
+* [PR_FAKE]
+* [SFM_Player]
+* [Stevescart]
+* [ThaumcraftTablet]
