@@ -23,7 +23,9 @@ What we stand for
 Performance and Stability
 -------------------------
 
-We know how much our servers are relied on. Thats why we do our best to maintain the best Server uptime while keeping our servers lag-free, With our browser program watchdog (https://mineyourmind.net/server-status.html) We can keep track of when our servers are lagging or crashed and even how long for. With this we can make sure we keep your playtime a enjoyable experiencce.
+We know how much people relie on our servers. This is why staff do there best to maintain the network and keep downtime to a minimum.
+A main focus being lag-free gaming we keep on top of such problems with many solutions such as AE2 lag checker which will announce the 3 laggest systems on the server. another tool that is used to monitor server uptime and performance is watchdog (https://mineyourmind.net/server-status.html). with these tools we can make sure that your get the best experience and best playtime possible.
+
 
 (Grief) Protection
 ------------------
