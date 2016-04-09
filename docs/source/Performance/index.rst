@@ -107,5 +107,8 @@ Known performance eater
 Client
 ------
 
+**Agricraft**
+
+agricraft sprinklers and water channels  can cause huge client/FPS lag so if at all possible keep use of such devices to a minimum for you and other players that are passing a better suggestion would be open blocks sprinkler
 .. todo::
    Client performance guide. (get the most out of it)
