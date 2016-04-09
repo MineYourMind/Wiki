@@ -20,6 +20,7 @@ Stats
 
 Announcer
 ---------
+- MyMAnnouncer
 
 Vote
 ----
@@ -85,6 +86,9 @@ Other
 
 Watchdog
 --------
+this system is used as it allows staff to check the amount of plyers, TPS, active staff and even uptime 
+.. _a Watchdog: https://mineyourmind.net/server-status.html
+
 
 Website
 -------
