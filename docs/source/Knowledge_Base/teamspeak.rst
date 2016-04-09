@@ -13,17 +13,17 @@ How to verify your identity
 ===========================
 
 -,How to get your TeamSpeak 3 Unique ID:
-|1. Open TeamSpeak
-|2. Click Settings -> Identities
-|3. Copy the field labeled "Unique ID"
+#. Open TeamSpeak
+#. Click Settings -> Identities
+#. Copy the field labeled "Unique ID"
 
 -,How to verify in game on either Hub:
-|1. Log in, with Minecraft, to one of the MyM Hub Servers
-|2. Type /ts list
-|3. If you don't see your ID, type /ts add <teamspeak ID>
+#. Log in, with Minecraft, to one of the MyM Hub Servers
+#. Type /ts list
+#. If you don't see your ID, type /ts add <teamspeak ID>
 Example: /ts add oiJ4T0RyvxDJaIAdtBv0mukeouI=
 
 -,How to verify a user(for staff use):
-|1. Log in to TS as a Staff Member
-|2. Talk with the user to verify they are a real person/player
-|3. Right Click the user and Set Server Group -> Verified
+#. Log in to TS as a Staff Member
+#. Talk with the user to verify they are a real person/player
+#. Right Click the user and Set Server Group -> Verified
