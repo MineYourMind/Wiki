@@ -21,11 +21,11 @@ Project Ozone
 
 Revenge of the C-Team
 ^^^^^^^^^^^^^^^^^^^^^
-* ``cteam.mym.li`` - Version ``0.4.5``.
+* ``cteam.mym.li`` - Version ``0.4.7``.
 
 BeeHappy
 ^^^^^^^^
-* ``beehappy.mym.li`` - Version ``2.0.9``.
+* ``beehappy.mym.li`` - Version ``2.1.0``.
 
 Crundee Craft
 ^^^^^^^^^^^^^
@@ -44,11 +44,11 @@ Galactic Science
 
 Civilization
 ^^^^^^^^^^^^^^^^
-* ``civ.mym.li`` - Version ``1.3.8``.
+* ``civ.mym.li`` - Version ``1.4.2``.
 
 ThaumicSkies
 ^^^^^^^^^^^^^^^^
-* ``thaumic.mym.li`` - Version ``0.8.0``.
+* ``thaumic.mym.li`` - Version ``0.9.0``.
 
 Infinity
 ^^^^^^^^
@@ -77,7 +77,7 @@ Pixelmon
 
 Regrowth
 ^^^^^^^^
-* ``regrowth2.mym.li`` - Version ``0.8.7``.
+* ``regrowth2.mym.li`` - Version ``0.9.1``.
 
 SkyFactory 2
 ^^^^^^^^^^^^
@@ -85,11 +85,11 @@ SkyFactory 2
 
 Tekkit Legends
 ^^^^^^^^^^^^^^
-* ``tekkit.mym.li`` - Version ``1.0.9``
+* ``tekkit.mym.li`` - Version ``1.1.1``
 
 The Ferret Business
 ^^^^^^^^^^^^^^^^^^^
-* ``ferret.mym.li`` - Version ``0.1.1``.
+* ``ferret.mym.li`` - Version ``0.1.2``.
 
 Vanilla Plus
 ^^^^^^^^^^^^
