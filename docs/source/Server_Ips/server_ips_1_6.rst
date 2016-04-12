@@ -26,4 +26,4 @@ These servers are version ``1.0.12c``.
 
 Crash Landing
 ^^^^^^^^^^^^^
-* ``crash.mym.li`` - Version ``1.1.2``.
+* ``crash.mym.li`` - Version ``1.1.3``.

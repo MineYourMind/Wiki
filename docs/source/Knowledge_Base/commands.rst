@@ -59,6 +59,7 @@ Market
 * ``/market mail`` - Open your mailbox
 * ``/market create [price] <amount>`` - Creates a listing. You need to be holding the item you wish to list in your hand.
 * ``/market pricecheck`` - Check the item in your hand's price
+* ``/market send [player] <amount>`` - This allows a player to send items to another player with out having to be near one another.
 
 Tickets
 =======

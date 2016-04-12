@@ -10,7 +10,7 @@ F.A.Q.
    :depth: 2
    :local:
 
-Where do I apply for Staff (Moderator, Co-Admin)?
+Where do I apply for Staff (jr.Moderator)?
 -------------------------------------------------
 
 All information about staff applications and their responsibilities can be found on `the forums <https://mineyourmind.net/forum/forums/jobs.239/>`_.
@@ -49,6 +49,7 @@ Is there a teamspeak server?
 ----------------------------
 
 Of course, please use the command ``/ts`` on any of our servers for the details.
+please keep in mind that you will have to verify your identity in game before use
 
 
 Can I record YouTube or Twitch on here?
@@ -96,13 +97,13 @@ On the general server's we use GriefPrevention due to its ease of use for the pl
 What is the difference between Farmworld and Overworld?" AKA "What does Farmworld mean?
 ---------------------------------------------------------------------------------------
 
-The overworld (build world) is the only world which isn't being reset. All the other worlds might be reset from time to time, so building there is not advisible. The farmworld looks like the overworld with the difference that quarries (which leave huge holes) and turtles are allowed. This world is meant to be taken apart for resource farming. It is being reset from time to time to allow new players to get depleeted resources like bee hives.
+The overworld (build world) is one of the only world which isn't being reset. All the other worlds might be reset from time to time, so building there is not advisible. The farmworld looks like the overworld with the difference that quarries (which leave huge holes) and turtles are allowed. This world is meant to be taken apart for resource farming. It is being reset from time to time to allow new players to get depleeted resources like bee hives.
 
 
 When will the farmwold be reset?
 --------------------------------
 
-We do not have scheduled farmworld resets. A farmworld reset will only happen when the worlds are depleted (no glowstone in nether..) and a request has been put on the forums. The reason is that pre generate worlds in order to avoid the world generation eating up server resources and lagging the server. Unfortunately is the pre generation a task which takes days, hence the not so frequent reset.
+We now have a new system which will automaticly reset all farmworlds on the first of the month. . The reason is that pre generate worlds in order to avoid the world generation eating up server resources and lagging the server. Unfortunately is the pre generation a task which takes days, hence the not so frequent reset.
 
 
 Are there any warnings prior to the reset?
@@ -167,6 +168,8 @@ Can you remove this claim next to mine?
 
 Our rules stated 2 weeks. Once the owner of the claim and possible trusted people have been offline for more than 2 weeks we are happy to remove the claim and restore the region unless it is an awesome build. In case of small unused claims there is no need for the full 2 weeks in activity rule. To request a claim removal use our :ref:`ticket system <ref-ticket>` within the claim.
 
+a new system on all 1.7.10 servers will automaticly regen areas after 14 days of player inactivity
+
 
 Do staff get payed for working for MyM?
 ---------------------------------------
@@ -208,3 +211,8 @@ What is a Standalone server?
 ----------------------------------------
 
 A Standalone server is one that has a seperate inventory and chat from the other servers of the same pack.
+
+can you add terrafirmacraft
+----------------------------------------
+since this has been asked alot the answer currently is no as it will envolve alot of work and time to set up and as slind said
+"We have made bad experiences with terrafirmacraft stability and performance wise."
