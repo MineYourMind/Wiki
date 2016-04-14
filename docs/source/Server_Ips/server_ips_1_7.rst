@@ -36,7 +36,7 @@ Direwolf20
 These servers are version ``1.10.0``.
 
 * ``direwolf20.mym.li`` 
-* ``direwolf202.mym.li`` - latest
+* ``direwolf202.mym.li`` - latest (recommended)
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
@@ -54,14 +54,10 @@ Infinity
 ^^^^^^^^
 These servers are version ``2.4.2``.
 
-* ``infinity.mym.li`` - normal mode
-* ``infinity2.mym.li`` - normal mode
-* ``infinity3.mym.li`` - normal mode - stand alone
-* ``infinity4.mym.li`` - normal mode - latest - stand alone
-* ``evolved.mym.li`` - expert mode
-* ``evolved2.mym.li`` - expert mode
-* ``evolved3.mym.li`` - expert mode - stand alone
-* ``evolved4.mym.li`` - expert mode - latest - stand alone
+* ``infinity4.mym.li`` - normal mode
+* ``infinity5.mym.li`` - normal mode - latest (recommended)
+* ``evolved4.mym.li`` - expert mode
+* ``evolved5.mym.li`` - expert mode - latest (recommended)
 
 Infinity Skyblock
 ^^^^^^^^^^^^^^^^^
