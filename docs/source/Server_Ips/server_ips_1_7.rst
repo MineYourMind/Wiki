@@ -86,7 +86,3 @@ Tekkit Legends
 The Ferret Business
 ^^^^^^^^^^^^^^^^^^^
 * ``ferret.mym.li`` - Version ``0.1.2``.
-
-Vanilla Plus
-^^^^^^^^^^^^
-* ``vanilla-plus.mym.li`` - Version ``1.0``.
