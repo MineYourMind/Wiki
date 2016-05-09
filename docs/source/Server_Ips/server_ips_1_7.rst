@@ -21,7 +21,7 @@ Project Ozone
 
 Revenge of the C-Team
 ^^^^^^^^^^^^^^^^^^^^^
-* ``cteam.mym.li`` - Version ``0.4.7``.
+* ``cteam.mym.li`` - Version ``0.5``.
 
 BeeHappy
 ^^^^^^^^
@@ -29,7 +29,7 @@ BeeHappy
 
 Crundee Craft
 ^^^^^^^^^^^^^
-* ``crundee.mym.li`` - Version ``1.0.22``.
+* ``crundee.mym.li`` - Version ``1.0.23``.
 
 Direwolf20
 ^^^^^^^^^^
