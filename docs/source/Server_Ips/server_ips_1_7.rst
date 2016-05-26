@@ -9,51 +9,47 @@ Server Ip's 1.7 +
 Hub
 ^^^
 .. note:: You can use any Minecraft 1.7 and 1.8 Version
-* ``hub.mym.li`` - Version ``1.7``
+* ``hub.mym.li``
 
 Agrarian Skies 2 (1.7.10 Version)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-* ``as2.mym.li`` - Version ``1.1.14``.
+* ``as2.mym.li``
 
 Project Ozone
 ^^^^^^^^^^^^^
-* ``projectozone.mym.li`` - Version ``1.7.10``.
+* ``projectozone.mym.li``
 
 Revenge of the C-Team
 ^^^^^^^^^^^^^^^^^^^^^
-* ``cteam.mym.li`` - Version ``0.5``.
+* ``cteam.mym.li``
 
 BeeHappy
 ^^^^^^^^
-* ``beehappy.mym.li`` - Version ``2.1.0``.
+* ``beehappy.mym.li``
 
 Crundee Craft
 ^^^^^^^^^^^^^
-* ``crundee.mym.li`` - Version ``1.0.23``.
+* ``crundee.mym.li``
 
 Direwolf20
 ^^^^^^^^^^
-These servers are version ``1.10.0``.
-
 * ``direwolf20.mym.li`` 
 * ``direwolf202.mym.li`` - latest (recommended)
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
-* ``galactic.mym.li`` - Version ``1.5.8``.
+* ``galactic.mym.li``
 
 Civilization
 ^^^^^^^^^^^^^^^^
-* ``civ.mym.li`` - Version ``1.4.2``.
+* ``civ.mym.li``
 
 ThaumicSkies
 ^^^^^^^^^^^^^^^^
-* ``thaumic.mym.li`` - Version ``0.9.0``.
+* ``thaumic.mym.li``
 
 Infinity
 ^^^^^^^^
-These servers are version ``2.4.2``.
-
 * ``infinity4.mym.li`` - normal mode
 * ``infinity5.mym.li`` - normal mode - latest (recommended)
 * ``evolved4.mym.li`` - expert mode
@@ -61,8 +57,6 @@ These servers are version ``2.4.2``.
 
 Infinity Skyblock
 ^^^^^^^^^^^^^^^^^
-These servers are version ``1.0.4``.
-
 * ``infinityskyblock.mym.li``
 * ``infinityskyblock2.mym.li``
 
@@ -73,16 +67,16 @@ Pixelmon
 
 Regrowth
 ^^^^^^^^
-* ``regrowth2.mym.li`` - Version ``0.9.1``.
+* ``regrowth2.mym.li``
 
 SkyFactory 2
 ^^^^^^^^^^^^
-* ``skyfactory.mym.li`` - Version ``2.4``.
+* ``skyfactory.mym.li``
 
 Tekkit Legends
 ^^^^^^^^^^^^^^
-* ``tekkit.mym.li`` - Version ``1.1.1``
+* ``tekkit.mym.li``
 
 The Ferret Business
 ^^^^^^^^^^^^^^^^^^^
-* ``ferret.mym.li`` - Version ``0.1.2``.
+* ``ferret.mym.li``
