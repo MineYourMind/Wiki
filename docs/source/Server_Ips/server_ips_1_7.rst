@@ -71,7 +71,7 @@ Regrowth
 
 SkyFactory 2
 ^^^^^^^^^^^^
-* ``skyfactory.mym.li``
+* ``skyfactory2.mym.li``
 
 Tekkit Legends
 ^^^^^^^^^^^^^^
