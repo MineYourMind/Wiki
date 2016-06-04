@@ -91,7 +91,7 @@ For a more detailed explanation of the different things you can get from voting,
 What protection does this server use?
 -------------------------------------
 
-On the general server's we use GriefPrevention due to its ease of use for the player. Other servers with modpacks like agrarian skies or crash landing use worldguard regions created from the skyblock plugin. Both third party protection systems are extended by our custom ProtectEx extension to protect against more modded items. More information about Grief Prevention can be found :ref:`here <ref-griefprevention-tutorial>`
+On the general server's we use GriefPrevention due to its ease of use for the player. Other servers with modpacks like agrarian skies or crash landing use worldguard regions created from the skyblock plugin. Both third party protection systems are extended by our custom ProtectEx extension to protect against more modded items. More information about Grief Prevention can be found :ref:`here <ref-griefprevention>`
 
 
 What is the difference between Farmworld and Overworld?" AKA "What does Farmworld mean?
@@ -205,7 +205,7 @@ Create a ticket requires a forum account which you can create `here <https://min
 
 How do I build a nether portal?
 ----------------------------------------
-See :ref:`Multiplex Nether Portal Tutorial <ref-nether-portal>`
+See :ref:`Multiplex Nether Portal Tutorial <ref-multiplex-nether-portal>`
 
 What is a Standalone server?
 ----------------------------------------
