@@ -70,3 +70,4 @@ Fakeplayers
 * [SFM_Player]
 * [Stevescart]
 * [ThaumcraftTablet]
+* $player$.robot *(OpenComputer Robots, replace $player$ with yours, or whoever placed the robot)*
