@@ -1,6 +1,10 @@
 docs/readability/
-docs/source/_themes/readthedocs/static/fonts/fontawesome-webfont.woff
-docs/source/_themes/
+docs/source/_themes/mineyourmind/static/*
+!docs/source/_themes/mineyourmind/static/css
+docs/source/_themes/mineyourmind/static/css/*
+!docs/source/_themes/mineyourmind/static/css/extra.css
+docs/source/_themes/readthedocs/
+docs/source/_themes/sphinx_rtd_theme/
 docs/etc/
 docs/.travis.yml
 docs/crowdin.yaml

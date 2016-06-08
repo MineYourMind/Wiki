@@ -1,0 +1,126 @@
+#page-content .highlighted {
+    background: #F1C40F;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0 6px;
+}
+
+#search-results .search {
+	list-style-type: decimal;
+}
+
+#search-results .search a {
+	margin: 20px 0;
+    padding: 10px 0;
+    border-bottom: 1px dotted #ccc;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.1;
+    display: block;
+}
+
+#search-results .search .context {
+    line-height: 1.6;
+    margin-bottom: 20px;
+    margin: 0 0 10px;
+}
+
+html #sidebar-left .sidebar-content {
+    width: 300px;
+}
+
+html #sidebar-left {
+    width: 301px;
+    left: -301px;
+}
+
+html body.sidebar-left-pinned {
+    padding-left: 301px;
+}
+
+html .sidebar-left-pinned header {
+    left: 301px !important;
+}
+
+#toc li.current ul {
+    display: block;
+}
+
+#toc a.current {
+    background-color: #f39c12;
+    font-weight: bold;
+}
+
+#toc li.current a, #toc li.current a:hover {
+    color: #fff;
+    padding-left: 7px;
+}
+
+#toc .sidebar-nav li ul a {
+    padding: 9px 10px 9px 20px !important;
+    min-height: inherit;
+    line-height: 18px;
+}
+
+#toc li.current {
+    background: #444747;
+    border-left: 3px solid #f39c12;
+}
+
+/*#toc ul {
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+}
+
+#toc li a:hover, .sidebar-nav li a:focus {
+    text-decoration: none;
+    background-color: #4e5252;
+    outline: 0;
+}
+#toc li a {
+    display: block;
+    color: #eee;
+    padding: 0 10px;
+    min-height: 34px;
+    line-height: 34px;
+    text-decoration: none;
+    margin-top: 4px;
+}
+
+#toc a.current {
+    background-color: #f39c12;
+    font-weight: bold;
+}
+
+.sidebar-nav li ul a {
+    margin: 0;
+    font-size: 12px;
+    color: #ddd;
+    min-height: 34px;
+    line-height: 34px;
+    padding: 0 10px 0 20px !important;
+}
+
+#toc li ul {    
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+    background: #444747;
+    border-left: 3px solid #f39c12;
+    display: none;
+}
+
+
+#toc li.current a, .sidebar-nav .current a:hover {
+    color: #fff;
+    background: #444747;
+    padding-left: 7px;
+    border-left: 3px solid #f39c12;
+}*/
+
+.img-desc {max-width: 100%; border: 2px solid #FFF;}
+.img-desc h3 {font-size: 1.4em; margin: 0; padding: 10px 15px; background-color: #F39C12; vertical-align: bottom; color: white;}
+.img-desc img {border: 0!important;}
