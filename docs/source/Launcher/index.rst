@@ -56,7 +56,7 @@ Mac OS X is shipping the java version 6 and even if 7 or 8 is installed it still
 4. It will show you the installed java version and the path to the location where it is stored
 5. Copy this path into the "JVM Path" textbox on the MyMLauncher under "Options.."
 6. By default installation of java the path looks like this: (/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java)
-7. You should be to play modpacks that require java 7, now.
+7. You should be able to play modpacks that require java 7, now.
 
 -----------
 
