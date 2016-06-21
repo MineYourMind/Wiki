@@ -90,7 +90,7 @@ Type of TileEnts
 
 There are **Simple/Build/Environment blocks** like Sky Blocks, Canvas, Arcane Lamps, Ender IO Lamps.. Those are being tile entities. The first two mainly used as build blocks appear in values of hundreds and thousands in single bases. The lamps not being there so often spawn light tile ents around them. Those tile ents are not visible and only their only job is to give the light. One lamp is spawns around 30-80 tile ents.
 
-**Conduits/Cable/pipe/tube** are necessery and have a lot of jobs. Nearly all of them are active tile ents. The only inactive once I know are IC2 cables and Applied Energistcs. As soon as possible it is recommend to switch to those. Next to this, keep things small and simple. Try to save as many conduits as possible. E.g. use high tier with high thorughput, make use of enderchests and tesseracts fro long distances, build your machines compact and switch to Applied Energistics as soon as possible.
+**Conduits/Cable/pipe/tube** are necessary and have a lot of jobs. Nearly all of them are active tile ents. The only inactive one I know are IC2 cables and Applied Energistcs. As soon as possible it is recommended to switch to those. Next to this, keep things small and simple. Try to save as many conduits as possible. E.g. use high tier with high thorughput, make use of enderchests and tesseracts for long distances, build your machines compact and switch to Applied Energistics as soon as possible.
 
 **Multiblocks** while there are many nice multiblock structures, many of them are active. So consider for you self if you can use a drum instead of a railcraft tank with 150 parts/tile ents for example.
 
