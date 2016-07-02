@@ -8,22 +8,18 @@ Server Ip's 1.6.4
 
 
 
-Agrarian Skies (1.6.4 Version)
+Agrarian Skies
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-These servers run version ``3.1.1``. And are all :ref:`standalone`
-
 * ``agrarian.mym.li``
 
 Agrarian Skies +
 ^^^^^^^^^^^^^^^^
-* ``agrarain-plus.mym.li`` - This is a custom pack requiring the `MyM launcher <http://mineyourmind.net/#second_section>`_ which only ships the correct version. And is based on Agrarian Skies from JadedCat.
+* ``agrarian-plus.mym.li`` - This is a custom pack based on JadedCat's original Agrarian Skies. It's available in our `MyM launcher <http://mineyourmind.net/#second_section>`_.
 
-Bteam
+Attack of the B-Team
 ^^^^^
-These servers are version ``1.0.12c``.
-
 * ``bteam.mym.li``
 
 Crash Landing
 ^^^^^^^^^^^^^
-* ``crash.mym.li`` - Version ``1.1.3``.
+* ``crash.mym.li``
