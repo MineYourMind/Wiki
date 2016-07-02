@@ -1,5 +1,5 @@
 =================
-Server IPs (MC 1.8.x)
+Server Ip's 1.8 +
 =================
 .. note:: The ``mym.li`` can be swapped for ``mineyourmind.net``
 .. contents:: Servers
