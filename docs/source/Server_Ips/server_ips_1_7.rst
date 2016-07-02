@@ -11,8 +11,8 @@ Hub
 .. note:: You can join the hub on Minecraft 1.7 or 1.8 (vanilla or modded)
 * ``hub.mym.li``
 
-Agrarian Skies 2
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Agrarian Skies 2 (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``as2.mym.li``
 
 BeeHappy
@@ -20,7 +20,7 @@ BeeHappy
 * ``beehappy.mym.li``
 
 Civilization
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
 * ``civ.mym.li``
 
 Crackpack
@@ -33,7 +33,7 @@ Crundee Craft
 
 Direwolf20
 ^^^^^^^^^^
-* ``direwolf20.mym.li`` 
+* ``direwolf20.mym.li``
 * ``direwolf202.mym.li`` - latest (recommended)
 
 Galactic Science
@@ -81,7 +81,7 @@ Tekkit Legends
 * ``tekkit.mym.li``
 
 ThaumicSkies
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
 * ``thaumic.mym.li``
 
 The Ferret Business
