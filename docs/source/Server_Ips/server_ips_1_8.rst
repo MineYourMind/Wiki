@@ -8,10 +8,10 @@ Server Ip's 1.8 +
 
 Hub
 ^^^
-.. note:: You can use any Minecraft 1.7 and 1.8 Version
+.. note:: You can use any version of Minecraft 1.7 and 1.8 
 * ``hub.mym.li`` - Version ``1.7``
 
 SkyBlock
 ^^^^^^^^
-.. note:: You can use any Minecraft 1.8 Version
+.. note:: You can use any version of Minecraft 1.8
 * ``skyblock.mym.li`` - Version ``1.8``
