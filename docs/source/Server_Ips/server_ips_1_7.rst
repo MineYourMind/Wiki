@@ -1,5 +1,5 @@
 =================
-Server Ip's 1.7 +
+Server IPs (MC 1.7.x)
 =================
 .. note:: The ``mym.li`` can be swapped for ``mineyourmind.net``
 .. contents:: Servers
@@ -8,24 +8,24 @@ Server Ip's 1.7 +
 
 Hub
 ^^^
-.. note:: You can use any Minecraft 1.7 and 1.8 Version
+.. note:: You can join the hub on Minecraft 1.7 or 1.8 (vanilla or modded)
 * ``hub.mym.li``
 
-Agrarian Skies 2 (1.7.10 Version)
+Agrarian Skies 2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``as2.mym.li``
-
-Project Ozone
-^^^^^^^^^^^^^
-* ``projectozone.mym.li``
-
-Revenge of the C-Team
-^^^^^^^^^^^^^^^^^^^^^
-* ``cteam.mym.li``
 
 BeeHappy
 ^^^^^^^^
 * ``beehappy.mym.li``
+
+Civilization
+^^^^^^^^^^^^^^^^
+* ``civ.mym.li``
+
+Crackpack
+^^^^^^^^^^^^^
+* ``crackpack.mym.li``
 
 Crundee Craft
 ^^^^^^^^^^^^^
@@ -40,13 +40,9 @@ Galactic Science
 ^^^^^^^^^^^^^^^^
 * ``galactic.mym.li``
 
-Civilization
+Hypovolemia
 ^^^^^^^^^^^^^^^^
-* ``civ.mym.li``
-
-ThaumicSkies
-^^^^^^^^^^^^^^^^
-* ``thaumic.mym.li``
+* ``hypo.mym.li``
 
 Infinity
 ^^^^^^^^
@@ -60,14 +56,21 @@ Infinity Skyblock
 * ``infinityskyblock.mym.li``
 * ``infinityskyblock2.mym.li``
 
-
 Pixelmon
 ^^^^^^^^
 * ``pixelmon.mym.li`` - This is running Pixelmon Version ``3.4.0`` & PixelUtilities version ``3.3.7``.
 
+Project Ozone
+^^^^^^^^^^^^^
+* ``projectozone.mym.li``
+
 Regrowth
 ^^^^^^^^
 * ``regrowth2.mym.li``
+
+Revenge of the C-Team
+^^^^^^^^^^^^^^^^^^^^^
+* ``cteam.mym.li``
 
 SkyFactory 2
 ^^^^^^^^^^^^
@@ -76,6 +79,10 @@ SkyFactory 2
 Tekkit Legends
 ^^^^^^^^^^^^^^
 * ``tekkit.mym.li``
+
+ThaumicSkies
+^^^^^^^^^^^^^^^^
+* ``thaumic.mym.li``
 
 The Ferret Business
 ^^^^^^^^^^^^^^^^^^^
