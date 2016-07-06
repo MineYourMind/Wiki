@@ -127,6 +127,7 @@ Our live monitoring system. If a server is getting into trouble it barks. Build 
 
 * ``Heartbeat`` - Last server respond. 
 * ``P30/120/300/600`` - Average server performance over the last 30/120/300/600 seconds in percentage. (100% = 20TPS, 50% = 10TPS..)
+* ``GC30`` - The garbage dump from the server in the last 30 seconds.
 * ``S6/12/24`` - Server sessions over the last 6/12/24 hours. High numbers signalize that the server crashed/froze/restarted a lot.
 * ``Uptime`` - How long the server has been up.
 * ``Players`` - Amount of players online.
