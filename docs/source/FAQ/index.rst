@@ -186,7 +186,7 @@ Even instant teleportation is not allowed to be used for personal gain. All the 
 Can I transfer Claimblocks to a friend?
 ----------------------------------------
 
-Claimblocks can be transfered by selling them for MyM's at the Shop NPC or via ``/shop``, and then transfering the MyM's to your friend by using ``/money send``.
+Claimblocks can be transfered by selling them for MyM's by using the command /sellclaimblocks #amount and then transfering the MyM's to your friend by using ``/money send``. Your friend can buy the claimblocks by using the command /buyclaimblocks #amount.
 
 
 Why is [Modname/Item] banned?
