@@ -26,6 +26,7 @@ Civilization
 Crackpack
 ^^^^^^^^^^^^^
 * ``crackpack.mym.li``
+* ``crackpack2.mym.li``
 
 Crundee Craft
 ^^^^^^^^^^^^^
@@ -47,7 +48,8 @@ Hypovolemia
 Infinity
 ^^^^^^^^
 * ``infinity4.mym.li`` - normal mode
-* ``infinity5.mym.li`` - normal mode - latest (recommended)
+* ``infinity5.mym.li`` - normal mode
+* ``infinity6.mym.li`` - normal mode - latest (recommended)
 * ``evolved4.mym.li`` - expert mode
 * ``evolved5.mym.li`` - expert mode - latest (recommended)
 
@@ -75,6 +77,7 @@ Revenge of the C-Team
 SkyFactory 2
 ^^^^^^^^^^^^
 * ``skyfactory2.mym.li``
+* ``skyfactory2_2.mym.li``
 
 Tekkit Legends
 ^^^^^^^^^^^^^^
