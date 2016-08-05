@@ -11,14 +11,6 @@ Custom Modpacks (MyM)
    1.7.10/mineyourgalaxy
    1.7.10/death_is_expected
 
-1.4.7
------
-
-.. toctree::
-   :glob:
-
-   1.4.7/*
-
 1.5.2
 -----
 
