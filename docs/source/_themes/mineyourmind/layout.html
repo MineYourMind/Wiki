@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <title>
+        FreshUI - Premium Web App and Admin Template
+    </title>
+    <meta name="description" content="FreshUI is a Premium Web App and Admin Template created by pixelcave and published on Themeforest.">
+    <meta name="author" content="pixelcave">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0">
+    <!-- Icons -->
+    <!-- The following icons can be replaced with your own, they are used by desktop and mobile browsers -->
+    <link rel="shortcut icon" href="/_static/img/favicon.ico">
+    <link rel="apple-touch-icon" href="/_static/img/icon57.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="/_static/img/icon72.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="/_static/img/icon76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="/_static/img/icon114.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="/_static/img/icon120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="/_static/img/icon144.png" sizes="144x144">
+    <link rel="apple-touch-icon" href="/_static/img/icon152.png" sizes="152x152">
+    <!-- END Icons -->
+    <link rel="stylesheet" href="/_static/css/extra.css" type="text/css">
+    <!-- Stylesheets -->
+    <!-- Bootstrap is included in its original form, unaltered -->
+    <link rel="stylesheet" href="/_static/css/bootstrap.css" type="text/css">
+    <!-- Related styles of various icon packs and javascript plugins -->
+    <link rel="stylesheet" href="/_static/css/plugins.css" type="text/css">
+    <!-- The main stylesheet of this template. All Bootstrap overwrites are defined in here -->
+    <link rel="stylesheet" href="/_static/css/main.css" type="text/css">
+    <!-- Include a specific file here from css/themes/ folder to alter the default theme of the template -->
+    <!-- The themes stylesheet of this template (for using specific theme color in individual elements - must included last) -->
+    <link rel="stylesheet" href="/_static/css/themes.css" type="text/css">
+    <!-- END Stylesheets -->
+    <!-- Modernizr (Browser feature detection library) & Respond.js (Enable responsive CSS code on browsers that don't support it, eg IE8) -->
+    <script src="/_static/js/vendor/modernizr-2.7.1-respond-1.4.2.min.js" type="text/javascript">
+    </script>
+</head>
+<!-- Body -->
+<!-- In the PHP version you can set the following options from the config file -->
+<!--
+        Add one of the following classes to the body element for the desirable feature:
+        'sidebar-left-pinned'                         for a left pinned sidebar (always visible > 1200px)
+        'sidebar-right-pinned'                        for a right pinned sidebar (always visible > 1200px)
+        'sidebar-left-pinned sidebar-right-pinned'    for both sidebars pinned (always visible > 1200px)
+    -->
+
+<body class="header-fixed-top sidebar-left-pinned">
+    <!-- Left Sidebar -->
+    <!-- In the PHP version you can set the following options from the config file -->
+    <!-- If you add the class .enable-hover, then a small portion of left sidebar will be visible and it can be opened with a mouse hover (> 1200px) (may affect website performance) -->
+    <div id="sidebar-left" class="enable-hover">
+        <!-- Sidebar Content -->
+        <div class="sidebar-content">
+            <!-- Search Form -->
+            <form action="{{ pathto('search') }}" method="get" class="sidebar-search">
+                <input type="text" id="sidebar-search-term" name="q" placeholder="Search..">
+                <input type="hidden" name="check_keywords" value="yes">
+                <input type="hidden" name="area" value="default">
+            </form>
+            <!-- END Search Form -->
+            <!-- Wrapper for scrolling functionality -->
+            <div id="toc" class="sidebar-left-scroll">
+                <!-- Sidebar Navigation -->
+                <ul class="">
+                    <li>
+                        <h2 class="sidebar-header">
+                                Navigation
+                            </h2>
+                    </li>
+                    <li>
+                        <a href="{{ pathto(master_doc) }}"> Welcome</a>
+                    </li>
+                </ul>
+                {% block menu %}
+                  {% set toctree = toctree(maxdepth=-1, collapse=True, includehidden=True) %}
+                  {% if toctree %}
+                      {{ toctree }}
+                  {% else %}
+                      <!-- Local TOC -->
+                      <div class="local-toc">{{ toc }}</div>
+                  {% endif %}
+                {% endblock %}
+                <!-- END Sidebar Navigation -->
+            </div>
+            <!-- END Wrapper for scrolling functionality -->
+        </div>
+        <!-- END Sidebar Content -->
+    </div>
+    <!-- END Left Sidebar -->
+    <!-- Right Sidebar -->
+    <!-- In the PHP version you can set the following options from the config file -->
+    <!-- If you add the class .enable-hover, then a small portion of right sidebar will be visible and it can be opened with a mouse hover (> 1200px) (may affect website performance) -->
+    <div id="sidebar-right">
+        <!-- Sidebar Content -->
+        <div class="sidebar-content">
+            <!-- User Info -->
+            <div class="user-info">
+                <div class="user-details">
+                    <a href="page_special_user_profile.php">pixelcave</a>
+                    <br>
+                    <em>Web Designer</em>
+                </div><img src="/_static/img/template/avatar.png" alt="Avatar">
+            </div>
+            <!-- END User Info -->
+            <!-- Wrapper for scrolling functionality -->
+            <div class="sidebar-right-scroll">
+                <!-- Color Themes -->
+                <div class="sidebar-section">
+                    <h2 class="sidebar-header">
+                            Color Themes
+                        </h2>
+                    <!-- Change Color Theme functionality can be found in main.js - templateOptions() -->
+                    <ul class="theme-colors clearfix">
+                        <li class="active">
+                            <a href="javascript:void(0)" class="themed-background-default themed-border-default" data-theme="default" data-toggle="tooltip" title="Default"></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)" class="themed-background-river themed-border-river" data-theme="css/themes/river.css" data-toggle="tooltip" title="River"></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)" class="themed-background-amethyst themed-border-amethyst" data-theme="css/themes/amethyst.css" data-toggle="tooltip" title="Amethyst"></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)" class="themed-background-dragon themed-border-dragon" data-theme="css/themes/dragon.css" data-toggle="tooltip" title="Dragon"></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)" class="themed-background-emerald themed-border-emerald" data-theme="css/themes/emerald.css" data-toggle="tooltip" title="Emerald"></a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0)" class="themed-background-grass themed-border-grass" data-theme="css/themes/grass.css" data-toggle="tooltip" title="Grass"></a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- END Color Themes -->
+                <!-- User Menu -->
+                <ul class="sidebar-nav">
+                    <li>
+                        <h2 class="sidebar-header">
+                                Explore
+                            </h2>
+                    </li>
+                    <li>
+                        <a href="page_special_timeline.php">Updates</a>
+                    </li>
+                    <li>
+                        <a href="page_special_user_profile.php">Profile</a>
+                    </li>
+                    <li>
+                        <a href="page_special_message_center.php">Messages</a>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0)">Settings</a>
+                    </li>
+                    <li>
+                        <a href="page_special_login.php">Logout</a>
+                    </li>
+                </ul>
+                <!-- END User Menu -->
+                <!-- Notifications -->
+                <div class="sidebar-section">
+                    <h2 class="sidebar-header">
+                            Notifications
+                        </h2>
+                    <div class="alert alert-success alert-dismissable">
+                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button> <small><em>2 hours ago</em></small>
+                        <br> PHP version updated successfully on <a href="javascript:void(0)">Server #5</a>
+                    </div>
+                    <div class="alert alert-danger alert-dismissable">
+                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button> <small><em>3 hours ago</em></small>
+                        <br>
+                        <a href="javascript:void(0)">Game Server</a> crashed but restored!
+                    </div>
+                    <div class="alert alert-warning alert-dismissable">
+                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button> <small><em>5 hours ago</em></small>
+                        <br>
+                        <a href="javascript:void(0)">FTP Server</a> went down for maintenance!
+                    </div>
+                </div>
+                <!-- END Notifications -->
+                <!-- Messages -->
+                <div class="sidebar-section">
+                    <h2 class="sidebar-header">
+                            Messages
+                        </h2>
+                    <div class="alert alert-info">
+                        <small><a href="page_special_user_profile.php">Claire</a>, 2 minutes ago</small>
+                        <br> Hi John, I just wanted to let you know that.. <a href="page_special_message_center.php">more</a>
+                    </div>
+                    <div class="alert alert-info">
+                        <small><a href="page_special_user_profile.php">Michael</a>, 5 minutes ago</small>
+                        <br> The project is moving along just fine and we.. <a href="page_special_message_center.php">more</a>
+                    </div>
+                </div>
+                <!-- END Messages -->
+            </div>
+            <!-- END Wrapper for scrolling functionality -->
+        </div>
+        <!-- END Sidebar Content -->
+    </div>
+    <!-- END Right Sidebar -->
+    <!-- Page Container -->
+    <!-- In the PHP version you can set the following options from the config file -->
+    <!-- Add the class .full-width for a full width page (100%, 1920px max width) -->
+    <div id="page-container">
+        <!-- Header -->
+        <!-- In the PHP version you can set the following options from the config file -->
+        <!-- Add the class .navbar-default or .navbar-inverse for a light or dark header respectively -->
+        <!-- Add the class .navbar-fixed-top or .navbar-fixed-bottom for a fixed header on top or bottom respectively -->
+        <!-- If you add the class .navbar-fixed-top remember to add the class .header-fixed-top to <body> element -->
+        <!-- If you add the class .navbar-fixed-bottom remember to add the class .header-fixed-bottom to <body> element -->
+        <header class="navbar navbar-default navbar-fixed-top">
+            <!-- Right Header Navigation -->
+            <ul class="nav header-nav pull-right">
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"></a>
+                    <ul class="dropdown-menu dropdown-custom pull-right">
+                        <li class="dropdown-header text-center">HEADER
+                        </li>
+                        <li>
+                            <div class="btn-group btn-group-justified btn-group-sm">
+                                <a href="javascript:void(0)" class="btn btn-default" id="options-header-default">Default</a> <a href="javascript:void(0)" class="btn btn-default" id="options-header-inverse">Inverse</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="btn-group btn-group-justified btn-group-sm">
+                                <a href="javascript:void(0)" class="btn btn-default" id="options-header-top">Top</a> <a href="javascript:void(0)" class="btn btn-default" id="options-header-bottom">Bottom</a>
+                            </div>
+                        </li>
+                        <li class="hidden-xs hidden-sm dropdown-header text-center">FULL WIDTH PAGE
+                        </li>
+                        <li class="hidden-xs hidden-sm">
+                            <div class="btn-group btn-group-justified btn-group-sm">
+                                <a href="javascript:void(0)" class="btn btn-default" id="options-fw-disable">Disable</a> <a href="javascript:void(0)" class="btn btn-default" id="options-fw-enable">Enable</a>
+                            </div>
+                        </li>
+                        <li class="visible-lg dropdown-header text-center">PIN SIDEBARS
+                        </li>
+                        <li class="visible-lg">
+                            <div class="btn-group btn-group-justified btn-group-sm">
+                                <a href="javascript:void(0)" class="btn btn-default" id="options-pin-left">Pin Left</a> <a href="javascript:void(0)" class="btn btn-default" id="options-pin-right">Pin Right</a>
+                            </div>
+                        </li>
+                        <li class="visible-lg dropdown-header text-center">SIDEBARS MOUSE HOVER
+                        </li>
+                        <li class="visible-lg">
+                            <div class="btn-group btn-group-justified btn-group-sm">
+                                <a href="javascript:void(0)" class="btn btn-default" id="options-hover-left">Left</a> <a href="javascript:void(0)" class="btn btn-default" id="options-hover-right">Right</a>
+                            </div>
+                        </li>
+                        <li class="visible-lg hidden-lt-ie9 dropdown-header text-center">EFFECT WHEN SIDEBARS OPEN
+                        </li>
+                        <li class="visible-lg hidden-lt-ie9 text-center">
+                            <div class="btn-group-vertical btn-group-sm" id="option-effects">
+                                <button class="btn btn-default" data-fx="fx-none">None</button>
+                                <button class="btn btn-default" data-fx="fx-opacity">Opacity</button>
+                                <button class="btn btn-default" data-fx="fx-move">Move</button>
+                                <button class="btn btn-default" data-fx="fx-push">Push</button>
+                                <button class="btn btn-default" data-fx="fx-rotate">Rotate</button>
+                                <button class="btn btn-default" data-fx="fx-push-move">Push and Move</button>
+                                <button class="btn btn-default" data-fx="fx-push-rotate">Push and Rotate</button>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" id="sidebar-right-toggle"><strong>5</strong> </a>
+                </li>
+            </ul>
+            <!-- END Right Header Navigation -->
+            <!-- Left Header Navigation -->
+            <ul class="nav header-nav pull-left">
+                <li>
+                    <a href="javascript:void(0)" id="sidebar-left-toggle"></a>
+                </li>
+            </ul>
+            <!-- END Left Header Navigation -->
+            <!-- Header Brand -->
+            <a href="index.php" class="navbar-brand"><img src="/_static/img/template/drop.png" alt="FreshUI"> <span>FreshUI</span></a>
+            <!-- END Header Brand -->
+        </header>
+        <!-- END Header -->
+        <!-- FX Container -->
+        <!-- In the PHP version you can set the following options from the config file -->
+        <!--
+                All effects apply in resolutions larger than 1200px width
+                Add one of the following classes to #fx-container for setting an effect to main content when one of the sidebars are opened
+                'fx-none'           remove all effects (better website performance)
+                'fx-opacity'        opacity effect
+                'fx-move'           move effect
+                'fx-push'           push effect
+                'fx-rotate'         rotate effect
+                'fx-push-move'      push-move effect
+                'fx-push-rotate'    push-rotate effect
+            -->
+        <div id="fx-container" class="fx-opacity">
+            <!-- Page content -->
+            <div id="page-content" class="block">
+                <!-- Header -->
+                <div class="block-header">
+                    <!-- If you do not want a link in the header, instead of .header-title-link you can use a div with the class .header-section -->
+                    <h1>
+                        <a href="" class="header-title-link">MyM Documentation<br>
+                        <small>Collaborated Information Exchange</small></a>
+                    </h1>
+                </div>
+                <ul class="breadcrumb breadcrumb-top">
+                    <li><i class="fa fa-coffee"></i></li>
+                    <li>
+                        <a href="{{ pathto(master_doc) }}">Docs</a>
+                    </li>
+                    {% for doc in parents %}
+                    <li>
+                        <a href="{{ doc.link|e }}">{{ doc.title }}</a>
+                    </li>
+                    {% endfor %}
+                    <li>{{ title }}</li>
+                </ul>
+                <!-- END Header -->
+                <!-- Content -->
+                {% block body %}{% endblock %}
+                <!-- END Content -->
+                {% if next or prev %}
+                <ul class="pager">
+                    <li style="list-style: none">{% if prev %}
+                    </li>
+                    <li class="previous">
+                        <a href="{{ prev.link|e }}" title="{{ prev.title|striptags|e }}">Prev</a>
+                    </li>
+                    <li style="list-style: none">{% endif %} {% if next %}
+                    </li>
+                    <li class="next">
+                        <a href="{{ next.link|e }}" title="{{ next.title|striptags|e }}">Next </a>
+                    </li>
+                    <li style="list-style: none">{% endif %}
+                    </li>
+                </ul>{% endif %}
+            </div>
+            <!-- END Page Content -->
+            <!-- Footer -->
+            <footer class="clearfix">
+                <div class="pull-right">
+                    Crafted with by <a href="https://mineyourmind.net" target="_blank">MineYourMind</a>
+                </div>
+                <div class="pull-left">
+                    <span id="year-copy"></span> © <a href="https://mineyourmind.net" target="_blank">MyM Documentation</a>
+                </div>
+            </footer>
+            <!-- END Footer -->
+        </div>
+        <!-- END FX Container -->
+    </div>
+    <!-- END Page Container -->
+    <!-- Scroll to top link, check main.js - scrollToTop() -->
+    <a href="javascript:void(0)" id="to-top"></a>
+    <!-- Get Jquery library from Google but if something goes wrong get Jquery from local file - Remove 'http:' if you have SSL -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+    !window.jQuery && document.write(unescape('%3Cscript src="/_static/js/vendor/jquery-1.11.0.min.js"%3E%3C/script%3E'));
+    </script>
+    <!-- Bootstrap.js, Jquery plugins and custom Javascript code -->
+    <script>
+      $('#toc').children().addClass('sidebar-nav');
+    </script>
+    <script src="/_static/js/vendor/bootstrap.min.js" type="text/javascript">
+    </script>
+    <script src="/_static/js/plugins.js" type="text/javascript">
+    </script>
+    <script src="/_static/js/main.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+    var DOCUMENTATION_OPTIONS = {
+        URL_ROOT: '{{ url_root }}',
+        VERSION: '{{ release|e }}',
+        COLLAPSE_INDEX: false,
+        search
+        HAS_SOURCE: {
+            {
+                has_source | lower
+            }
+        }
+    };
+    </script>
+    <script type="text/javascript" src="/_static/underscore.js">
+    </script>
+    <script type="text/javascript" src="/_static/doctools.js">
+    </script>
+    <script type="text/javascript" src="/_static/searchtools.js">
+    </script>
+    <script type="text/javascript" src="/_static/js/theme.js">
+    </script>
+
+    <script type="text/javascript">
+        jQuery(function () {
+            SphinxRtdTheme.StickyNav.enable();
+        });
+    </script>
+   
+
+    {%- block footer %} {% endblock %}
+</body>
+
+</html>

@@ -18,7 +18,7 @@ The glowstone and gold shows you the corners which you can hide with a stick if 
 Trust a player
 ==============
 
-To grant someone the permissions to build in your claim you have to use the command ``/trust [Player]`` during you are in your claim. If you run the command in the outside then the player get trusted in all your claims.
+To grant someone the permissions to build in your claim you have to use the command ``/trust [Player]`` while you are in your claim. If you run the command in the outside then the player get trusted in all your claims.
 It is also possible to revoke the permissions, for this you have to use ``/untrust [Player]``.
  
 Delete a claim
@@ -70,3 +70,4 @@ Fakeplayers
 * [SFM_Player]
 * [Stevescart]
 * [ThaumcraftTablet]
+* $player$.robot *(OpenComputer Robots, replace $player$ with yours, or whoever placed the robot)*

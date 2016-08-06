@@ -72,7 +72,7 @@ Agrarian Skies +
 MyM Packs
 =========
 - `Galactic Science <https://github.com/MyM-ModpackTeam/GalacticScience/blob/master/credits.rst>`_, caithleen
-- `Hypovolemia <https://github.com/MyM-ModpackTeam/hypovolemia/blob/master/credits.rst>`_, caithleen
+- `Hypovolemia <https://github.com/MyM-ModpackTeam/hypovolemia/blob/master/credits.rst>`_, caithleen, johnfg12, GGothicRide, The_Icy_One, kindlich, SirStudMuffin, Sandstroem, King_Cronus, SirWill, Slind
 - `Thaumic Skies <https://github.com/MyM-ModpackTeam/ThaumicSkies>`_, MaelstromPhoenix
 - `Civilization <http://minecraft.curseforge.com/projects/civilization>`_, Krhymez
 
@@ -87,9 +87,6 @@ Third Party
 - `Infinity <https://feedthebeast.atlassian.net/wiki/display/PML/Infinity+1.7>`_, FTB-Team
 - `Regrowth <http://www.feed-the-beast.com/modpacks/Regrowth>`_, thephoenixlodge
 - `SkyFactory <https://www.atlauncher.com/pack/SkyFactory>`_, Bacon_Donut
-- `The Dark Trilogy <https://feedthebeast.atlassian.net/wiki/display/PML/The+Dark+Trilogy>`_, tfox83 & Gideonseymour
-- `Horizons: Daybreaker <http://www.feed-the-beast.com/modpacks/FTBHorizonsII>`_, FTB-Team
 - `Vanilla + <http://www.feed-the-beast.com/modpacks/FTBVanillaPlus>`_, FTB-Team
-- `Cloud 9 <http://www.feed-the-beast.com/modpacks/FTBPresentsCloud9>`_, FTB-Team
 - `BeeHappy <http://forum.feed-the-beast.com/threads/1-7-10-205-quests-listed-beehappy-a-quest-based-map-about-bees.97329/>`_, jtmnf
 - `Project Ozone <http://minecraft.curseforge.com/projects/project-ozone/relations/dependencies>`_, TheCazadorSniper

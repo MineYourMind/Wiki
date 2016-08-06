@@ -2,7 +2,7 @@
 Crash-Report Guide
 ++++++++++++++++++
 
-If your game crashes and you want to get it solved we require the crash report which get automatically created.
+If your game crashes and you want to get it solved we require the crash report which gets automatically created.
 
 
 MyM Launcher
