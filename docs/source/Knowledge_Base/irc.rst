@@ -4,6 +4,8 @@ IRC - Public Chat
 
 Introduction
 ============
+.. Deprecated::
+IRC is no longer supported please refer to Slack if you need assistance
 
 .. warning::
    Avoid frustration and speed up getting to a solution by reading the following guidelines. As things are not like you may be used to.
