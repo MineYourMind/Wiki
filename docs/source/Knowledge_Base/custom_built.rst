@@ -11,42 +11,55 @@ ProtectEx is an anti-griefing plugin designed to protect Claims and Restricted A
 
 ItemRestrict
 ------------
+Restricts items from being used in certain worlds or at all
 
 Backup
 ------
+Automaticly backs up the server to ensure your work is safe
 
 ChunkManager
 ------------
+Our custom built chunk plugin use /cm introduction to find out more
 
 Claim/Island Deleter
 --------------------
+Automaticly deletes claim/island after 2 weeks of a player being inactive
 
 Redis Chat
 ----------
 
+
 Stats
 -----
+Keeps track of your play time and other useful stats use /stats me to see them
 
 Announcer
 ---------
+Allows staff to make global announcements when needed
 
 Vote
 ----
+Allows players to get tokens and reminds them to vote regularly 
 
 Random Teleport
 ---------------
+Using /rt you can teleport to a random location on the map
 
 Ranks
 -----
+Ranks show how long you have been playing on MyM servers
 
 ForumFeed
 ---------
+Displays information from your linked fourm account
 
 MultiBlockLimit
 ---------------
+This reduces lag by limiting the amount of blocks you can place in a multiblock structure
 
 Forum/Ticket InterOp
 --------------------
+Allows staff to see tickets and other useful information
 
 Custom Third Party Forks
 ------------------------
@@ -80,24 +93,31 @@ Mods (forge)
 
 Kit
 ---
+allows for kits to give you items in game
 
 World Downloader
 ----------------
+Allows a player to download there claim to single player and test or continue to play there mainly uses when a server is shutting down
 
 EntityControl
 -------------
+Allows staff to control/limit mob spawning
 
 Chunk Deleter
 -------------
 
+
 MyM-Tweaks
 ----------
+Applys several tweaks to allow all servers to operator correctly
 
 MyMKit
 ------
 
+
 ModPatches
 ----------
+Allows staff to fix gameplay breaking mod issues
 
 Custom Third Party Forks
 ------------------------
