@@ -15,13 +15,9 @@ Agrarian Skies 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``as2.mym.li``
 
-BeeHappy
-^^^^^^^^
-* ``beehappy.mym.li``
-
-Civilization
-^^^^^^^^^^^^
-* ``civ.mym.li``
+Bevo's Tech Pack (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^
+* ``bevos.mym.li``
 
 Crackpack
 ^^^^^^^^^^^^^
@@ -69,10 +65,6 @@ Project Ozone
 Regrowth
 ^^^^^^^^
 * ``regrowth2.mym.li``
-
-Revenge of the C-Team
-^^^^^^^^^^^^^^^^^^^^^
-* ``cteam.mym.li``
 
 SkyFactory 2
 ^^^^^^^^^^^^
