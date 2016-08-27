@@ -8,18 +8,21 @@ Server Ip's 1.6.4
 
 
 
-Agrarian Skies (1.6.4)
+Agrarian Skies (1.6.4) 
 ^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``3.1.1``
 * ``agrarian.mym.li``
 
-Agrarian Skies +
-^^^^^^^^^^^^^^^^
+Agrarian Skies + (1.6.4)
+^^^^^^^^^^^^^^^^^^^^^^^^
 * ``agrarian-plus.mym.li`` - This is a custom pack based on JadedCat's original Agrarian Skies. It's available in our `MyM launcher <http://mineyourmind.net/#second_section>`_.
 
-Attack of the B-Team
-^^^^^^^^^^^^^^^^^^^^
+Attack of the B-Team (1.6.4)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.0.12c``
 * ``bteam.mym.li``
 
-Crash Landing
-^^^^^^^^^^^^^
+Crash Landing (1.6.4)
+^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.1.3``
 * ``crash.mym.li``

@@ -6,79 +6,94 @@ Server Ip's 1.7 +
   :depth: 2
   :local:
 
-Hub
-^^^
+Hub (1.7.10)
+^^^^^^^^^^^^
 .. note:: You can join the hub on Minecraft 1.7 or 1.8 (vanilla or modded)
 * ``hub.mym.li``
 
 Agrarian Skies 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.1.14``
 * ``as2.mym.li``
 
 Bevo's Tech Pack (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``Betax-Hotfix``
 * ``bevos.mym.li``
 
-Crackpack
-^^^^^^^^^^^^^
+Crackpack (1.7.10)
+^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.1.0``
 * ``crackpack.mym.li``
 * ``crackpack2.mym.li``
 
-Crundee Craft
-^^^^^^^^^^^^^
+Crundee Craft (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.0.23``
 * ``crundee.mym.li``
 
-Direwolf20
-^^^^^^^^^^
+Direwolf20 (1.7.10)
+^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.10.0``
 * ``direwolf20.mym.li``
 * ``direwolf202.mym.li`` - latest (recommended)
 
-Galactic Science
-^^^^^^^^^^^^^^^^
+Galactic Science (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.6.3``
 * ``galactic.mym.li``
 
-Hypovolemia
-^^^^^^^^^^^^^^^^
+Hypovolemia (1.7.10)
+^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``0.1.8``
 * ``hypo.mym.li``
 
-Infinity
-^^^^^^^^
+Infinity (1.7.10) 
+^^^^^^^^^^^^^^^^^
+.. note:: Current version ``2.6.0``
 * ``infinity4.mym.li`` - normal mode
 * ``infinity5.mym.li`` - normal mode
 * ``infinity6.mym.li`` - normal mode - latest (recommended)
 * ``evolved4.mym.li`` - expert mode
 * ``evolved5.mym.li`` - expert mode - latest (recommended)
 
-Infinity Skyblock
-^^^^^^^^^^^^^^^^^
+Infinity Skyblock (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.2.0``
 * ``infinityskyblock.mym.li``
 * ``infinityskyblock2.mym.li``
 
-Pixelmon
-^^^^^^^^
+Pixelmon (1.7.10)
+^^^^^^^^^^^^^^^^^
 * ``pixelmon.mym.li`` - This is running Pixelmon Version ``3.4.0`` & PixelUtilities version ``3.3.7``.
 
-Project Ozone
-^^^^^^^^^^^^^
+Project Ozone (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.7.10-final``
 * ``projectozone.mym.li``
 
-Regrowth
-^^^^^^^^
+Regrowth (1.7.10)
+^^^^^^^^^^^^^^^^^
+.. note:: Current version ``0.9.1``
 * ``regrowth2.mym.li``
 
-SkyFactory 2
-^^^^^^^^^^^^
+SkyFactory 2 (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``2.5.4``
 * ``skyfactory2.mym.li``
 * ``skyfactory2_2.mym.li``
 
-Tekkit Legends
-^^^^^^^^^^^^^^
+Tekkit Legends (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.1.1``
 * ``tekkit.mym.li``
 
-ThaumicSkies
-^^^^^^^^^^^^
+ThaumicSkies (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``0.10.1``
 * ``thaumic.mym.li``
 
-The Ferret Business
-^^^^^^^^^^^^^^^^^^^
+The Ferret Business (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``0.2.0``
 * ``ferret.mym.li``
