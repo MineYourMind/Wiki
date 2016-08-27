@@ -19,66 +19,66 @@ Bevo's Tech Pack (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``bevos.mym.li``
 
-Crackpack
-^^^^^^^^^^^^^
+Crackpack (1.7.10)
+^^^^^^^^^^^^^^^^^^
 * ``crackpack.mym.li``
 * ``crackpack2.mym.li``
 
-Crundee Craft
-^^^^^^^^^^^^^
+Crundee Craft (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^
 * ``crundee.mym.li``
 
-Direwolf20
-^^^^^^^^^^
+Direwolf20 (1.7.10)
+^^^^^^^^^^^^^^^^^^^
 * ``direwolf20.mym.li``
 * ``direwolf202.mym.li`` - latest (recommended)
 
-Galactic Science
-^^^^^^^^^^^^^^^^
+Galactic Science (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``galactic.mym.li``
 
-Hypovolemia
-^^^^^^^^^^^^^^^^
+Hypovolemia (1.7.10)
+^^^^^^^^^^^^^^^^^^^^
 * ``hypo.mym.li``
 
-Infinity
-^^^^^^^^
+Infinity (1.7.10) 
+^^^^^^^^^^^^^^^^^
 * ``infinity4.mym.li`` - normal mode
 * ``infinity5.mym.li`` - normal mode
 * ``infinity6.mym.li`` - normal mode - latest (recommended)
 * ``evolved4.mym.li`` - expert mode
 * ``evolved5.mym.li`` - expert mode - latest (recommended)
 
-Infinity Skyblock
-^^^^^^^^^^^^^^^^^
+Infinity Skyblock (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``infinityskyblock.mym.li``
 * ``infinityskyblock2.mym.li``
 
-Pixelmon
-^^^^^^^^
+Pixelmon (1.7.10)
+^^^^^^^^^^^^^^^^^
 * ``pixelmon.mym.li`` - This is running Pixelmon Version ``3.4.0`` & PixelUtilities version ``3.3.7``.
 
-Project Ozone
-^^^^^^^^^^^^^
+Project Ozone (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^
 * ``projectozone.mym.li``
 
-Regrowth
-^^^^^^^^
+Regrowth (1.7.10)
+^^^^^^^^^^^^^^^^
 * ``regrowth2.mym.li``
 
-SkyFactory 2
-^^^^^^^^^^^^
+SkyFactory 2 (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^
 * ``skyfactory2.mym.li``
 * ``skyfactory2_2.mym.li``
 
-Tekkit Legends
-^^^^^^^^^^^^^^
+Tekkit Legends (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^
 * ``tekkit.mym.li``
 
-ThaumicSkies
-^^^^^^^^^^^^
+ThaumicSkies (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^
 * ``thaumic.mym.li``
 
-The Ferret Business
-^^^^^^^^^^^^^^^^^^^
+The Ferret Business (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * ``ferret.mym.li``
