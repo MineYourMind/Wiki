@@ -16,5 +16,5 @@ Hub (1.10)
 
 Pixelmon (1.10)
 ^^^^^^^^^^^^
-.. note:: This is highly experimental 
-* ``next.mym.li`` - Version ``1.10`
+.. note:: This is highly experimental and uses pixelmon beta 5
+* ``pixelmonnext.mym.li`` or ``pixelmongo.mym.li`` - Version ``1.10`
