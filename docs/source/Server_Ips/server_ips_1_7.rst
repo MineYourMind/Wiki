@@ -6,8 +6,8 @@ Server Ip's 1.7 +
   :depth: 2
   :local:
 
-Hub
-^^^
+Hub (1.7.10)
+^^^^^^^^^^^^
 .. note:: You can join the hub on Minecraft 1.7 or 1.8 (vanilla or modded)
 * ``hub.mym.li``
 
