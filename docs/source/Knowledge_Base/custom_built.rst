@@ -143,7 +143,7 @@ Other
 
 Watchdog
 --------
-Our live monitoring system. If a server is getting into trouble it barks. Build for the Amdins, but public to everyone. Each server sents a heartbeat every 20 seconds including live information about its condition.
+Our live monitoring system. If a server is getting into trouble it barks. Build for the Amdins, but public to everyone. Each server sends a heartbeat every 20 seconds including live information about its condition.
 
 * ``Heartbeat`` - Last server respond. 
 * ``P30/120/300/600`` - Average server performance over the last 30/120/300/600 seconds in percentage. (100% = 20TPS, 50% = 10TPS..)
@@ -164,4 +164,5 @@ Mark2
 -----
 
 Website
+https://mineyourmind.net/
 -------
