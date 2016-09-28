@@ -18,7 +18,7 @@ Agrarian Skies 2 (1.7.10)
 
 Bevo's Tech Pack (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``Release 1.0``
+.. note:: Current version ``Release 2.0``
 * ``bevos.mym.li``
 
 Crackpack (1.7.10)
@@ -45,7 +45,7 @@ Galactic Science (1.7.10)
 
 Hypovolemia (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``0.1.8``
+.. note:: Current version ``0.2.0``
 * ``hypo.mym.li``
 
 Infinity (1.7.10) 
