@@ -74,7 +74,7 @@ Project Ozone (1.7.10)
 
 Regrowth (1.7.10)
 ^^^^^^^^^^^^^^^^^
-.. note:: Current version ``0.9.1``
+.. note:: Current version ``1.0.1``
 * ``regrowth2.mym.li``
 
 SkyFactory 2 (1.7.10)
