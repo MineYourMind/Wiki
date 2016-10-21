@@ -67,6 +67,12 @@ Pixelmon (1.7.10)
 ^^^^^^^^^^^^^^^^^
 * ``pixelmon.mym.li`` - This is running Pixelmon Version ``3.4.0`` & PixelUtilities version ``3.3.7``.
 
+Project Ozone 2 (1.7.10)
+^^^^^^^^^^^^^^^^^
+.. note:: Current version ``2.1.6``
+* ``projectozone2.mym.li``
+* ``projectozone2titan.mym.li``
+
 Regrowth (1.7.10)
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.0.1``
