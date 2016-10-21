@@ -18,7 +18,7 @@ Agrarian Skies 2 (1.7.10)
 
 Bevo's Tech Pack (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``Release 2.0``
+.. note:: Current version ``Release 2.1``
 * ``bevos.mym.li``
 
 Crackpack (1.7.10)
