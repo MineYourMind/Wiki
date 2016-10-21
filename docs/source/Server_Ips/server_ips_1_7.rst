@@ -67,19 +67,19 @@ Pixelmon (1.7.10)
 ^^^^^^^^^^^^^^^^^
 * ``pixelmon.mym.li`` - This is running Pixelmon Version ``3.4.0`` & PixelUtilities version ``3.3.7``.
 
-Project Ozone (1.7.10)
+BevosTechPack (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.7.10-final``
-* ``projectozone.mym.li``
+.. note:: Current version ``2.1``
+* ``bevos.mym.li``
 
 Regrowth (1.7.10)
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.0.1``
-* ``regrowth2.mym.li``
+* ``regrowth.mym.li``
 
 SkyFactory 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.5.4``
+.. note:: Current version ``2.5.5``
 * ``skyfactory2.mym.li``
 * ``skyfactory2_2.mym.li``
 
@@ -97,3 +97,10 @@ The Ferret Business (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``0.2.0``
 * ``ferret.mym.li``
+
+NERO (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.2.2``
+* ``nerode.mym.li``
+* ``nerode2.mym.li``
+* ``neroen.mym.li``
