@@ -32,14 +32,14 @@ The biggest potentiel relays within splitting things up. There is no need to hav
 ======================  ==========  =======  =============
 #                       Automation  Storage  Autocrafting
 ======================  ==========  =======  =============
-Storage size            small       big      minimal
-Machine automation      yes         no       only highly required (better fed by automation system)
-Long time storage       no          yes      no
-Trash, overproduction   no          yes      no
-Tools, machines, drops  no          yes      no
-Mass autocrafting       no          yes      limited (for simple things, check out ender io autocrafting, or crafting table pipe automation -> even faster)
-Onetime crafting        yes         no       no (not enough resources)
-Per resource limit      60k         none     60k (see the note below)
+Storage size            Small       Big      Minimal
+Machine automation      Yes         No       Only highly required (better fed by automation system)
+Long time storage       No          Yes      No
+Trash, overproduction   No          Yes      No
+Tools, machines, drops  No          Yes      No
+Mass autocrafting       No          Yes      Limited (for simple things, check out ender io autocrafting, or crafting table pipe automation -> even faster)
+Onetime crafting        Yes         No       No (not enough resources)
+Per resource limit      60k         None     60k (see the note below)
 ======================  ==========  =======  =============
 
 .. note::
