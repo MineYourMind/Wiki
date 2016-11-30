@@ -1,5 +1,5 @@
 +++++++++++++
-Server Ip's
+Our servers and their IPs
 +++++++++++++
 
 .. toctree::
