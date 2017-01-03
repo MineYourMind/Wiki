@@ -69,9 +69,10 @@ Pixelmon (1.7.10)
 
 Project Ozone 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.1.6``
+.. note:: Current version ``2.2.2``
 * ``projectozone2.mym.li``
 * ``projectozone2titan.mym.li``
+* ``projectozone2kappa.mym.li``
 
 Regrowth (1.7.10)
 ^^^^^^^^^^^^^^^^^
