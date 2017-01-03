@@ -96,7 +96,7 @@ ThaumicSkies (1.7.10)
 
 The Ferret Business (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``0.2.0``
+.. note:: Current version ``0.2.2``
 * ``ferret.mym.li``
 
 NERO (1.7.10)
