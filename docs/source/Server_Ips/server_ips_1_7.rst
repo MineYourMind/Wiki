@@ -81,7 +81,7 @@ Regrowth (1.7.10)
 
 SkyFactory 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.5.5``
+.. note:: Current version ``2.5.6``
 * ``skyfactory2.mym.li``
 * ``skyfactory2_2.mym.li``
 
