@@ -95,7 +95,7 @@ Premium
  
 **Tier4:**
 
-* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island    (Denyable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat)
+* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island    (Denyable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat). To remove this flag type ``/is flag deny-spawn``
 * ``/back`` - Teleports you back to your death location    (Excludes Ag's and Sf2)
 * ``/fly`` - Enables creative fly mode    (Excludes Ag's and Sf2)
 * ``/nick [nickname|off]`` - Set a nickname
