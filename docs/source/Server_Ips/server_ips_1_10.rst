@@ -25,3 +25,4 @@ SkyFactory 3 (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 * ``skyfactorynext.mym.li`` - Version ``3.0.4``
+* ``skyfactorynext2.mym.li`` - Version ``3.0.4``
