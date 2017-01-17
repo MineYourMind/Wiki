@@ -14,12 +14,12 @@ Hub (1.10)
 Pixelmon (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``pixelmonnext.mym.li`` or ``pixelmongo.mym.li`` - Version ``1.10``
+* ``pixelmonnext.mym.li`` - Version ``1.10-5.0.1``
 
 Direwolf (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``direwolfnext.mym.li`` - Version ``1.0.0``
+* ``direwolfnext.mym.li`` - Version ``1.3.2``
 
 SkyFactory 3 (1.10)
 ^^^^^^^^^^^^^^^
