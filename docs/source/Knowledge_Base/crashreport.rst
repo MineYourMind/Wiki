@@ -12,7 +12,7 @@ MyM Launcher
 2. Right click on the modpack and click ``View folder``.
 3. Open the ``crash-reports`` folder.
 4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
-5. Click on the ``Submit`` button and copy the web link.
+5. Click on the ``Create new paste`` button and copy the web link.
 6. Paste the link in the forum thread/webchat/ticket.
 
 
@@ -24,7 +24,7 @@ FTB Launcher
 3. Now you are in the ``mods`` folder, go back to the ``minecraft`` folder.
 4. Open the ``crash-reports`` folder.
 5. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
-6. Click on the ``Submit`` button and copy the web link.
+6. Click on the ``Create new paste`` button and copy the web link.
 7. Paste the link in the forum thread/webchat/ticket.
 
 
@@ -35,7 +35,7 @@ Technic Launcher
 2. Select the modpack and click on the small `gearwheel <https://i.imgur.com/23B1fW9.png>`_ below the modapck on the right site
 3. Now you click on ``OpenFolder`` and open the ``crash-reports`` folder.
 4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
-5. Click on the ``Submit`` button and copy the web link.
+5. Click on the ``Create new paste`` button and copy the web link.
 6. Paste the link in the forum thread/webchat/ticket.
 
 ATLauncher
@@ -45,7 +45,7 @@ ATLauncher
 2. Select ``instances``, and locate your pack. and 
 3. Click ``Open Folder``and locate the ``crash-report`` folder.
 4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
-5. Click on the ``Submit`` button and copy the web link.
+5. Click on the ``Create new paste`` button and copy the web link.
 6. Paste the link in the forum thread/webchat/ticket.
 
 Curse Launcher
@@ -55,5 +55,5 @@ Curse Launcher
 2. Select ``Minecraft``, and locate your pack.
 3. Right click and select ``Open folder``, then locate the ``crash-reports`` folder.
 4. Paste the contents of the latest crash-report on `Pastebin <http://pastebin.com>`_.
-5. Click on the ``Submit`` button and copy the web link.
+5. Click on the ``Create new paste`` button and copy the web link.
 6. Paste the link in the forum thread/webchat/ticket.
