@@ -24,8 +24,7 @@ Bevo's Tech Pack (1.7.10)
 Crackpack (1.7.10)
 ^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.0``
-* ``crackpack.mym.li``
-* ``crackpack2.mym.li``
+* ``crackpacknew.mym.li``
 
 Crundee Craft (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -43,11 +42,6 @@ Galactic Science (1.7.10)
 .. note:: Current version ``1.6.3``
 * ``galactic.mym.li``
 
-Hypovolemia (1.7.10)
-^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``0.2.0``
-* ``hypo.mym.li``
-
 Infinity (1.7.10) 
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.6.0``
@@ -61,7 +55,6 @@ Infinity Skyblock (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.2.0``
 * ``infinityskyblock.mym.li``
-* ``infinityskyblock2.mym.li``
 
 Pixelmon (1.7.10)
 ^^^^^^^^^^^^^^^^^
@@ -71,7 +64,6 @@ Project Ozone 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.2.2``
 * ``projectozone2.mym.li``
-* ``projectozone2titan.mym.li``
 * ``projectozone2kappa.mym.li``
 
 Regrowth (1.7.10)
@@ -83,17 +75,11 @@ SkyFactory 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.5.6``
 * ``skyfactory2.mym.li``
-* ``skyfactory2_2.mym.li``
 
 Tekkit Legends (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.1``
 * ``tekkit.mym.li``
-
-ThaumicSkies (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``0.10.1``
-* ``thaumic.mym.li``
 
 The Ferret Business (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -104,5 +90,3 @@ NERO (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.2.2``
 * ``nerode.mym.li``
-* ``nerode2.mym.li``
-* ``neroen.mym.li``
