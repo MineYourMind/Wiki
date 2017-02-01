@@ -30,7 +30,7 @@ To find out what Minecraft is doing at the moment, do the following:
 1. Select the ``Threads`` tab and click on the ``Thread Dump`` button
 2. Copy everything by pressing ``Ctrl + A`` & ``Ctrl + C``
 3. Paste it on `Pastebin <http://pastebin.com>`_
-4. Click on the ``Submit`` button and copy the web link
+4. Click on the ``Create New Paste`` button and copy the web link
 5. Send the link to us
 
 Connection
@@ -39,5 +39,5 @@ Connection
 2. Type the server address into the ``Host`` box and click ``Start``
 3. Click ``Stop`` after 5 minutes
 4. Paste it on `Pastebin <http://pastebin.com>`_
-5. Click on the ``Submit`` button and copy the web link
+5. Click on the ``Create New Paste`` button and copy the web link
 6. Send the link to us
