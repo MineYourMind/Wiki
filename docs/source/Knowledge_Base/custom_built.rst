@@ -154,9 +154,9 @@ Our live monitoring system. If a server is getting into trouble it barks. Build 
 * ``Staff`` - Amount of staff online, hover for details (red = staff with operator permissions). 
 * ``StaffSeen`` - Time passed since a staff member has been seen on this server.
 * ``Worlds`` - Amount of worlds present (does not mean loaded).
-* ``Chunks`` - Amount of chunks loaded across all worlds. <n>/p chunks per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
-* ``Entities`` - Amount of entities (Animlas, Monster, Villager, Items on the ground..) loaded across all worlds. <n>/p entities per player with a 128 total tolerance removed (the overworld spawn is usually loaded).
-* ``TileEntities`` - Amount of tile entities (Machines, Chests, Cables/Conduits..) loaded across all worlds. <n>/p tile entities per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
+* ``Chunks`` - Amount of chunks loaded across all worlds. /p chunks per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
+* ``Entities`` - Amount of entities (Animlas, Monster, Villager, Items on the ground..) loaded across all worlds. /p entities per player with a 128 total tolerance removed (the overworld spawn is usually loaded).
+* ``TileEntities`` - Amount of tile entities (Machines, Chests, Cables/Conduits..) loaded across all worlds. /p tile entities per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
 
 Watchdog can be found `here <https://mineyourmind.net/server-status.html>`_
 
