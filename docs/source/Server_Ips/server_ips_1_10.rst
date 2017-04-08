@@ -26,3 +26,8 @@ SkyFactory 3 (1.10)
 .. note:: This is highly experimental
 * ``skyfactorynext.mym.li`` - Version ``3.0.6``
 * ``skyfactorynext2.mym.li`` - Version ``3.0.6``
+
+Beyond (1.10)
+^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+* ``beyond.mym.li`` - Version ``1.2.1``
