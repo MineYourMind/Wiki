@@ -147,15 +147,15 @@ Our live monitoring system. If a server is getting into trouble it barks. Build 
 
 * ``Heartbeat`` - Last server response. 
 * ``P30/120/300/600`` - Average server performance over the last 30/120/300/600 seconds in percentage. (100% = 20TPS, 50% = 10TPS..)
-* ``GC30`` - The garbage dump from the server in the last 30 seconds.
+* ``GC30`` - Time spent for java garbage collection during the last 30 seconds.
 * ``S6/12/24`` - Server sessions over the last 6/12/24 hours. High numbers signalize that the server crashed/froze/restarted a lot.
-* ``Uptime`` - How long the server has been up.
+* ``Uptime`` - For how long the server has been up.
 * ``Players`` - Amount of players online.
 * ``Staff`` - Amount of staff online, hover for details (red = staff with operator permissions). 
 * ``StaffSeen`` - Time passed since a staff member has been seen on this server.
 * ``Worlds`` - Amount of worlds present (does not mean loaded).
 * ``Chunks`` - Amount of chunks loaded across all worlds. /p chunks per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
-* ``Entities`` - Amount of entities (Animlas, Monster, Villager, Items on the ground..) loaded across all worlds. /p entities per player with a 128 total tolerance removed (the overworld spawn is usually loaded).
+* ``Entities`` - Amount of entities (Animlas, Monsters, Villagers, Items on the ground..) loaded across all worlds. /p entities per player with a 128 total tolerance removed (the overworld spawn is usually loaded).
 * ``TileEntities`` - Amount of tile entities (Machines, Chests, Cables/Conduits..) loaded across all worlds. /p tile entities per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
 
 Watchdog can be found `here <https://mineyourmind.net/server-status.html>`_
