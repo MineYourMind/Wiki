@@ -1,11 +1,14 @@
 SkyFactory 3
 ============
+
+Concept
+-------
 It's skyblock like you've never seen it before! High tech mods and  full automation! Sky Factory starts the player in the void with nothing but a tree and a *single* piece of dirt between you and certain death! Version 3 adds a variety of new mods to the pack and gives the player much more choice than ever before.  Pick up your achievement book today and start your journey!
 
 You can find more info about FTB Infinity over on the Website : ``https://www.feed-the-beast.com/projects/ftb-presents-skyfactory-3``
 
 Mods
-====
+----
 * Forge/FML by LexManos, cpw
 * [SBM] Wooden Shears  by darkguardsman
 * Actually Additions  by Ellpeck

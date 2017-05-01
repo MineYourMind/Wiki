@@ -1,5 +1,5 @@
-Crackpack
-=========
+FTB Crackpack
+=============
 
 Concept
 -------

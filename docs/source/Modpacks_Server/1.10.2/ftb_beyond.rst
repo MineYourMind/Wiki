@@ -1,11 +1,14 @@
 FTB Beyond
 ==========
+
+Concept
+-------
 The pack for all people. Beyond is the general all-purpose pack from the FTB team that is designed for solo play as well as small and medium population servers. 
 
 You can find more info about FTB Infinity over on the Website : ``https://www.feed-the-beast.com/projects/ftb-beyond``
 
 Mods
-====
+----
 * Forge/FML by LexManos, cpw
 * Actually Additions  by Ellpeck
 * Advanced Machines  by Chocohead
