@@ -30,7 +30,7 @@ SkyFactory 3 (1.10)
 Beyond (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``beyond.mym.li`` - Version ``1.6.1``
+* ``beyond.mym.li`` - Version ``1.8.1``
 
 Forever Stranded (1.10)
 ^^^^^^^^^^^^^^^
