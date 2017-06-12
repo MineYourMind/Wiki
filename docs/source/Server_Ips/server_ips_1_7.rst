@@ -28,8 +28,8 @@ Crackpack (1.7.10)
 
 Crundee Craft (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.0.23``
-* ``crundee.mym.li``
+.. note:: Current version ``1.1.0``
+* ``crundeenew.mym.li``
 
 Direwolf20 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^
