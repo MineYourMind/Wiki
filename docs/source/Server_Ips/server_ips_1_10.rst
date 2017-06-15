@@ -19,7 +19,7 @@ Pixelmon (1.10)
 Direwolf (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``direwolfnext.mym.li`` - Version ``1.10.0``
+* ``direwolfnext.mym.li`` - Version ``1.11.0``
 
 SkyFactory 3 (1.10)
 ^^^^^^^^^^^^^^^
