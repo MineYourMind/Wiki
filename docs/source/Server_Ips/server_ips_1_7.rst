@@ -62,7 +62,7 @@ Pixelmon (1.7.10)
 
 Project Ozone 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.2.2``
+.. note:: Current version ``2.2.9``
 * ``projectozone2.mym.li``
 * ``projectozone2kappa.mym.li``
 
