@@ -85,8 +85,3 @@ The Ferret Business (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``0.2.2``
 * ``ferret.mym.li``
-
-NERO (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.2.2``
-* ``nerode.mym.li``
