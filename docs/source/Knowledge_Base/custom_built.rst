@@ -19,7 +19,7 @@ Automaticly backs up the server to ensure your work is safe
 
 ChunkManager
 ------------
-Our custom built chunk plugin use /cm introduction to find out more
+Our custom built chunk plugin use ``/cm introduction`` to find out more
 
 Claim/Island Deleter
 --------------------
@@ -31,11 +31,11 @@ Redis Chat
 
 Stats
 -----
-Keeps track of your play time and other useful stats use /stats me to see them
+Keeps track of your playtime and other useful stats use ``/stats me`` to see them
 
 Announcer
 ---------
-Allows staff to make global announcements when needed
+Allows staff members to make global announcements when needed
 
 Vote
 ----
@@ -43,7 +43,7 @@ Allows players to get tokens and reminds them to vote regularly
 
 Random Teleport
 ---------------
-Using /rt you can teleport to a random location on the map
+Using ``/rt`` you can teleport to a random location on the map
 
 Ranks
 -----
@@ -51,7 +51,7 @@ Ranks show how long you have been playing on MyM servers
 
 ForumFeed
 ---------
-Displays information from your linked fourm account
+Displays information from your linked forum account
 
 MultiBlockLimit
 ---------------
@@ -93,15 +93,16 @@ Mods (forge)
 
 Kit
 ---
-allows for kits to give you items in game
+allows for kits to give you items ingame
 
 World Downloader
 ----------------
-Allows a player to download there claim to single player and test or continue to play there mainly uses when a server is shutting down
+Allows a player to download their claim(s) to single player and test or continue to play.
+Its mainly use is when a server is shutting down
 
 EntityControl
 -------------
-Allows staff to control/limit mob spawning
+Allows staff members to control/limit mob spawning
 
 Chunk Deleter
 -------------
@@ -109,7 +110,7 @@ Chunk Deleter
 
 MyM-Tweaks
 ----------
-Applys several tweaks to allow all servers to operator correctly
+Applies several tweaks to allow all servers to operate correctly
 
 MyMKit
 ------
@@ -117,7 +118,7 @@ MyMKit
 
 ModPatches
 ----------
-Allows staff to fix gameplay breaking mod issues
+Allows staff members to fix gamebreaking mod issues
 
 Custom Third Party Forks
 ------------------------
@@ -143,7 +144,7 @@ Other
 
 Watchdog
 --------
-Our live monitoring system. If a server is getting into trouble it barks. Build for the Admins, but public to everyone. Each server sends a heartbeat every 20 seconds including live information about its condition.
+Our live monitoring system. If a server is getting into trouble it barks. Built for the Admins, but public to everyone. Each server sends a heartbeat every 20 seconds including live information about its condition.
 
 * ``Heartbeat`` - Last server response. 
 * ``P30/120/300/600`` - Average server performance over the last 30/120/300/600 seconds in percentage. (100% = 20TPS, 50% = 10TPS..)
@@ -155,7 +156,7 @@ Our live monitoring system. If a server is getting into trouble it barks. Build 
 * ``StaffSeen`` - Time passed since a staff member has been seen on this server.
 * ``Worlds`` - Amount of worlds present (does not mean loaded).
 * ``Chunks`` - Amount of chunks loaded across all worlds. /p chunks per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
-* ``Entities`` - Amount of entities (Animlas, Monsters, Villagers, Items on the ground..) loaded across all worlds. /p entities per player with a 128 total tolerance removed (the overworld spawn is usually loaded).
+* ``Entities`` - Amount of entities (Animals, Monsters, Villagers, Items on the ground..) loaded across all worlds. /p entities per player with a 128 total tolerance removed (the overworld spawn is usually loaded).
 * ``TileEntities`` - Amount of tile entities (Machines, Chests, Cables/Conduits..) loaded across all worlds. /p tile entities per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
 
 Watchdog can be found `here <https://mineyourmind.net/server-status.html>`_
