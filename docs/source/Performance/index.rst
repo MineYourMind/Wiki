@@ -2,7 +2,7 @@ Performance Guide
 =================
 
 Server Performance and Stability is the main goal of MineYourMind, the part we value the most and put most of our time in.
-While we can take care of the outstanding things, the general usage depends on the setups from players and their understanding of modded minecraft performance. Therefore please take the time to read up on the following guides and do your duty on performance optimisation for a lag free as possible gaming experience.
+While we can take care of the outstanding things, the general usage depends on the setups from players and their understanding of modded minecraft performance. Therefore please take the time to read up on the following guides and do your duty on performance optimisation to keep the gaming experience as lag free as possible.
 
 .. note::
    If you are enclined to have us take a look at your base or one you find suspicious, please let us know.
@@ -11,21 +11,21 @@ While we can take care of the outstanding things, the general usage depends on t
 Applied Energistics
 -------------------
 
-As you can imagine, the performance of the Applied Energistics ME-System is mainly related to the size of the System. But there are parts with a bigger impact than others. There a lot of possible optimizations with less downsights - in some cases even quite some benefits - and easy implementation. This guide has been created to give an idea of how the system works and how to get the most out of it in terms of performance.
+As you can imagine, the performance impact of an Applied Energistics ME-System is mainly related to the size of the System. But there are parts with a bigger impact than others. There a lot of possible optimizations with less downsights - in some cases even quite some benefits - and easy implementation. This guide has been created to give an idea of how the system works and how to get the most out of it in terms of performance.
 
 Basics
 ^^^^^^
 
-Considering al parts of a ME-System it is clear that nearly every task is - be it crafting, export, import, machine control.. - is directly related to the inventory. This being pointed out, the biggest performance optimisation potential is within the size of the inventory. So what can be done, what are our recommendations?
+Considering all parts of an ME-System it is clear that nearly every task is - be it crafting, export, import, machine control.. - is directly related to the inventory. This being pointed out, the biggest performance optimisation potential is within the size of the inventory. So what can be done, what are our recommendations?
 
 .. note::
-   When we speak about the **inventory** we are talking about the following parts: ME-Drive's, Storage Disk's and occupied slot's of those disk's. This means a system with only 10 items and 1000 ME-Drive's is not well performing (experience from Agrarian Skies, normal ME but 1000 Drives = 2/20 tps). So the goal is to keep all 3 of those parts as small as possible. E.g. 1 Drive and only fully occupied disk's.
+   When we speak about the **inventory** we are talking about the following parts: ME-Drive's, Storage Disk's and occupied slot's of those disk's. This means a system with only 10 items and 1000 ME-Drive's is not well performing (experience from Agrarian Skies, normal ME but 1000 Drives = 2/20 tps). So the goal is to keep all 3 of those parts as small as possible. E.g. 1 Drive and only fully occupied disks.
 
 
 Split up
 ^^^^^^^^
 
-The biggest potentiel relays within splitting things up. There is no need to have everything within one system. Of course it is the most economical and comfortable way but in terms of performance the worst. When I talk about splitting things up, this doesn't mean that everything gets over complicated. 
+The biggest performance saving potential lays within splitting things up. There is no need to have everything within one system. Of course, it is the most economical and comfortable way but in terms of performance it also is the worst. When I talk about splitting things up, this doesn't mean that everything should become over complicated. 
 
 **The goal** to keep systems which are performing a lot of tasks as small as possible.
 
@@ -59,7 +59,7 @@ Per resource limit      60k         None     60k (see the note below)
 Specific
 ^^^^^^^^
 
-Once you get to a big base automating multiple mods it is often not a lot to ask you to split it up even more. Have a single setup for bee automation, one for ore pre processing, one for energy production...
+Once you get to a big base automating multiple mods it often is not a lot to ask you to split it up even more. Have a single setup for bee automation, one for ore pre processing, one for energy production...
 
 
 Ancient Warfare Automation Tree Farm
@@ -138,7 +138,7 @@ Other ways to increase your FPS include downloading performance inhancers such a
 
 **Agricraft**
 
-Agricraft sprinklers and water channels can cause huge client/FPS lag. Their particles can be turned off in the mods config.
+Agricraft sprinklers and water channels can cause huge client/FPS lag. Their particles can be turned off in the mods config. Still, even without the water particles, these sprinklers can be the cause of huge FPS and even TPS lags. Try using as few of them as posible.
 
 **Immersive Engineering**
 
@@ -146,9 +146,9 @@ Immersive Engineering Waterwheels and Windmills have moving parts which can caus
 
 **Item Pipes**
 
- Item ducts that aren't opaque from Thermal Expansion and Buildcraft pipes can dramatically reduce your fps as they both show items moving through the pipes. These tile entities can drastically lower your fps, if you are using the clear item ducts from Thermal Expansion. If possible try to use the opaque ones as they are better for your fps and don't show the items moving through the pipes but work as the same transfer rate. 
+ Item ducts that aren't opaque from Thermal Expansion and Buildcraft pipes can dramatically reduce your fps as they both show items moving through the pipes. These tile entities can drastically lower your fps, if you are using the clear item ducts from Thermal Expansion. If possible try to use the opaque ones as they are better for your fps and don't show the items moving through the pipes but work at the same transfer rate. 
 
-As for Buildcraft try to use pipes that don't show these items from 0other mods as most mods these days work with any machine. Another solution is using a single Buildcraft pipe to a chest which is then piped from it using for example Opaque Thermal Expansion ducts or even Ender IO cables. 
+As for Buildcraft, try using pipes from other mods which don't show the items. These days most mods work with just about any machine. If your setup requires BC pipes for whatever reason, try using as few of them as possible. You can also just use BC pipes as entry and exit point of your piping system and then switch to opaque Thermal Expansion ducts, as they will interconnect.
 
 .. todo::
    Client performance guide. (get the most out of it)
