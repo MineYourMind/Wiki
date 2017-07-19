@@ -11,11 +11,6 @@ Hub (1.10)
 .. note:: You can use any version of Minecraft 1.10
 * ``next.mym.li`` - Version ``1.10``
 
-Pixelmon (1.10)
-^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-* ``pixelmonnext.mym.li`` - Version ``1.10-5.0.4``
-
 Direwolf (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
