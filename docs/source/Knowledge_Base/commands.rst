@@ -22,10 +22,10 @@ General
 Chat
 ====
 * ``/msg [player] [message]`` - Sends a private message
-* ``/r [message]`` - Reply to the player
-* ``/mail send [player] [message]`` -  Send a offline message
-* ``/mail read`` - Check your offline messages
-* ``/mail clear`` - Remove your messages
+* ``/r [message]`` - Reply to the last player that sent you a message
+* ``/mail send [player] [message]`` -  Sends an offline message
+* ``/mail read`` - Checks your offline messages
+* ``/mail clear`` - Removes your offline messages
 
 Claims
 ======
@@ -34,14 +34,14 @@ See :ref:`ref-griefprevention` for more information.
 
 Island
 ======
-* ``/island`` - Opens the GUI
+* ``/island`` - Opens the island GUI
 * ``/island restart`` - Deletes your island and start a new one
-* ``/island sethome`` - Set your island teleport point
+* ``/island sethome`` - Set your island home point
 * ``/island home`` - Teleports to your island home point
 * ``/island invite [player]`` - Invite a player to join your island
-* ``/island trust [player]`` - Same as invite but allows to keep the island for the trusted player
+* ``/island trust [player]`` - Same as invite but allows the trusted player to keep his island
 * ``/island untrust [player]`` - Removes the build permission for the player
-* ``/island [accept/reject]`` - Accept or reject the invite (Your own Island get deleted)
+* ``/island [accept/reject]`` - Accept or reject the invite (Your own Island will get deleted)
 * ``/island party`` - View your island members
 * ``/island leave`` - Leave another player's island
 * ``/island kick [player]`` - Remove a player from your island
@@ -58,8 +58,8 @@ Market
 * ``/market listings`` - Opens the buy interface
 * ``/market mail`` - Open your mailbox
 * ``/market create [price] <amount>`` - Creates a listing. You need to be holding the item you wish to list in your hand.
-* ``/market pricecheck`` - Check the item in your hand's price
-* ``/market send [player] <amount>`` - This allows a player to send items to another player with out having to be near one another.
+* ``/market pricecheck`` - Check price for the item you are holding in your hand
+* ``/market send [player] <amount>`` - This allows a player to send items to another player without the need of being near each other.
 
 Tickets
 =======
@@ -67,10 +67,6 @@ Tickets
 
 See :ref:`ref-ticket` for more information.
 
-Server Restart Votes
-====================
-* ``/srv request`` - Will start a 2 minute voting poll to restart the server or not (Only on specific servers at the moment)
-* ``/srv [yes/no]`` - Will vote either yes or no on the current poll
 
 Premium
 =======
@@ -82,15 +78,15 @@ Premium
 
 **Tier2:**
 
-* ``/enderchest`` - Allows you remote access to a vanilla enderchest belonging to you
+* ``/enderchest`` - Allows you remote access to your vanilla enderchest
 * ``/workbench`` - Allows access to a remote crafting table
-* ``/ptime [day/night]`` - Allows you to change the time for just you. Please note this doesnt affect blocks needing certain times of the day! (Only applicable on Ag's and Sf2)
+* ``/ptime [day/night]`` - Allows you to change the time for just you. Please note this doesn't affect blocks needing certain times of the day! (Only applicable on Ag's and Sf2)
 
 **Tier3:**
 
-* ``/back`` - Teleports you to the latest location    (Excludes Ag's and Sf2)
-* ``/feed`` - Fills your hunger bar with a 5min cooldown    (See Tier 1 for Ag and Sf2 access to this command)
-* ``/hat`` - Sets your item in the hand as hat
+* ``/back`` - Teleports you back to the latest location    (Excludes Ag's and Sf2)
+* ``/feed`` - Fills your hunger bar (5min cooldown)    (See Tier 1 for Ag and Sf2 access to this command)
+* ``/hat`` - Sets the item in your hand as hat
 
  
 **Tier4:**
@@ -99,7 +95,7 @@ Premium
 * ``/back`` - Teleports you back to your death location    (Excludes Ag's and Sf2)
 * ``/fly`` - Enables creative fly mode    (Excludes Ag's and Sf2)
 * ``/nick [nickname|off]`` - Set a nickname
-* ``/heal`` - Heals yourself with a 5min cooldown (Excludes Ag's And Sf2)
+* ``/heal`` - Heals yourself (5min cooldown) (Excludes Ag's And Sf2)
 * ``/pvp`` - Will disable pvp in the nether    (Only applies to Ag's and Sf2)
  
 **Tier5:**
