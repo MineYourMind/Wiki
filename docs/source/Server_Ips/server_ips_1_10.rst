@@ -11,15 +11,17 @@ Hub (1.10)
 .. note:: You can use any version of Minecraft 1.10
 * ``next.mym.li`` - Version ``1.10``
 
-Pixelmon (1.10)
-^^^^^^^^^^^^^^^
+Age of Engineering (1.10)
+^^^^^^^^^^
 .. note:: This is highly experimental
-* ``pixelmonnext.mym.li`` - Version ``1.10-5.0.4``
+* ``aoe.mym.li`` - Version ``1.0.4``
+* ``aoe2.mym.li`` - Version ``1.0.4``
+* ``aoe3.mym.li`` - Version ``1.0.4``
 
 Direwolf (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``direwolfnext.mym.li`` - Version ``1.12.0``
+* ``direwolfnext2.mym.li`` - Version ``1.12.0``
 
 SkyFactory 3 (1.10)
 ^^^^^^^^^^^^^^^
@@ -30,7 +32,7 @@ SkyFactory 3 (1.10)
 Beyond (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``beyond.mym.li`` - Version ``1.9.0``
+* ``beyond2.mym.li`` - Version ``1.10.0``
 
 Forever Stranded (1.10)
 ^^^^^^^^^^^^^^^

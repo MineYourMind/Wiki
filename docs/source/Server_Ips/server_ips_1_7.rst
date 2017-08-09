@@ -16,11 +16,6 @@ Agrarian Skies 2 (1.7.10)
 .. note:: Current version ``1.1.14``
 * ``as2.mym.li``
 
-Bevo's Tech Pack (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``Release 2.5``
-* ``bevos.mym.li``
-
 Crackpack (1.7.10)
 ^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.0``
@@ -34,8 +29,7 @@ Crundee Craft (1.7.10)
 Direwolf20 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.10.0``
-* ``direwolf20.mym.li``
-* ``direwolf202.mym.li`` - latest (recommended)
+* ``direwolf202.mym.li``
 
 Galactic Science (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -45,11 +39,9 @@ Galactic Science (1.7.10)
 Infinity (1.7.10) 
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.6.0``
-* ``infinity4.mym.li`` - normal mode
-* ``infinity5.mym.li`` - normal mode
-* ``infinity6.mym.li`` - normal mode - latest (recommended)
-* ``evolved4.mym.li`` - expert mode
-* ``evolved5.mym.li`` - expert mode - latest (recommended)
+* ``infinity-normal.mym.li`` - normal mode - latest (recommended)
+* ``infinity-expert.mym.li`` - expert mode - latest (recommended)
+* ``infinity6.mym.li`` - normal mode
 
 Infinity Skyblock (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -62,7 +54,7 @@ Pixelmon (1.7.10)
 
 Project Ozone 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.2.9``
+.. note:: Current version ``2.3.0``
 * ``projectozone2.mym.li``
 * ``projectozone2kappa.mym.li``
 
@@ -79,7 +71,7 @@ SkyFactory 2 (1.7.10)
 Tekkit Legends (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.1``
-* ``tekkit.mym.li``
+* ``tekkitnew.mym.li``
 
 The Ferret Business (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
