@@ -16,5 +16,4 @@ The video below will show you how to setup the portal for our 1.10 servers:
 
 .. raw:: html
 
-	<iframe width="640" height="360" src="https://www.youtube.com/embed/hZIQndmtRD0" frameborder="0" allowfullscreen>
-</iframe>
+	<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/hZIQndmtRD0?rel=0" frameborder="0" allowfullscreen></iframe>
