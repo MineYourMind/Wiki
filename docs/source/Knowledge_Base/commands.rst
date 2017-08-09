@@ -74,13 +74,13 @@ Premium
 
 * ``/kit <kitname>`` - Shows all kits, or gives you the listed kit
 * ``/is flag [greeting/farewell] [message]`` - Changes the leave/enter message of your island
-* ``/feed`` - Fills your hunger bar to full, with a 24hr cooldown. See ``mym.li/shop`` for more cooldown times       (Only applicable on Ag's and Sf2)
+* ``/feed`` - Fills your hunger bar to full, with a 24hr cooldown. See ``mym.li/shop`` for more cooldown times       (Only applicable on both Ag's and Sf2)
 
 **Tier2:**
 
 * ``/enderchest`` - Allows remote access to your personal vanilla enderchest
 * ``/workbench`` - Allows access to a remote crafting table
-* ``/ptime [day/night]`` - Changes the client-side time. Please note this doesn't affect blocks needing certain times of the day! (Only applicable on Ag's and Sf2)
+* ``/ptime [day/night]`` - Changes the client-side time. Please note this doesn't affect blocks needing certain times of the day! (Only applicable on both Ag's and Sf2)
 
 **Tier3:**
 
@@ -92,7 +92,7 @@ Premium
 **Tier4:**
 
 * ``/is flag deny-spawn [mob]`` - Denies the specific mob to spawn on your island    (Deniable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat). To remove this flag type ``/is flag deny-spawn``
-* ``/back`` - Also teleports you back to your death location    (Excludes Ag's and Sf2, read Tier 3 for more information)
+* ``/back`` - Also teleports you back to your death location    (Excludes both Ag's and Sf2; read Tier 3 for more information)
 * ``/fly`` - Enables creative fly mode    (Excludes both Ag's and Sf2)
 * ``/nick [nickname|off]`` - Set a nickname
 * ``/heal`` - Heals yourself (5min cooldown) (Excludes both Ag's And Sf2)
