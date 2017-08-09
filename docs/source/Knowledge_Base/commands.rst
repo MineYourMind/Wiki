@@ -46,24 +46,24 @@ Island
 * ``/island leave`` - Leave another player's island
 * ``/island kick [player]`` - Removes a player from your island
 * ``/island warp [player]`` - Warps to another player's island
-* ``/island setwarp`` - Set your island's warp location
+* ``/island setwarp`` - Sets your island's warp location
 * ``/island togglewarp`` - Enable/disable warping to your island
 * ``/island ban [player]`` - Ban/unban a player from your island
 * ``/island lock`` - Non-group members can't enter your island
-* ``/island unlock`` - Allow anyone to enter your island
+* ``/island unlock`` - Allows anyone to enter your island
 * ``/island makeleader [player]`` - Sets a player as owner of the island
 
 Market
 ======
 * ``/market listings`` - Opens the buy interface
-* ``/market mail`` - Open your mailbox
+* ``/market mail`` - Opens your mailbox
 * ``/market create [price] <amount>`` - Creates a listing for the market. You need to be holding the item you wish to list in your hand.
-* ``/market pricecheck`` - Check price for the item you are holding in your hand
+* ``/market pricecheck`` - Checks the recommended price for an item in your hand
 * ``/market send [player] <amount>`` - Transfers the item (In your hand) to a player, this allows for long distance trading from player to player
 
 Tickets
 =======
-* ``/ticket`` - Create a new ticket
+* ``/ticket`` - Creates a new ticket
 
 See :ref:`ref-ticket` for more information.
 
@@ -73,7 +73,7 @@ Premium
 **Tier1:**
 
 * ``/kit <kitname>`` - Shows all kits, or gives you the listed kit
-* ``/is flag [greeting/farewell] [message]`` - Change the leave/enter message of your island
+* ``/is flag [greeting/farewell] [message]`` - Changes the leave/enter message of your island
 * ``/feed`` - Fills your hunger bar to full, with a 24hr cooldown. See ``mym.li/shop`` for more cooldown times       (Only applicable on Ag's and Sf2)
 
 **Tier2:**
@@ -91,7 +91,7 @@ Premium
  
 **Tier4:**
 
-* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island    (Denyable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat). To remove this flag type ``/is flag deny-spawn``
+* ``/is flag deny-spawn [mob]`` - Denies the specific mob to spawn on your island    (Deniable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat). To remove this flag type ``/is flag deny-spawn``
 * ``/back`` - Also teleports you back to your death location    (Excludes Ag's and Sf2, read Tier 3 for more information)
 * ``/fly`` - Enables creative fly mode    (Excludes both Ag's and Sf2)
 * ``/nick [nickname|off]`` - Set a nickname
