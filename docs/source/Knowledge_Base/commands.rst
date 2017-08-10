@@ -96,7 +96,7 @@ Premium
 * ``/fly`` - Enables creative fly mode    (Excludes both Ag's and Sf2)
 * ``/nick [nickname|off]`` - Set a nickname
 * ``/heal`` - Heals yourself (5min cooldown) (Excludes both Ag's And Sf2)
-* ``/pvp`` - Disables pvp in the nether    (Only applies to both Ag's and Sf2)
+* ``/pvp`` - Disables PVP in the nether    (Only applies to both Ag's and Sf2)
  
 **Tier5:**
 
