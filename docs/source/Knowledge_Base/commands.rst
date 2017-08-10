@@ -6,26 +6,26 @@ General
 =======
 * ``/spawn`` - Teleports you to the spawn point
 * ``/sethome`` - Sets your home location
-* ``/pvp`` - Toggle PVP on/off
-* ``/ignore <player>`` - Show the ignore list or ignore a player
+* ``/pvp`` - Toggles PVP on/off
+* ``/ignore <player>`` - Shows the ignore list or ignores a player
 * ``/money`` - Shows your money
-* ``/pay [player] [amount]`` - Send money to a player
+* ``/pay [player] [amount]`` - Sends money to a player
 * ``/money top`` - This displays the top 5 richest players
 * ``/suicide`` - Kills yourself
 * ``/stats`` - Shows your ontime
 * ``/vote`` - Vote for our server and get rewards
-* ``/ts`` - Show our TS3 IP
-* ``/website`` - Show our website url
-* ``/forum`` - Show our forum url
-* ``/premium`` - Show our shop url
+* ``/ts`` - Shows our TS3 IP
+* ``/website`` - Shows our website url
+* ``/forum`` - Shows our forum url
+* ``/premium`` - Shows our shop url
 
 Chat
 ====
 * ``/msg [player] [message]`` - Sends a private message
 * ``/r [message]`` - Reply to the last player that sent you a message
 * ``/mail send [player] [message]`` -  Sends an offline message
-* ``/mail read`` - Checks your offline messages
-* ``/mail clear`` - Removes your offline messages
+* ``/mail read`` - Checks your offline message(s)
+* ``/mail clear`` - Removes your offline message(s)
 
 Claims
 ======
@@ -35,35 +35,35 @@ See :ref:`ref-griefprevention` for more information.
 Island
 ======
 * ``/island`` - Opens the island GUI
-* ``/island restart`` - Deletes your island and start a new one
-* ``/island sethome`` - Set your island home point
+* ``/island restart`` - Deletes your island and starts a new one
+* ``/island sethome`` - Sets your island home point
 * ``/island home`` - Teleports to your island home point
-* ``/island invite [player]`` - Invite a player to join your island
-* ``/island trust [player]`` - Same as invite but allows the trusted player to keep his island
+* ``/island invite [player]`` - Invites a player to join your island
+* ``/island trust [player]`` - Allows the player to interact with your island
 * ``/island untrust [player]`` - Removes the build permission for the player
 * ``/island [accept/reject]`` - Accept or reject the invite (Your own Island will get deleted)
 * ``/island party`` - View your island members
 * ``/island leave`` - Leave another player's island
-* ``/island kick [player]`` - Remove a player from your island
-* ``/island warp [player]`` - Warp to another player's island
-* ``/island setwarp`` - Set your island's warp location
+* ``/island kick [player]`` - Removes a player from your island
+* ``/island warp [player]`` - Warps to another player's island
+* ``/island setwarp`` - Sets your island's warp location
 * ``/island togglewarp`` - Enable/disable warping to your island
 * ``/island ban [player]`` - Ban/unban a player from your island
 * ``/island lock`` - Non-group members can't enter your island
-* ``/island unlock`` - Allow anyone to enter your island
-* ``/island makeleader [player]`` - Makes the player to the owner of the island
+* ``/island unlock`` - Allows anyone to enter your island
+* ``/island makeleader [player]`` - Sets a player as owner of the island
 
 Market
 ======
 * ``/market listings`` - Opens the buy interface
-* ``/market mail`` - Open your mailbox
-* ``/market create [price] <amount>`` - Creates a listing. You need to be holding the item you wish to list in your hand.
-* ``/market pricecheck`` - Check price for the item you are holding in your hand
-* ``/market send [player] <amount>`` - This allows a player to send items to another player without the need of being near each other.
+* ``/market mail`` - Opens your mailbox
+* ``/market create [price] <amount>`` - Creates a listing for the market. You need to be holding the item you wish to list in your hand.
+* ``/market pricecheck`` - Checks the recommended price of an item in your hand
+* ``/market send [player] <amount>`` - Transfers the item (In your hand) to a player, this allows for long distance trading from player to player
 
 Tickets
 =======
-* ``/ticket`` - Create a new ticket
+* ``/ticket`` - Creates a new ticket
 
 See :ref:`ref-ticket` for more information.
 
@@ -72,35 +72,35 @@ Premium
 =======
 **Tier1:**
 
-* ``/kit <kitname>`` - Shows all kits and gives you the kit
-* ``/is flag [greeting/farewell] [message]`` - Change the leave/enter message of your island
-* ``/feed`` - Fills your hunger bar to full, with a 24hr cooldown. See ``mym.li/shop`` for more cooldown times       (Only applicable on Ag's and Sf2)
+* ``/kit <kitname>`` - Shows all kits, or redeems the defined kit
+* ``/is flag [greeting/farewell] [message]`` - Changes the leave/enter message of your island
+* ``/feed`` - Fills your hunger bar to full, with a 24hr cooldown. See ``mym.li/shop`` for more cooldown times       (Only applicable on both Ag's and Sf2)
 
 **Tier2:**
 
-* ``/enderchest`` - Allows you remote access to your vanilla enderchest
+* ``/enderchest`` - Allows remote access to your personal vanilla enderchest
 * ``/workbench`` - Allows access to a remote crafting table
-* ``/ptime [day/night]`` - Allows you to change the time for just you. Please note this doesn't affect blocks needing certain times of the day! (Only applicable on Ag's and Sf2)
+* ``/ptime [day/night]`` - Changes the client-side time. Please note this doesn't affect blocks needing certain times of the day! (Only applicable on both Ag's and Sf2)
 
 **Tier3:**
 
-* ``/back`` - Teleports you back to the latest location    (Excludes Ag's and Sf2)
+* ``/back`` - Teleports you back to a previous teleport    (Excludes both Ag's and Sf2)
 * ``/feed`` - Fills your hunger bar (5min cooldown)    (See Tier 1 for Ag and Sf2 access to this command)
-* ``/hat`` - Sets the item in your hand as hat
+* ``/hat`` - Sets the item in your hand as a hat
 
  
 **Tier4:**
 
-* ``/is flag deny-spawn [mob]`` - Denys the specific mob to spawn on your island    (Denyable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat). To remove this flag type ``/is flag deny-spawn``
-* ``/back`` - Teleports you back to your death location    (Excludes Ag's and Sf2)
-* ``/fly`` - Enables creative fly mode    (Excludes Ag's and Sf2)
+* ``/is flag deny-spawn [mob]`` - Denies the specific mob to spawn on your island    (Deniable mobs are zombie, skeleton, creeper, witch, wolf, spider, slime, bat). To remove this flag type ``/is flag deny-spawn``
+* ``/back`` - Also teleports you back to your death location    (Excludes both Ag's and Sf2; read Tier 3 for more information)
+* ``/fly`` - Enables creative fly mode    (Excludes both Ag's and Sf2)
 * ``/nick [nickname|off]`` - Set a nickname
-* ``/heal`` - Heals yourself (5min cooldown) (Excludes Ag's And Sf2)
-* ``/pvp`` - Will disable pvp in the nether    (Only applies to Ag's and Sf2)
+* ``/heal`` - Heals yourself (5min cooldown) (Excludes both Ag's And Sf2)
+* ``/pvp`` - Disables PVP in the nether    (Only applies to both Ag's and Sf2)
  
 **Tier5:**
 
-* ``/god``- Enables god mode to get no damage
+* ``/god``- Enables god mode, allowing no damage to be taken (Not including damage that bypasses creative)
 * ``/is flag creeper-explosion [deny/allow]`` - Enable/Disable Creeper explosion
-* ``/thru`` - Will allow you to go through blocks, does the same as right click of a compass
-* ``/jump`` - Will allow you to jump to where your cursor is looking, does the same as left click of a compass
+* ``/thru`` - Allows you to go through blocks, does the same as right clicking a compass
+* ``/jump`` - Allows you to jump to where your cursor is looking, does the same as left clicking a compass
