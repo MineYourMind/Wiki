@@ -72,7 +72,7 @@ Premium
 =======
 **Tier1:**
 
-* ``/kit <kitname>`` - Shows all kits, or gives you the listed kit
+* ``/kit <kitname>`` - Shows all kits, or redeems the defined kit
 * ``/is flag [greeting/farewell] [message]`` - Changes the leave/enter message of your island
 * ``/feed`` - Fills your hunger bar to full, with a 24hr cooldown. See ``mym.li/shop`` for more cooldown times       (Only applicable on both Ag's and Sf2)
 
