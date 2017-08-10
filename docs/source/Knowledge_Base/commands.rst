@@ -7,7 +7,7 @@ General
 * ``/spawn`` - Teleports you to the spawn point
 * ``/sethome`` - Sets your home location
 * ``/pvp`` - Toggles PVP on/off
-* ``/ignore &a<player>`` - Shows the ignore list or ignores a player
+* ``/ignore <player>`` - Shows the ignore list or ignores a player
 * ``/money`` - Shows your money
 * ``/pay [player] [amount]`` - Sends money to a player
 * ``/money top`` - This displays the top 5 richest players
