@@ -58,7 +58,7 @@ Market
 * ``/market listings`` - Opens the buy interface
 * ``/market mail`` - Opens your mailbox
 * ``/market create [price] <amount>`` - Creates a listing for the market. You need to be holding the item you wish to list in your hand.
-* ``/market pricecheck`` - Checks the recommended price for an item in your hand
+* ``/market pricecheck`` - Checks the recommended price of an item in your hand
 * ``/market send [player] <amount>`` - Transfers the item (In your hand) to a player, this allows for long distance trading from player to player
 
 Tickets
@@ -100,7 +100,7 @@ Premium
  
 **Tier5:**
 
-* ``/god``- Enables god mode, allowing no damage taken (Not including damage that bypasses creative)
+* ``/god``- Enables god mode, allowing no damage to be taken (Not including damage that bypasses creative)
 * ``/is flag creeper-explosion [deny/allow]`` - Enable/Disable Creeper explosion
 * ``/thru`` - Allows you to go through blocks, does the same as right clicking a compass
 * ``/jump`` - Allows you to jump to where your cursor is looking, does the same as left clicking a compass
