@@ -75,6 +75,6 @@ Premium
  
 **Tier5:**
 
-* ``/god``- Enables god mode, allowing no damage to be taken (Not including damage that bypasses creative)
+* ``/god`` - Enables god mode, allowing no damage to be taken (Not including damage that bypasses creative)
 * ``/thru`` - Allows you to go through blocks, does the same as right clicking a compass
 * ``/jump`` - Allows you to jump to where your cursor is looking, does the same as left clicking a compass
