@@ -41,7 +41,7 @@ Island
 
 Tickets
 =======
-* ``/ticket`` - Show information regarding tickets
+* ``/ticket`` - Show information regarding ticket creation
 * ``/ticket create`` - Create a ticket
 
 See :ref:`ref-ticket` for more information.
