@@ -41,7 +41,8 @@ Island
 
 Tickets
 =======
-* ``/ticket`` - Creates a new ticket
+* ``/ticket`` - Show information regarding ticket creation
+* ``/ticket create`` - Create a ticket
 
 See :ref:`ref-ticket` for more information.
 
@@ -52,11 +53,13 @@ Premium
 
 * ``/kit <kitname>`` - Shows all kits, or redeems the defined kit
 * ``/feed`` - Fills your hunger bar to full
+* ``/anvil`` - Allows remote access to your personal anvil
 
 **Tier2:**
 
 * ``/enderchest`` - Allows remote access to your personal vanilla enderchest
 * ``/workbench`` - Allows access to a remote crafting table
+* ``/et <power>`` - Allows remote access to your personal vanilla enchanting table
 
 **Tier3:**
 
