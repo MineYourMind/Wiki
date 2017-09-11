@@ -10,19 +10,19 @@ F.A.Q.
    :depth: 2
    :local:
 
-Where do I apply for Staff (Moderator)?
--------------------------------------------------
+Where do I apply to become part of the MyM Team?
+------------------------------------------------
 
-All information about staff applications and their responsibilities can be found on `the forums <https://mineyourmind.net/forum/forums/jobs.239/>`_.
+All information about applying to staff (Jr.Moderator) and their responsibilites can be found on `the forums <https://mineyourmind.net/forum/forums/jobs.239/>`_. You can also apply for Developer here as well.
 
 
 When do I get promoted from Lost Soul etc.?
 -------------------------------------------
 
-The ranks are only titles nothing more. It is planned more but on a pretty low priority. The promotion itself happens based on your time spent on the server. If you want to know your tracked time, try ``/stats``. 
+The ranks are titles only and nothing more. There is more planned but on a pretty low priority. The promotion itself happens based on your time spent on the server. If you want to know your tracked time, try ``/stats`` in-game. You can view how long it takes to get to each rank `here <https://docs.google.com/spreadsheets/d/1FYG5h0ZcSNyUvcGDIasFGRLEum-BiRZ8ZhB1ny1hrSI/edit>`_.
 
 
-What are credits and how do I get them?
+What are credits and how do I obtain them?
 ---------------------------------------
 
 Credits is our micro payment currency. It can be obtained on `the shop <http://mym.li/shop>`_.
@@ -42,14 +42,18 @@ big        4 hours
 unstable*  2-3 hours
 =========  ==========
 
-`*unstable in terms of leaking cpu, disk io or memory usage`
+`*unstable in terms of leaking cpu, disk io or memory usage or 1.10 servers currently`
 
 
 Is there a TeamSpeak server?
 ----------------------------
 
 Of course, please use the command ``/ts`` on any of our servers for the details.
-Please be aware that you will need to verify your TeamSpeak identity by connecting it to your minecraft identity. Instructions are provided when you connect to the TeamSpeak server.
+There is a ``Verified`` rank on Teamspeak but this doesn't restrict you. This informs us you have verified you minecraft account with Teamspeak. Nothing more.
+
+Is there a Discord server?
+--------------------------
+We do now! You can get to the MyM discord by accepting `this <https://discord.gg/8tyM6xb>`_ invite. 
 
 
 Can I record YouTube or Twitch on here?
