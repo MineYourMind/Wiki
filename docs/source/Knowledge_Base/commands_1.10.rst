@@ -6,7 +6,6 @@ General
 =======
 * ``/spawn`` - Teleports you to the spawn point
 * ``/sethome`` - Sets your home location
-* ``/ignore <player>`` - Toggles ignoring of the specific player
 * ``/money`` - Shows your money
 * ``/pay [player] [amount]`` - Sends money to a player
 * ``/baltop`` - This displays the top 5 richest players
@@ -22,6 +21,7 @@ Chat
 ====
 * ``/msg [player] [message]`` - Sends a private message
 * ``/r [message]`` - Reply to the last player that sent you a message
+* ``/ignore <player>`` - Toggles ignoring of the specific player
 * ``/mail send [player] [message]`` -  Sends an offline message
 * ``/mail`` - Checks your offline message(s)
 * ``/mail clear`` - Removes your offline message(s)
