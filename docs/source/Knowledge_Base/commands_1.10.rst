@@ -26,9 +26,15 @@ Chat
 * ``/mail`` - Checks your offline message(s)
 * ``/mail clear`` - Removes your offline message(s)
 * ``/party`` - Shows party chat commands
+* ``/friend`` - Shows friend commands
 
 Claims
 ======
+* ``/trust [player]`` - Gives the player permissions to build
+* ``/untrust [player]`` - Revokes any permissions of the player
+* ``/trustlist`` - Lists all trusted players
+* ``/abandonclaim`` - Deletes the claim you're standing in
+* ``/claimslist`` - Lists your claims
 
 See :ref:`ref-griefprevention` for more information.
 
@@ -52,7 +58,6 @@ Premium
 **Tier1:**
 
 * ``/kit <kitname>`` - Shows all kits, or redeems the defined kit
-* ``/feed`` - Fills your hunger bar to full
 * ``/anvil`` - Allows remote access to your personal anvil
 
 **Tier2:**
