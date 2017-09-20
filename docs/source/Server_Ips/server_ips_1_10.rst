@@ -14,9 +14,9 @@ Hub (1.10)
 Age of Engineering (1.10)
 ^^^^^^^^^^
 .. note:: This is highly experimental
-* ``aoe.mym.li`` - Version ``1.0.4``
-* ``aoe2.mym.li`` - Version ``1.0.4``
-* ``aoe3.mym.li`` - Version ``1.0.4``
+* ``aoe.mym.li`` - Version ``1.1.1c``
+* ``aoe2.mym.li`` - Version ``1.1.1c``
+* ``aoe3.mym.li`` - Version ``1.1.1c``
 
 Direwolf (1.10)
 ^^^^^^^^^^^^^^^
