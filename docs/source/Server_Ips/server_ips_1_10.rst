@@ -26,8 +26,8 @@ Direwolf (1.10)
 SkyFactory 3 (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``skyfactorynext.mym.li`` - Version ``3.0.10``
-* ``skyfactorynext2.mym.li`` - Version ``3.0.10``
+* ``skyfactorynext.mym.li`` - Version ``3.0.14``
+* ``skyfactorynext2.mym.li`` - Version ``3.0.14``
 
 Beyond (1.10)
 ^^^^^^^^^^^^^^^
