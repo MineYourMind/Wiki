@@ -23,7 +23,7 @@ Crackpack (1.7.10)
 
 Crundee Craft (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.0.23``
+.. note:: Current version ``1.1.0``
 * ``crundee.mym.li``
 
 Direwolf20 (1.7.10)
@@ -33,7 +33,7 @@ Direwolf20 (1.7.10)
 
 Galactic Science (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.6.3``
+.. note:: Current version ``1.6.4``
 * ``galactic.mym.li``
 
 Infinity (1.7.10) 
@@ -45,7 +45,7 @@ Infinity (1.7.10)
 
 Infinity Skyblock (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.2.0``
+.. note:: Current version ``2.0.1``
 * ``infinityskyblock.mym.li``
 
 Project Ozone 2 (1.7.10)
