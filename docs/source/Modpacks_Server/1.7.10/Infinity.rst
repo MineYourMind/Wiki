@@ -1,11 +1,14 @@
-FTB Infinity
-============
+Infinity Evolved
+================
+
+Concept
+-------
 The pack for all people. Infinity is the general all-purpose pack from the FTB team that is designed for solo play as well as small and medium population servers.
 
-You can find more info about FTB Infinity over on the Website : ``http://www.feed-the-beast.com/modpacks/FTBInfinity``
+You can find more info about FTB Infinity over on the Website : ``https://www.feed-the-beast.com/projects/ftb-infinity-evolved``
 
 Mods
-====
+----
 * Forge/FML by LexManos, cpw
 * Advanced Solar Panels by SeNtiMeL
 * AOBD 2 by ganymedes01
