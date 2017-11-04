@@ -37,4 +37,4 @@ Beyond (1.10)
 Forever Stranded (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``stranded.mineyourmind.net`` - Version ``1.9.3``
+* ``stranded.mineyourmind.net`` - Version ``1.9.5``
