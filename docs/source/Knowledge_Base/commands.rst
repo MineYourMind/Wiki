@@ -41,6 +41,7 @@ Island
 * ``/island invite [player]`` - Invites a player to join your island
 * ``/island trust [player]`` - Allows the player to interact with your island
 * ``/island untrust [player]`` - Removes the build permission for the player
+* ``/island trustlist`` - Returns a list of players trusted on your island
 * ``/island [accept/reject]`` - Accept or reject the invite (Your own Island will get deleted)
 * ``/island party`` - View your island members
 * ``/island leave`` - Leave another player's island
