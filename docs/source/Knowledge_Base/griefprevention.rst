@@ -13,7 +13,8 @@ Create a claim
 ==============
 
 Use your first Chest to create a claim or use a golden shovel and click two corners with it to create your claim. If you use the golden shovel to create a claim then you have to look that the claim is at least 10x10 blocks, else it will not work. Everything in this claim is protected from outsiders.
-The glowstone and gold shows you the corners which you can hide with a stick if you right click in the outside of your claim or you click in the inside to show them.
+
+The glowstone and gold show you the corners which you can hide with a stick if you right click on the outside of your claim or you click on the inside to show them.
  
 Trust a player
 ==============
