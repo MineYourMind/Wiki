@@ -48,7 +48,7 @@ Our Administrators handle the back-end side of the network. This involves settin
 They report directly to the Founder position.
 
 Manager: 
-Our Managers handle staffing issues. This means hiring/firing of all moderator positions, resolving player complaints, reviewing ban reports/appeals, and directly overseeing the day to day activity of the moderator and co-admin positions.
+Our Managers handle staffing issues. This means hiring/firing of all moderator positions, resolving player complaints, reviewing ban reports/appeals, and directly overseeing the day to day activity of the moderator/senior moderator and junior administrator positions.
 They report directly to the Founder position.
 
 Consultant:
