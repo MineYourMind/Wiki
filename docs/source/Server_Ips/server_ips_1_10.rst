@@ -16,23 +16,29 @@ Age of Engineering (1.10)
 .. note:: This is highly experimental
 * ``aoe4.mym.li`` - Version ``1.1.2``
 
+Beyond (1.10)
+^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+* ``beyond2.mym.li`` - Version ``1.11.0``
+
 Direwolf (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 * ``direwolfnext2.mym.li`` - Version ``1.12.0``
+
+Forever Stranded (1.10)
+^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+* ``stranded.mineyourmind.net`` - Version ``1.9.5``
+
+Project Ozone Lite (1.10)
+^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+* ``polite.mym.li`` - Version ``1.3.6``
+* ``polite2.mym.li`` - Version ``1.3.6``
 
 SkyFactory 3 (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 * ``skyfactorynext.mym.li`` - Version ``3.0.15``
 * ``skyfactorynext2.mym.li`` - Version ``3.0.15``
-
-Beyond (1.10)
-^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-* ``beyond2.mym.li`` - Version ``1.11.0``
-
-Forever Stranded (1.10)
-^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-* ``stranded.mineyourmind.net`` - Version ``1.9.5``
