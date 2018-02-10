@@ -5,14 +5,14 @@ Commands 1.10
 General
 =======
 * ``/spawn`` - Teleports you to the spawn point
-* ``/sethome`` - Sets your home location
-* ``/money`` - Shows your money
+* ``/sethome [name]`` - Sets your home location and optionally name it
+* ``/money`` - Shows the amount of MyMs you own
 * ``/pay [player] [amount]`` - Sends money to a player
-* ``/baltop`` - This displays the top 5 richest players
+* ``/baltop`` - Displays the top 5 richest players
 * ``/suicide`` - Kills yourself
-* ``/stats`` - Shows your ontime
-* ``/vote`` - Vote for our server and get rewards
-* ``/ts`` - Shows our TS3 IP
+* ``/stats`` - Shows the time you have spent on all servers
+* ``/vote`` - Displays vote links to earn rewards by voting for the server
+* ``/ts`` - Shows our TeamSpeak3 IP
 * ``/website`` - Shows our website url
 * ``/forum`` - Shows our forum url
 * ``/premium`` - Shows our shop url
@@ -21,10 +21,10 @@ Chat
 ====
 * ``/msg [player] [message]`` - Sends a private message
 * ``/r [message]`` - Reply to the last player that sent you a message
-* ``/ignore <player>`` - Toggles ignoring of the specific player
+* ``/ignore <player>`` - Toggles ignoring of the specified player, disallowing them from sending you messages
 * ``/mail send [player] [message]`` -  Sends an offline message
 * ``/mail`` - Checks your offline message(s)
-* ``/mail clear`` - Removes your offline message(s)
+* ``/mail clear`` - Clears all your offline message(s)
 * ``/party`` - Shows party chat commands
 * ``/friend`` - Shows friend commands
 
@@ -40,15 +40,17 @@ See :ref:`ref-griefprevention` for more information.
 
 Island
 ======
-* ``/island create`` - Creates a island
+* ``/island create`` - Creates an island
 * ``/island reset`` - Deletes your island and starts a new one
-* ``/island setspawn`` - Sets your island spawn point
-* ``/island spawn`` - Teleports to your island spawn point
+* ``/island setspawn`` - Sets your island's spawn point at your position
+* ``/island spawn`` - Teleports you to your island's spawn point
+* ``/island sethome`` - Sets your island's home point at your position
+* ``/island home`` - Teleports you to the home point you have set
 
 Tickets
 =======
-* ``/ticket`` - Show information regarding ticket creation
-* ``/ticket create`` - Create a ticket
+* ``/ticket`` - Shows information regarding ticket creation
+* ``/ticket create`` - Creates an empty ticket and displays a link in which to fill in the information
 
 See :ref:`ref-ticket` for more information.
 
@@ -58,19 +60,19 @@ Premium
 **Tier1:**
 
 * ``/kit <kitname>`` - Shows all kits, or redeems the defined kit
-* ``/anvil`` - Allows remote access to your personal anvil
+* ``/anvil`` - Opens a portable anvil window only you can use
 
 **Tier2:**
 
-* ``/enderchest`` - Allows remote access to your personal vanilla enderchest
-* ``/workbench`` - Allows access to a remote crafting table
-* ``/et <power>`` - Allows remote access to your personal vanilla enchanting table
+* ``/enderchest`` - Opens your enderchest at will
+* ``/workbench`` - Opens a 9x9 crafting window
+* ``/et <power>`` - Opens a vanilla enchanting table window
 
 **Tier3:**
 
-* ``/back`` - Teleports you back to a previous teleport
-* ``/feed`` - Fills your hunger bar
-* ``/hat`` - Sets the item in your hand as a hat
+* ``/back`` - Teleports you back to a previous location
+* ``/feed`` - Fills your hunger bar, and saturation
+* ``/hat`` - Put the item your holding on your head
 
  
 **Tier4:**
@@ -83,6 +85,6 @@ Premium
  
 **Tier5:**
 
-* ``/god`` - Enables god mode, allowing no damage to be taken (Not including damage that bypasses creative)
-* ``/thru`` - Allows you to go through blocks, does the same as right clicking a compass
-* ``/jump`` - Allows you to jump to where your cursor is looking, does the same as left clicking a compass
+* ``/god`` - Enables god mode, making you invincible, disabling damage taken (Not including damage that bypasses creative ex. Chaos Guardian)
+* ``/thru`` - Moves you through the block(s) you're looking at, right clicking a compass has the same effect
+* ``/jump`` - Moves you to the block your cursor is pointing at, right clicking a compass has the same effect
