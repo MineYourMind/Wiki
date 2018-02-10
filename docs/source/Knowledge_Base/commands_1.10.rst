@@ -11,7 +11,7 @@ General
 * ``/baltop`` - Displays the top 5 richest players
 * ``/suicide`` - Kills yourself
 * ``/stats`` - Shows the time you have spent on all servers
-* ``/vote`` - Displays vote links to ears rewards by voting for the server
+* ``/vote`` - Displays vote links to earn rewards by voting for the server
 * ``/ts`` - Shows our TeamSpeak3 IP
 * ``/website`` - Shows our website url
 * ``/forum`` - Shows our forum url
