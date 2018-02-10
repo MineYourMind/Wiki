@@ -1,20 +1,20 @@
 +++++++++++++++++
-Slack - Public Chat
+Discord - Public Chat
 +++++++++++++++++
 
 Introduction
 ============
-.. what is slack::
-slack is a chat app that allows you to communicate with other players and staff
+.. what is Discord::
+Discord is an app that allows you to communicate with other players and staff either by chatting in text channels or talking to people in voice channels
 
 
 Guidelines
 ==========
 
-Below is a list of simple rules helping you to achieve the most out of using general IRC channels
+Below is a list of simple rules that will enchance the expierence for you and the rest of the community!
 
-- **Diffrent channels** Our public slack has many channels these are used for diffrent purposes such as #support which is linked to a staff slack this allows staff to help you
-- **#Support** is only used for support questions if you are crashing or having other issues if you just want to talk please use #random
-- **How do i sign up to slack?** you sign up here http://foxtrot.mym.li:3000/
-- **Be friendly and refrain from acting demanding** No one is obligated to help you, so don't act like they would be. The chance of being ignored raises with your level of demanding and unfriendliness.
-- **Be patient!** Responses can take hours. People in an IRC channel are not there waiting for people to join and chat with them. They might not even be on the computer, be focused on work or playing a game. Give them time to respond and don't wait for an answer. (Do it like them and have IRC open in background, checking from time to time for updates/responses)
+- **Diffrent channels** Our public discord has many channels these are used for diffrent purposes such as #support which is linked to one of staff's slack channels.
+- **#Support** is only used for support questions if you are crashing or having other issues if you just want to talk please do not use this channel, use the channel corresponding to your wishes, or #general for general chatter.
+- **How do i sign up for discord?** You can sign up for a free discord account at http://discord.gg , once you have, you can follow this link: http://mym.li/discord to join us.
+- **Be friendly** No one is obligated to help you, nor here to have people be mean to them, so please, try to remain calm while waiting for someone to help you. 
+- **Be patient!** Responses can take a little while. People that are on Discord are usually not sitting there, waiting for you to ask your question. They might not even be on the computer, be focused on work or playing a game. Give them time to respond, and go play a game, relax or grab something to eat or drink in the process.
