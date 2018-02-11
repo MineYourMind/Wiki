@@ -55,12 +55,12 @@ Consultant:
 Our Consultants are like our retired staff. They are usually previous Administrators & Managers who can be called upon to voice their opinions to help out the network. They retain permissions based on their previous rank. 
 
 Junior Administrator:
-Our Junior Administrators handle issues that don't require backend access. The handle issues that are out of the hands of the Moderators and are not directly required to be fixed by an Administrator. They help fix or deal with bugs on
+Our Junior Administrators handle issues that don't require backend access. They handle issues that are out of the hands of the Moderators and are not directly required to be fixed by an Administrator. They help fix or deal with bugs on
 the servers including heart issues, and questing problems. The can still work on Moderator type issues if needed. They are handed work from the Administrator Team. 
 They report directly to the Manager position.
 
 Senior Moderator: 
-Our Senior Moderators are in charge of the day to day operation of the servers in-game. This means taking care of server performance, handling escalated tickets from moderators and general task list from administrators.
+Our Senior Moderators are in charge of the day to day operation of the servers in game. Their main focus is on dealing with community, handling escalated tickets from moderators, mentoring Jr. Moderators and general task lists from administrators and managers.
 They report directly to the Manager position.
 
 Moderator: 
