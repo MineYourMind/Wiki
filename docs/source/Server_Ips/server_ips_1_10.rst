@@ -29,7 +29,7 @@ Direwolf (1.10)
 Forever Stranded (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``stranded.mineyourmind.net`` - Version ``1.9.5``
+* ``stranded.mineyourmind.net`` - Version ``1.9.9.1``
 
 Project Ozone Lite (1.10)
 ^^^^^^^^^^^^^^^
