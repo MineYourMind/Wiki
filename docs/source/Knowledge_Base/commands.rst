@@ -73,12 +73,12 @@ Premium
 =======
 **Patron:**
 
-* ``/ca`` - Allows to change your cosmetic armor
+* ``/ca`` - Allows you to change your cosmetic armor
 * ``/is flag [greeting/farewell] [message]`` - Changes the leave/enter message of your island
 * ``/gp flag [greeting/farewell] [message]`` - Changes the leave/enter message of your claim
-* ``/nick`` - Allows to change the nickname
+* ``/nick`` - Allows you to change your nickname
 * ``/hat`` - Sets the current selected block as hat
-* ``/ptime`` - Allows to change the virtual time
+* ``/ptime`` - Allows you to change the virtual time
 
 
 
