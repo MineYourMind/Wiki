@@ -33,7 +33,7 @@ Direwolf20 (1.7.10)
 
 Divine Journey (1.7.10)
 ^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.5.7`` **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_
+.. note:: Current version is ``1.5.7`` and is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
 * ``divinejourney.mym.li``
 
 Galactic Science (1.7.10)
