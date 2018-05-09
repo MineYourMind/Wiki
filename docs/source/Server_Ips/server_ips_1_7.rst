@@ -64,17 +64,7 @@ Regrowth (1.7.10)
 .. note:: Current version ``1.0.2``
 * ``regrowth.mym.li``
 
-SkyFactory 2 (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.5.6``
-* ``skyfactory2.mym.li``
-
 Tekkit Legends (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.1``
 * ``tekkitnew.mym.li``
-
-The Ferret Business (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``0.2.2``
-* ``ferret.mym.li``
