@@ -55,18 +55,17 @@ Tickets
 See :ref:`ref-ticket` for more information.
 
 
-Premium
+Patron
 =======
-**Patron:**
-
 * ``/ca`` - Allows to change your cosmetic armor
 * ``/claimfarewell [message]`` - Changes the leave message of your claim
 * ``/claimgreeting [message]`` - Changes the enter message of your claim
 * ``/nick`` - Allows to change the nickname
 * ``/hat`` - Sets the current selected block as hat
+* ``/patron friendpass [player]`` - Gives the player a friend pass
 
-
-
+LegacyTiers
+=======
 **Tier1:**
 
 * ``/kit <kitname>`` - Shows all kits, or redeems the defined kit
