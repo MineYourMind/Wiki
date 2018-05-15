@@ -69,19 +69,18 @@ Tickets
 See :ref:`ref-ticket` for more information.
 
 
-Premium
+Patron
 =======
-**Patron:**
-
 * ``/ca`` - Allows you to change your cosmetic armor
 * ``/is flag [greeting/farewell] [message]`` - Changes the leave/enter message of your island
 * ``/gp flag [greeting/farewell] [message]`` - Changes the leave/enter message of your claim
 * ``/nick`` - Allows you to change your nickname
 * ``/hat`` - Sets the current selected block as hat
 * ``/ptime`` - Allows you to change the virtual time
+* ``/patron friendpass [player]`` - Gives the player a friend pass
 
-
-
+LegacyTiers
+=======
 **Tier1:**
 
 * ``/kit <kitname>`` - Shows all kits, or redeems the defined kit
