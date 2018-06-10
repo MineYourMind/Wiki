@@ -47,6 +47,11 @@ Island
 * ``/island sethome`` - Sets your island's home point at your position
 * ``/island home`` - Teleports you to the home point you have set
 
+Market
+======
+* ``/market open`` - Opens the buy interface
+* ``/market add [price] <amount>`` - Creates a listing for the market. You need to be holding the item you wish to list in your hand.
+
 Tickets
 =======
 * ``/ticket`` - Shows information regarding ticket creation
