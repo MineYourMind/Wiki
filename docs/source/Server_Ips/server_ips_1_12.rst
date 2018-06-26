@@ -9,6 +9,7 @@ FTB Continuum (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 * ``continuum.mym.li`` - Version ``1.0.2``
+* ``continuum2.mym.li`` - Version ``1.0.2``
 
 FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
