@@ -14,7 +14,7 @@ FTB Continuum (1.12.2)
 FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``revelation.mineyourmind.net`` - Version ``1.8.0``
+* ``revelation2.mineyourmind.net`` - Version ``2.1.0``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
