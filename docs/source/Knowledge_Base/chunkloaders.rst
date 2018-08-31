@@ -4,4 +4,18 @@
 
 Creating a chunkloader
 ============
-Chunkloaders are only available in 1.7.10 or higher. Create your chunkloader by shift right clicking a iron or golden block with an empty hand. This will pop up a GUI which asks you how big you want your chunkloader, which can be 1x1, 3x3, and soforth.
+Chunkloaders are only available in 1.7.10 or higher. Create your chunkloader by shift right clicking a iron or golden block with an empty hand. This will pop up a GUI which asks you how big you want your chunkloader, which can be 1x1, 3x3, and soforth. Chunkloaders take tickets every 10 minutes, and any placed can be found using the command `/cm list` Here are the various chunkloaders, which blocks you need, and what they do:
+
+Iron Block: This creates an iron chunkloader, which only loads entities like a normal chunkloader when you are online. This means that you aren't using tickets when you don't need to, and is usually for quarries, etc that you don't need chunkloaded all the time but is in a different dimension. 
+
+Gold Block: This creates a gold chunkloader, which functions similarly to an iron chunkloader, but it runs all the time. When you are offline, the chunkloading cost changes to quintuple the normal cost, and the chunkloading limits are reduced to save vital processing power.
+
+Chunkloading limits
+============
+
+These are the limits to chunkloading, (introduced 23/04/18)
+
+Default: Iron - 9 chunks, Gold - 3 chunks
+Patron: Iron - 12 chunks, Gold - 6 chunks
+Patron Tier 2: Iron - 16 chunks, Gold - 9 chunks 
+Patron Tier 3: Iron - 32 chunks, Gold - 16 chunks
