@@ -15,16 +15,16 @@ Chunkloading limits
 
 These are the limits to chunkloading, (introduced 23/04/18)
 
-Default: Iron - 9 chunks, Gold - 3 chunks
-Patron: Iron - 12 chunks, Gold - 6 chunks
-Patron Tier 2: Iron - 16 chunks, Gold - 9 chunks 
-Patron Tier 3: Iron - 32 chunks, Gold - 16 chunks
+* Default: Iron - 9 chunks, Gold - 3 chunks
+* Patron: Iron - 12 chunks, Gold - 6 chunks
+* Patron Tier 2: Iron - 16 chunks, Gold - 9 chunks 
+* Patron Tier 3: Iron - 32 chunks, Gold - 16 chunks
 
 Tickets can be bought with tokens at a rate of 10,000 to 1 token. Information about how the voting system works can be found here: https://mineyourmind.net/forum/threads/figuring-out-the-way-new-voting-tickets-and-tokens-work.13054/
 
 Chunkloader commands
 ============
 
-`/cm help` - Shows a help page of MYM Chunkloaders
-`/cm introduction` - Intro on how to use chunkloaders
-`/cm list <name> [page]` Replace name with your own name, shows your chunkloaders.
+* ``/cm help`` Shows a help page of MYM Chunkloaders
+* ``/cm introduction`` - Intro on how to use chunkloaders
+* ``/cm list <name> [page]`` Replace name with your own name, shows your chunkloaders.
