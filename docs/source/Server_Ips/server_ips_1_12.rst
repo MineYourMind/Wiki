@@ -14,9 +14,9 @@ FTB Continuum (1.12.2)
 FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``revelation2.mineyourmind.net`` - Version ``2.1.0``
+* ``revelation2.mineyourmind.net`` - Version ``2.4.1``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental and is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
+.. note:: This is highly experimental
 * ``sevtech.mineyourmind.net`` - Version ``3.0.7``
