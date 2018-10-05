@@ -19,4 +19,4 @@ FTB Revelation (1.12.2)
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``sevtech.mineyourmind.net`` - Version ``3.0.7``
+* ``sevtech.mineyourmind.net`` - Version ``3.0.8``
