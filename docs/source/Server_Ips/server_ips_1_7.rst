@@ -68,3 +68,12 @@ Tekkit Legends (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.1``
 * ``tekkitnew.mym.li``
+
+
+Awakening (1.7.10)
+^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: Current version ``2.28.2``
+* ``awakening.mym.li``
+
+.. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>` for more details on Patron.
+ 
