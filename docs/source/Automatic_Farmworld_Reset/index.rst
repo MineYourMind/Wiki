@@ -34,9 +34,7 @@ General
 - Outer Lands (*Thaumcraft*)
 - Erebus
 
-Monthly
--------
-
+**Monthly**
 - Farmworld
 - Nether
 - Dream World (*Witchery*)
@@ -66,4 +64,4 @@ Server Specific Exceptions
 - Tropicraft (is *NOT* being reset)
 
 **Galatic Science**
-- Nothing will be reset
+- Nothing will be reset 
