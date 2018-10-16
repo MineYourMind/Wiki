@@ -65,3 +65,6 @@ Server Specific Exceptions
 
 **Galatic Science**
 - Nothing will be reset 
+
+**SevTech**
+- Twilight Forest Weekly Reset
