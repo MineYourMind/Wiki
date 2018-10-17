@@ -17,6 +17,7 @@ Contents:
    Performance/index
    Modpacks_Server/index
    Server_Ips/index
+   Automatic_Farmworld_Reset/index
    Launcher/index
    Credits/index
 
