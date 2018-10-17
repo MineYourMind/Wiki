@@ -17,6 +17,11 @@ FTB Revelation (1.12.2)
 * ``revelation2.mineyourmind.net`` - Version ``2.5.0``
 
 Sevtech (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 * ``sevtech.mineyourmind.net`` - Version ``3.0.8``
+
+StoneBlock (1.12.2)
+^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+* ``stoneblock.mym.li`` - Version ``1.0.22r1``
