@@ -27,14 +27,16 @@ Which worlds are on the reset list currently?
 We have two different lists here. We have a General reset section and a Exemption/Server Specific reset list. General meaning that these worlds/dimensions are, by default, automatically reset. 
 
 General
-
 -------
+
 **Weekly**
+
 - The End
 - Outer Lands (*Thaumcraft*)
 - Erebus
 
 **Monthly**
+
 - Farmworld
 - Nether
 - Dream World (*Witchery*)
