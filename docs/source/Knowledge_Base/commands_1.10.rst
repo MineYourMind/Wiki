@@ -46,6 +46,8 @@ Island
 * ``/island spawn`` - Teleports you to your island's spawn point
 * ``/island sethome`` - Sets your island's home point at your position
 * ``/island home`` - Teleports you to the home point you have set
+* ``/island homesetbiome <biometype>`` - Change your island biome type
+.. note:: The biome options are ``ocean``, ``swampland``, ``forest``, ``flower_forest``, ``jungle``, ``plains``
 
 Market
 ======
