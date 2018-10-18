@@ -30,11 +30,13 @@ General
 -------
 
 **Weekly**
+
 - The End
 - Outer Lands (*Thaumcraft*)
 - Erebus
 
 **Monthly**
+
 - Farmworld
 - Nether
 - Dream World (*Witchery*)
