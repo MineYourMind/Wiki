@@ -3,6 +3,7 @@ Legacy Tier Perk Info
 +++++++++++++++++++++
 
 Here you can find some info about what perks our Legacy Tiers offered when we were able to sell them. The only perks we sell now are found on our Shop Page, and are now a monthly subscription with different benefits. 
+**Keep in mind some of these features are not available on 1.10+**
 
 Tier 1:
 =======
@@ -156,7 +157,7 @@ Tier 5:
 * ``/heal`` access
 * Ability to change mob spawners by right clicking with empty hand
 * Compass teleport
-* Teleport delay bypasa
+* Teleport delay bypass
 
 **Skyblock modpacks**
 
