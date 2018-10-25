@@ -1,0 +1,30 @@
++++++++++++++++++++++
+Acceptable EMC Loops?
++++++++++++++++++++++
+
+The discussion for this topic can be found |here| (Aido please edit link in) for https://mineyourmind.net/forum/threads/emc-loops-dupes-exploits-changed.24020/
+
+As there have been many misconceptions with the definition of what is, and what is not an *exploit* i.e. saying that the covalence dust
+is acceptable as you have to use power to craft it, however this is not the case. Due to the recent changes towards how we handle EMC loops
+this section will help you define what is, and what is not, an acceptable EMC loop.
+
+Closed Setups and You
+=====================
+
+.. note:: ANY SETUPS WITH COVALENCE DUST ARE CONSIDERED A CLOSED SETUP (And are banned)
+
+A closed setup is one that takes an item (in this case, covalence dust) and combines it with another item (in this case, damaged armor) to make the
+same items except now with spare EMC. As there is no **process** that happens between these (i.e. a macerator) that takes time, this means that
+the same items can be instantly transported back to crafting these items again and creating more emc. What does this mean to us? It means that
+the items being transported multiply from tens to hundreds of items (each causing immense lag for the server).
+
+**Does this only include crafters?**
+
+No, any instant crafting setup that does not take power to create (or cost an item) are **not** exempt from this rule. From the discussion
+you can see that anything that multiplies on its own also classifies as one. 
+
+Essentially, if there's no **Process** that takes time and energy, or items (For example, growing gold to mix with iron for invar), 
+in-between the conversion to the original item, it's a **closed loop**
+
+Acceptable Setups
+=================
