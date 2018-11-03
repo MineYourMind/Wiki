@@ -29,4 +29,4 @@ Sevtech (1.12.2)
 StoneBlock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``stoneblock.mym.li`` - Version ``1.0.25``
+* ``stoneblock.mym.li`` - Version ``1.0.26``
