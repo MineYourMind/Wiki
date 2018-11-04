@@ -19,7 +19,7 @@ FTB Revelation (1.12.2)
 FTB Sky Adventures (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``skyadventures.mym.li`` - Version ``1.1.0``
+* ``skyadventures.mym.li`` - Version ``1.2.1``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
