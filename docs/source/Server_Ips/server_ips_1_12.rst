@@ -19,7 +19,7 @@ FTB Revelation (1.12.2)
 FTB Sky Adventures (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``skyadventures.mym.li`` - Version ``1.2.1``
+* ``skyadventures.mym.li`` - Version ``1.3.0``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
@@ -29,4 +29,4 @@ Sevtech (1.12.2)
 StoneBlock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``stoneblock.mym.li`` - Version ``1.0.26``
+* ``stoneblock.mym.li`` - Version ``1.0.31``
