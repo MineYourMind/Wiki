@@ -18,8 +18,8 @@ When exactly do these resets happen?
 * **Weekly** - Saturday
 * **Monthly** - The *1st* of each month
 
-The reset happens on the first restart of that day 
-.. note:: The timezone of the server is GMT+1/2 (Winter/Summer)
+The reset happens on the first restart of that day
+**The timezone of the server is GMT+1/2 (Winter/Summer)**
 
 Which worlds are on the reset list currently? 
 =============================================
