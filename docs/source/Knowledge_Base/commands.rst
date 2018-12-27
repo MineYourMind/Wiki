@@ -77,6 +77,7 @@ Patron
 * ``/nick`` - Allows you to change your nickname
 * ``/hat`` - Sets the current selected block as hat
 * ``/ptime`` - Allows you to change the virtual time
+* ``/patrons [Message]`` - Sends a message to the #patrons channel on discord
 * ``/patron friendpass [player]`` - Gives the player a friend pass
 
 LegacyTiers
