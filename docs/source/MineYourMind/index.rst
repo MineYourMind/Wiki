@@ -37,7 +37,7 @@ If you are playing any of our other modpacks, We have Golden Shovel Protection. 
 Staff
 -----
 
-We currently have 7 Ranks in our staff Team. It follows as Jr.Mod -> Mod -> Sr.Mod -> Jr.Admin -> Manager -> Admin -> Founder
+We currently have 6 Ranks in our staff Team. It follows as Jr.Mod -> Mod -> Sr.Mod -> Manager -> Admin -> Founder
 We also have a couple irregular Ranks like Consultant & Developer
 
 Founder: 
