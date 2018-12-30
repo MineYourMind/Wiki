@@ -37,7 +37,7 @@ If you are playing any of our other modpacks, We have Golden Shovel Protection. 
 Staff
 -----
 
-We currently have 7 Ranks in our staff Team. It follows as Jr.Mod -> Mod -> Sr.Mod -> Jr.Admin -> Manager -> Admin -> Founder
+We currently have 6 Ranks in our staff Team. It follows as Jr.Mod -> Mod -> Sr.Mod -> Manager -> Admin -> Founder
 We also have a couple irregular Ranks like Consultant & Developer
 
 Founder: 
@@ -54,13 +54,9 @@ They report directly to the Founder position.
 Consultant:
 Our Consultants are like our retired staff. They are usually previous Administrators & Managers who can be called upon to voice their opinions to help out the network. They retain permissions based on their previous rank. 
 
-Junior Administrator:
-Our Junior Administrators handle issues that don't require backend access. They handle issues that are out of the hands of the Moderators and are not directly required to be fixed by an Administrator. They help fix or deal with bugs on
-the servers including heart issues, and questing problems. The can still work on Moderator type issues if needed. They are handed work from the Administrator Team. 
-They report directly to the Manager position.
-
 Senior Moderator: 
-Our Senior Moderators are in charge of the day to day operation of the servers in game. Their main focus is on dealing with community, handling escalated tickets from moderators, mentoring Jr. Moderators and general task lists from administrators and managers.
+Our Senior Moderators are in charge of the day to day operation of the servers in game. Their main focus is on dealing with community, handling escalated tickets from moderators, mentoring Jr. Moderators and general task lists from administrators and managers. They are also responsible for handling issues that don't require backend access. They handle issues that are out of the hands of the Moderators and are not directly required to be fixed by an Administrator. They help fix or deal with bugs on
+the servers including heart issues, and questing problems. They are handed work from the Administrator Team. 
 They report directly to the Manager position.
 
 Moderator: 

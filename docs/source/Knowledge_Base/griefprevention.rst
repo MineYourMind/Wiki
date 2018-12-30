@@ -45,7 +45,10 @@ Commands
  
 Fakeplayers
 ===========
- 
+
+.. note:: Some servers ignore fakeplayers entirely on claims. If you item doesn't work, you will need to trust it.
+
+* EllpecksActuallyAdditionsFakePlayer
 * [BuildCraft]
 * [CoFH]
 * [ComputerCraft]

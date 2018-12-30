@@ -19,12 +19,12 @@ Age of Engineering (1.10)
 Beyond (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``beyond3.mym.li`` - Version ``1.11.0``
+* ``beyond4.mym.li`` - Version ``1.11.0``
 
 Forever Stranded (1.10)
 ^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``stranded.mineyourmind.net`` - Version ``1.9.9.1``
+* ``stranded2.mineyourmind.net`` - Version ``1.9.9.1``
 
 Project Ozone Lite (1.10)
 ^^^^^^^^^^^^^^^
