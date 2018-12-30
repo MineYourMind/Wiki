@@ -8,7 +8,7 @@ Server Ip's 1.12.2
 Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
-* ``enigmatica.mineyourmind.li`` - Version ``1.45``
+* ``enigmatica.mineyourmind.net`` - Version ``1.46``
 
 FTB Continuum (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
