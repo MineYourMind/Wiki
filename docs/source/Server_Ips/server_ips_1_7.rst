@@ -57,18 +57,11 @@ Project Ozone 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.3.0``
 * ``projectozone2.mym.li``
-* ``projectozone2kappa.mym.li``
-
-Regrowth (1.7.10)
-^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.0.2``
-* ``regrowth.mym.li``
 
 Tekkit Legends (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.1``
 * ``tekkit2.mym.li``
-
 
 Awakening (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
