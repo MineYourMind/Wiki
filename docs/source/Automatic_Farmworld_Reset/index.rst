@@ -73,3 +73,6 @@ Server Specific Exceptions
 
 **Infinity Evolved Skyblock**
 - Nether (is *NOT* being reset as it is a void world)
+
+**Engmatica 2: Expert**
+- Twilight Forest Weekly Reset
