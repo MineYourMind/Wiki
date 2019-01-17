@@ -51,3 +51,7 @@ To summarize: We **do not** refund items, especially for reasons such as:
 * Grief/Theft (Please read the section covering our protection plugin)
 
 And **make sure** to report any errors to the appropriate section in the forums (Modpack support forums, private bug reports, etc).
+
+And finally, remember that I have said there are very rare instances (That is up to staff discretion) where we refund items, so please make sure to report such errors as you might have that chance to have that very rare super upgraded draconium flux capacitor back.
+
+Thank you, and I hope you have a wonderful time on our servers.
