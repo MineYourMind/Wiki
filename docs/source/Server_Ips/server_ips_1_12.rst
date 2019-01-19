@@ -9,7 +9,7 @@ Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.51``
+* ``enigmatica.mineyourmind.net`` - Version ``1.52``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -45,5 +45,11 @@ StoneBlock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``stoneblock.mym.li`` - Version ``1.0.32``
-* ``stoneblock2.mym.li`` - Version ``1.0.32`` - (Recommended)
+* ``stoneblock.mym.li`` - Version ``1.0.33``
+* ``stoneblock2.mym.li`` - Version ``1.0.33`` - (Recommended)
+
+StoneBlock 2 (1.12.2)
+^^^^^^^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+
+* ``ftbstoneblock.mym.li`` - Version ``1.1.1``
