@@ -27,7 +27,7 @@ FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``revelation2.mineyourmind.net`` - Version ``2.5.0``
+* ``revelation2.mineyourmind.net`` - Version ``2.7.0``
 
 FTB Sky Adventures (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
