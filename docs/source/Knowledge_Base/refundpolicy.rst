@@ -1,57 +1,48 @@
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Our policy for refunds on lost items.
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++
+No Refunds Policy
++++++++++++++++++
 
-Why we have enacted this policy
-===============================
+Before you read any further, this policy is **Non-Negotiable** and the final determination. Whether or not your items get refunded is 100% up to the staff team. Please do not try to argue with us on the policy, as this is a staple rule we put in place to save time on our busy admins and make everyone's experience fair. We understand it is frustrating to be linked a cookie cutter message to tell you that we cannot help you with your lost items, but allow us to give our point of view and maybe you can see where this policy is rooted. 
 
-Recently, we have been getting a lot of requests for refunds on items in game that might have been lost in a mod bug/glitch, 
-a server crash, an internal error, clear lag, etc. We all understand that this is a frustrating situation, especially after all the work 
-that was put into gathering/crafting those lost items. Unfortunately, we do have a **No Refund** policy on those items. The reasons we have a 
-policy like this in place isn't for spite, I assure you we are here to make the best experience possible for you, the player.
+**Do not let this policy discourage you from posting a bug report!**
 
-To put things into perspective for this reason: This is a Network of several unique physical servers creating a multitude of 
-servers(~14 of the time of this post) with Mods, Devs, Admins, etc constantly working 24 hours a day to continually build a bigger better 
-network for you the player. We have approximately 150,000 unique player joins and 2k active at any given time in our network, and just over 
-30 members of staff at any given day. Just being in charge of the staff is almost a full-time job, none-the-less the other aspects of this 
-network. Now saying all that, if we had a for sure refunds ok policy, that would add a ton of really unnecessary work for the staff. 
-It would probably almost double the staff to be able to handle all these issues.
+Why we made this policy
+=======================
 
-Points to take into consideration
-=================================
+We get a *lot* of requests for refunds that might have been lost for a multitude of reasons. We all understand that this is a frustrating situation, especially after all the work that was put into obtaining those items. Unfortunately, we have this **No Refund** policy, no matter the circumstances, to keep it fair to everyone. I'm sure if you saw a player get a refund after you didn't, you would be upset and want to get a refund too. This is simply not possible to uphold for everyone, and to avoid favouritism we chose the stance of No Refunds.
 
-Some examples on how much work it would create to refund every single item that players lose includes:
+To put things into perspective
+==============================
 
-1. If you were in single player (Without access to cheats), you would shrug it off and continue despite what happened.
-2. Approximately 95% of issues related to disappearing items are due to the mods themselves, and are completely seperate from the MyM
-network directly (You wouldn't call Microsoft/Apple for a problem with your monitor or keyboard).
-3. Everyone (including the staff) at some point or another, given a long enough timeline has dealt with the same thing and to be fair to 
-those that are ok with it at the time and never say anything, a **"No Refunds"** makes it the most fair to **all** players (Those choosing
-to not refund your items have also been refused for their items to be refunded).
-4. Trust. Who's to say that the player you are competing against says, "I just accidentally dropped my keyboard and it pressed Q permanently 
-on my stack of [awesome endgame items]!!" It's again, another issue of being fair.
+This is a Network of several physical server boxes all hosting a multitude of servers for the community to play on (~34 as of 01/20/2019). The Admins, Managers and Founders are working constantly to build a better network for the community, and understandably they do not have time to refund everyone's items. We have approximately 500 active players at any given time on our network, and just over 30 members of staff to watch over these players. Just being in charge of the staff is like a full-time job for our Managers as it is. This does not include the job the Administrators due to maintain the servers and make sure they run smoothly. If we had a refunds policy that meant we refund everyone's items, that would add piles and piles of work for the staff team as a whole. We would likely need to double our staff members in order to handle all the refund requests we get.
 
-Report these bugs or glitches to us!
-====================================
+Some points to take into consideration
+======================================
 
-Aside from the reasons why we don't refund items, we do not want to stop you from letting us know if a bug or glitch is happening. 
-**Please report the errors/bugs/glitches to your appropriate modpack Support section,** your input could save others from making the same 
-mistake, sometimes even get the issue fixed, or sometimes (In **extreme** circumstances, no promises) getting your items back as a 
-result of solving the bug. 
+1. If you were in single player (Without access to cheats), you would likely shrug it off and continue despite what happened.
+2. Approximately 95% of issues related to disappearing items are due to the minecraft mods themselves, and are completely separate from MyM and the Servers (You wouldn't call Microsoft or Apple to request a refund because your Razer mouse broke).
+3. Trust. Who's to say that the player reporting the issue is actually telling the truth? It's an issue of being fair to all players (staff included) who have also lost items and want their stuff back. Its just not possible to please everyone.
+
+With that being said...
+=======================
+
+**Report these bugs or glitches to us!**
+Aside from the reasons why we don't refund items, we do not want to stop you from letting us know if a bug or glitch is happening. **Please report the errors/bugs/glitches to us in a ticket or support forums post!** Your input could save others from making the same mistake, sometimes it can even get the issue fixed. In **extreme** circumstances (**no promises**) you may get your items back as a result of solving the bug. All of this is only possible if you report the bug to us.
 
 A brief summary
 ===============
 
-To summarize: We **do not** refund items, especially for reasons such as:
+We **do not** refund items for reasons including, but not limited to:
+
 * Deaths (Be careful when fighting mobs, however if your grave is in a claim let us know)
-* Accidental key presses (Pressed q when flying over the void or lava)
+* Accidental item drops (Pressed "Q" when flying over the void or lava)
 * PvP kills
-* ClearLag or item clear (Both give sufficient warnings)
-* Mod errors (BetterStorage, NBT overflow (**Do not** put a ME drive in a backpack), TombManyGraves, etc).
-* Grief/Theft (Please read the section covering our protection plugin)
+* Item Clears (It gives sufficient warnings.)
+* Mod Bugs such as NBT overload (ME drives in a backpack or nesting portable storage devices), TombManyGraves, etc.
+* Grief/Theft (Please read the section covering our protection plugin. Protect your stuff!)
 
-And **make sure** to report any errors to the appropriate section in the forums (Modpack support forums, private bug reports, etc).
+**Make sure** to report any errors to the appropriate section in the forums (Modpack support forums, private bug reports, etc).
 
-And finally, remember that I have said there are very rare instances (That is up to staff discretion) where we refund items, so please make sure to report such errors as you might have that chance to have that very rare super upgraded draconium flux capacitor back.
+Whether or not we refund items is up to staff discretion, so please make sure to report such errors as you might just be one of those rare occurrences where this happens (again, no promises).
 
-Thank you, and I hope you have a wonderful time on our servers.
+Thank you, and we hope you have a wonderful time on our servers.
