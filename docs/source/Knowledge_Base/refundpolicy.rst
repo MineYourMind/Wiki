@@ -2,7 +2,7 @@
 No Refunds Policy
 +++++++++++++++++
 
-Before you read any further, this policy is **Non-Negotiable** and the final determination. Whether or not your items get refunded is 100% up to the staff team. Please do not try to argue with us on the policy, as this is a staple rule we put in place to save time on our busy admins and make everyone's experience fair. We understand it is frustrating to be linked a cookie cutter message to tell you that we cannot help you with your lost items, but allow us to give our point of view and maybe you can see where this policy is rooted. 
+Before you read any further, this policy is **Non-Negotiable**. The final determination whether or not your items get refunded is 100% up to the staff team. Please do not try to argue with us on the policy, as this is a staple rule we put in place to save time on our busy admins and make everyone's experience fair. We understand it is frustrating to be linked a cookie cutter message to tell you that we cannot help you with your lost items, but allow us to give our point of view and maybe you can see where this policy is rooted. 
 
 **Do not let this policy discourage you from posting a bug report!**
 
