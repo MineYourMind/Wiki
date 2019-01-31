@@ -36,8 +36,11 @@ These are the steps to migrate the REI's waypoints from FTB Launcher to the MYM 
 by `slyder5649 <https://mineyourmind.net/forum/threads/reis-migration-to-mym-launcher-win7.1101/>`_
 
 
-MyM Launcher on Ubuntu
-----------------------
+Optional: MyM Launcher on Ubuntu
+--------------------------------
+
+*This is optional! It only allows it to show up as an Application, and adds a desktop icon!*
+
 This instruction with 7 Steps intends to help setup a Ubuntu Launcher and Icon that you (Home Ubuntu 16.04.x User)  can quickly access without excessive navigating to launch it.
 
 Summary of Steps involved: 
