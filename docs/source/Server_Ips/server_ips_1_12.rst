@@ -9,13 +9,13 @@ Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.52``
+* ``enigmatica.mineyourmind.net`` - Version ``1.54``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmaticasky.mineyourmind.net`` - Version ``1.21``
+* ``enigmaticasky.mineyourmind.net`` - Version ``1.22``
 
 FTB Continuum (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -52,4 +52,4 @@ StoneBlock 2 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ftbstoneblock.mym.li`` - Version ``1.1.1``
+* ``ftbstoneblock.mym.li`` - Version ``1.3.0``
