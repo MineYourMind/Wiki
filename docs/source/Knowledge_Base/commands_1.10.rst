@@ -43,9 +43,7 @@ Island
 * ``/island create`` - Creates an island
 * ``/island reset`` - Deletes your island and starts a new one
 * ``/island setspawn`` - Sets your island's spawn point at your position
-* ``/island spawn`` - Teleports you to your island's spawn point
-* ``/island sethome`` - Sets your island's home point at your position
-* ``/island home`` - Teleports you to the home point you have set
+* ``/island spawn <username>`` - Teleports you to your island's spawn point (Only use <username> if you are a trusted island member and not the owner)
 * ``/island homesetbiome <biometype>`` - Change your island biome type
 .. note:: The biome options are ``ocean``, ``swampland``, ``forest``, ``flower_forest``, ``jungle``, ``plains``
 
@@ -82,7 +80,7 @@ LegacyTiers
 
 * ``/enderchest`` - Opens your enderchest at will
 * ``/workbench`` - Opens a 9x9 crafting window
-* ``/et <power>`` - Opens a vanilla enchanting table window
+* ``/et <power>`` - Opens a vanilla enchanting table window (1.10 command only)
 
 **Tier3:**
 
