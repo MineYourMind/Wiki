@@ -11,8 +11,6 @@ Why?
 * Partitial updates (only changed files get updated)
 * Custom modpacks
 
------------
-
 F.A.Q.
 ======
 
@@ -37,9 +35,12 @@ These are the steps to migrate the REI's waypoints from FTB Launcher to the MYM 
 
 by `slyder5649 <https://mineyourmind.net/forum/threads/reis-migration-to-mym-launcher-win7.1101/>`_
 
------------
-MyM Launcher on Ubuntu
------------
+
+Optional: MyM Launcher on Ubuntu
+--------------------------------
+
+*This is optional! It only allows it to show up as an Application, and adds a desktop icon!*
+
 This instruction with 7 Steps intends to help setup a Ubuntu Launcher and Icon that you (Home Ubuntu 16.04.x User)  can quickly access without excessive navigating to launch it.
 
 Summary of Steps involved: 
@@ -54,7 +55,8 @@ Summary of Steps involved:
 
 * Commands using the home userland work directory paths will be instructed.
 
-1. Install Oracle JDK from Command Line 
+1. Install Oracle JDK from Command Line
+
   * This installs Java 8 for the entire system. 
   * This Java is recommended but other variations of Java will work.
   
@@ -66,175 +68,126 @@ Summary of Steps involved:
   
   * Make sure to agree to the terms and wait for it to finish installing. This can take some time. 
 
-2. Download and create **custom path** to all files
-  * Download The Official free MyM Launcher directly from `here <https://mineyourmind.net/#dl_jar>`_
-  * ***Please manage your own files and folders at your desire***
-  
-  
-  * Move or ``copy mv`` or ``cp``. the ``mymlauncher.jar`` to a folder designated
-  * *I suggest move (mv)*
-  * ``~/Programs/MyM`` is a work directory to store scripts, icons, jar files.
-  * ``~`` is the path to your home directory ``/home/user/`` simplified to ``~``
+2. Download, creation of directory and moving of files
 
-3. Move the file
+Download The Official free MyM Launcher directly from `here <https://mineyourmind.net/>`_ by scrolling down and clicking the button at the bottom that says ``Mac + Linux``
+
+Now we need to run a few commands to get the directory made, and the launcher moved to the proper folder
+
   .. code-block:: cl
   
-    mkdir ~/Programs/MyM
+    sudo mkdir ~/Programs/MyM
     cd ~/Downloads
-    mv mymlauncher.jar ~/Programs/MyM
+    mv MyM-Launcher.jar ~/Programs/MyM
 
-4. Get the built in *Icon graphic* file from within the jar.
-  * This process requires opening and copying the graphic from the ``MyM-Launcher.jar`` - to copy the file you must mount the jar file by right clicking and [Open With] Archive Mounter. once mounted you can browse the .jar file and copy the image. 
-  
-  * if you accidently use [Open With] Archive Manager, and attempt to copy, an error will be presented to you because you have not mounted the archive. But if you double click the graphic, it will open in an Image Viewer - then you can save it from there. 
-  
-  .. code-block:: none
-  
-    com
-    junit
-    META-INF
-    org
-    LICENSE.TXT
-  
-  * Within the **com** folder, you will find sub folders and the icon. ``/com/skcraft/launcher/bootstrapper_icon.png``
+3. Getting the Icon from within the jar.
 
+  * Right click the `MyM-Launcher.jar` and choose `Archive Manager`
+  * Then navigate to `/com/skcraft/launcher/` and click the `bootstrapper_icon.png` and then click `Extract`
   * Once you have the icon,  save it to the work directory in ``~/Programs/MyM``
 
-5. Create the *bash* script
-  * Create and edit a new ``MyM.sh`` bash script.
-  * The ``~/Programs/MyM/MyM.sh`` script file will be stored in the ``/MyM`` work directory and ran from the ``MyM-Launcher.desktop`` application file when you click it on the Ubuntu launcher as intended.
-  
-  .. code-block:: cli
+4. Create the *bash* script
+
+Create and edit a new ``MyM.sh`` shell script.
+
+The ``MyM.sh`` script file will be stored in the ``~/Programs/MyM`` work directory and executed from the ``MyM-Launcher.desktop`` application file when you run it.
+
+Run the following command to make the shell script
+  .. code-block:: cl
   
    gedit /home/user/Programs/MyM/MyM.sh
   
-  * Copy the following code, and paste it into the sh file:
+Copy the following code, and paste it into the script file
+
   .. code-block:: sh
-  
+
     #!/bin/bash
-    cd /home/user/Programs/MyM
-    java -jar MyM-Launcher.jar
-  
-  * Please make edits to accomidate the filename at your time of download. 
-  
-  * Save the editor
+	cd ~/Programs/MyM
+	java -jar MyM-Launcher.jar
 
-6. Set permissions
-  
-  * This makes jar/sh files executable to run.
-  ``chmod a+x ~/Programs/MyM/MyM.sh``
-  ``chmod a+x ~/Programs/MyM/MyM-Launcher.jar``
-  
-  * The jar, and .sh files are not executable by the user. 
-  
-  * Alternativly you can use the File application to right click/ Properties then tab Permissions, and check Execute. 
+Save the file and close the editor. Please make edits to accomidate the filename at your time of download!
 
-7. Creating and editing ``MyM-Launcher.desktop`` file.
+5. Set permissions
   
-  * Edit the ``MyM-Launcher.desktop`` file and allow this user account can use the launcher. 
+Run the following commands to make the Shell Script and the Launcher Jar executable. This will allow us to run them later on to get the launcher working.
+
+  .. code-block:: cl
+
+  	chmod a+x ~/Programs/MyM/MyM.sh
+  	chmod a+x ~/Programs/MyM/MyM-Launcher.jar
+
+Alternatively, you can use the File Explorer to right click the file and choose Properties->Permissions, and check Execute. 
+
+6. Creating and editing a ``MyM-Launcher.desktop`` file
   
-  * The ``~/.local/share/applications/MyM Launcher.desktop`` file will be stored in the user land of a personal user account and will only be reachable by you by using the ubuntu launcher search method.
+We will be making a file in ``~/.local/share/applications`` called ``MyM-Launcher.desktop``. This file will only be usable by your current user, and will need to be repeated for other users who wish to have an independent launcher install.
   
-  * **Mind the case of the letters, and there is a dash (-) between MyM and Launcher.desktop** or rename it to desired name. 
+**Mind the case of the letters and name format!**
   
-  * *At the command line:* 
+At the command line run the following command to create the file
   
   .. code-block:: cl
   
     gedit ~/.local/share/applications/MyM-Launcher.desktop
   
-  * Copy this into the editor: 
+Copy this into the editor
   
-    .. code-block:: cl
-    
-    [Desktop Entry]
-  Name=MyM Launcher
-  Comment=Launches MyM-Launcher quickly.
-  Exec=~/Programs/MyM/MyM.sh
-  Terminal=true
-  Type=Application
-  StartupNotify=true
-  Hidden=false
-
-  Actions=MyMForums;
-  Path=~/Programs/MyM
+  .. code-block:: cl
   
-  [Desktop Action MyMForums]
-  Name=Visit the MyM Forums
-  Exec=x-www-browser https://mineyourmind.net/forum/
-  Terminal=false
+	[Desktop Entry]
+	Name=MyM Launcher
+	Comment=Launches MyM-Launcher quickly.
+	Exec=/home/<USER>/Programs/MyM/MyM.sh
+	Terminal=true
+	Type=Application
+	Icon=/home/<USER>/Programs/MyM/bootstrapper_icon.png
+	StartupNotify=true
+	Hidden=false
 
-  * Paste it, save it, and close it.
-  * if MyM Network decides to change the link to the forum, remember to edit that link as well. 
-  2
+Change *<USER>* to your username, save it, and close the window.
 
+7. Final Checkup.
 
-8. Place the launcher application icon.
-  * Open File Manager on the launcher, select **[Computer]** from list and navigate to:
-  .. code-block:: none
-  
-    ~/.local/share/applications/
-  
-  * Locate your **MyM Launcher** in the folder with the **icon** displayed, and **drag it over to your launcher**.
+In the ``~/Programs/MyM/`` folder, you should have the following items: ``MyM-Launcher.jar``, ``MyM.sh`` and ``bootstrapper_icon.png``
 
-9. Test and... profit!
-  * If all steps are followed properly, launching the MyM-Launcher.jar in **Ubuntu** will work as desired.
-  * Right clicking the new Launcher will reveal a direct link to the MYM forums! talk amongst yourselves about how awesome
-    MyM Network minecraft is. 
+If those items are present, you can safely copy the ``MyM-Launcher.desktop`` from ``~/.local/share/applications`` to your desktop using the following commands
+
+  .. code-block:: cl
+
+    cd ~/.local/share/applications
+    cp MyM-Launcher.desktop ~/Desktop
+
+and run it from the desktop to enjoy our launcher!
+
+If you still have issues after following this guide, please double check all steps. If there are still issues, please report it to us on the `forums <https://mineyourmind.net/forums>`_ or through an ingame ticket!
 
 Created by: `Meli0 <https://mineyourmind.net/forum/members/meli0.13089/>`_
 
-
-  
-
-
-
-
-
-
-
-  
-
-
-
-  
+Updated 01/29/2019 by Column01
 
 Known issues
 ============
 
-Mac OS X
----------
+None!
 
-Not required since 4.3 unless the install location of java was modified.
-
-Mac OS X is shipping the java version 6 and even if 7 or 8 is installed it still prefers java 6. Due to this you will need to tell the launcher where to find the newer java version's in order to be able to enjoy the modpacks which require java 7 or newer.
-
-1. Make sure you have Java 7 or 8 installed (Mac only ships with Java 6 by default)
-2. Open your system controls and select the java control panel
-3. Click on the option that is called "show", "view" or similar (there shouldn't be many)
-4. It will show you the installed java version and the path to the location where it is stored
-5. Copy this path into the "JVM Path" textbox on the MyMLauncher under "Options.."
-6. By default installation of java the path looks like this: (/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java)
-7. You should be able to play modpacks that require java 7, now.
-
------------
+Please report any issues on our `forums <https://mineyourmind.net/forums>`_ or through an ingame ticket!
 
 Planned
 =======
 
-* bootstrapper for auto-updates
-* reuse valid sessions
-* bright design (as alternative to the dark one)
+* Bootstrapper for auto-updates
+* Reuse valid sessions
+* Bright design (as alternative to the dark one)
 
 Implemented
 ===========
 
-* new ui design
-* search bar
-* per modpack icons
-* new newspage design
-* optional install location
-* auto retry failed downloads
-* warn about java 6 incompatibility with some modpacks
-* custom java installation detection on mac
-* improved (auto) java ram settings for 32 bit systems
+* New UI design
+* Search bar
+* Per modpack icons
+* New newspage design
+* Optional install location
+* Auto retry failed downloads
+* Warn about Java 6 incompatibility with some modpacks
+* Custom Java installation detection on Mac
+* Improved (auto) Java RAM settings for 32 bit systems
