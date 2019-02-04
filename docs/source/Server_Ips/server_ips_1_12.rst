@@ -15,7 +15,7 @@ Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmaticasky.mineyourmind.net`` - Version ``1.22``
+* ``enigmaticasky.mineyourmind.net`` - Version ``1.23``
 
 FTB Continuum (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^
