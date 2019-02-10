@@ -17,109 +17,108 @@ This pack is heavily inspired from FTB Infinity Expert Mode, but is still very d
 
 This modpack is aimed at more experienced players to look for a new challenge, but can also work for semi-experienced players who like tech mods and want to learn more about them and don't mind the challenge.
 
-You can find more info about Age of Engineering over on the Website : ``https://minecraft.curseforge.com/projects/age-of-engineering``
+You can find more info about Age of Engineering over on the Website `here <https://minecraft.curseforge.com/projects/age-of-engineering>`_
 
 Mods
 ----
-* Forge/FML by LexManos, cpw
-* Actually Additions  by Ellpeck
-* Advanced Generators  by bdew
-* Advanced Rocketry  by zmaster587
-* Advanced Solar Panels  by Chocohead
-* Applied Energistics 2  by AlgorithmX2
-* Aroma1997Core  by Aroma1997
-* Aroma1997s Dimensional World  by Aroma1997
-* Bad Wither No Cookie!  by droidicus
-* Bagginses  by lorddusk
-* Base Metals  by jriwanek
-* BdLib  by bdew
-* Bed Bugs  by gr8pefish
-* Better Builder's Wands  by Portablejim
-* BetterAchievements  by Way2muchnoise
-* BetterFps  by Guichaguri
-* Bookshelf  by Darkhax
-* Bookshelf API Library  by TeamBRModding
-* Brandon's Core  by brandon3055
-* CalcCrT - ATM:E Tweaks  by BloodWorkXGaming
-* Calculator  by Ollie_Lansdell
-* Chameleon  by jaquadro
-* Chest Transporter  by CubeX2
-* Chisel  by tterrag1098
-* Chisels & Bits  by AlgorithmX2
-* Clay Bucket  by abecderic
-* CodeChicken Core 1.8+  by covers1624
-* CodeChicken Lib 1.8.+  by covers1624
-* Common Capabilities  by kroeser
-* Compact Solars  by progwml6
-* CompatLayer  by Mcjty
-* ConnectedTexturesMod  by tterrag1098
-* CraftTweaker  by jaredlll08
-* Custom Achievements  by davqvist
-* Custom Main Menu  by Lumien
-* Cyclops Core  by kroeser
-* Dark Utilities  by Darkhax
-* Deep Resonance  by Mcjty
-* Draconic Evolution  by brandon3055
-* ElecCore | Rendering Library  by Elec332
-* Ender IO  by CrazyPants
-* Ender Storage 1.8.+  by covers1624
-* EnderCore  by tterrag1098
-* Environmental Tech  by ValkyrieofNight
-* Extra Utilities  by RWTema
-* Extreme Reactors  by ZeroNoRyouki
-* Flat Colored Blocks  by AlgorithmX2
-* Forestry  by SirSengir
-* FTB Utilities  by FTB_ModpackTeam
-* FTBLib  by FTB_ModpackTeam
-* GraveStone Mod  by EuhDawson
-* Hammer Core  by apengu_
-* Hopper Ducts  by FyberOptic
-* Immersive Engineering  by BluSunrize
-* Industrial Craft  by Player
-* Integrated Dynamics  by kroeser
-* Inventory Tweaks  by Kobata
-* JEI Bees  by bdew
-* JourneyMap  by techbrew
-* Just Enough Items (JEI)  by mezz
-* Just Enough Resources (JER)  by Way2muchnoise
-* LibVulpes  by zmaster587
-* Mantle  by mDiyo
-* McJtyLib  by McJty
-* Mekanism  by aidancbrady
-* Mekanism Generators  by aidancbrady
-* Mekanism Tools  by aidancbrady
-* Mod Name Tooltip  by mezz
-* Modern Metals  by jriwanek
-* ModTweaker  by jaredlll08
-* More Bees  by Lach_01298
-* More Overlays  by feldim2425
-* Morpheus  by Quetzi
-* MPUtils  by GenDeathrow
-* MPUtils Basic Tools  by GenDeathrow
-* MTLib  by jaredlll08
-* NeoTech  by TeamBRModding
-* p455w0rd's Library  by TheRealp455w0rd
-* Progressive Automation  by Vanhal
-* QuantumStorage  by Gigabit101
-* Ranged Pumps  by raoulvdberge
-* Reborn Core  by modmuss50
-* Resource Loader  by Lumien
-* RFTools  by McJty
-* RFTools Control  by McJty
-* RFTools Dimensions  by McJty
-* Simply Jetpacks 2  by Tomson124
-* Solar Flux Reborn  by apengu_
-* Sonar Core  by Ollie_Lansdell
-* Storage Drawers  by jaquadro
-* Super Circuit Maker  by amadornes
-* SwingThroughGrass  by exidex
-* Tech Reborn  by modmuss50
-* TESLA  by Darkhax
-* The One Probe  by McJty
-* Tinkers Construct  by mDiyo
-* Tiny Progressions  by Kashdeya
-* TOP Addons  by DrManganese
-* Translocators 1.8.+  by covers1624
-* ValkyrieLib  by ValkyrieofNight
-* Wireless Crafting Terminal  by TheRealp455w0rd
-* ZeroCore  by ZeroNoRyouki
+* McJtyLib (by McJty)
+* Advanced Generators (by bdew)
+* Mod Name Tooltip (by mezz)
+* TOP Addons (by DrManganese)
+* Immersive Engineering (by BluSunrize)
+* Storage Drawers (by jaquadro)
+* RFTools (by McJty)
+* Mekanism Tools (by aidancbrady)
+* Progressive Automation (by VanhalMinecraft)
+* JourneyMap (by techbrew)
+* Calculator (by Ollie_Lansdell)
+* Hopper Ducts (by FyberOptic)
+* Resource Loader (by lumien231)
+* BetterFps (by Guichaguri)
+* Custom Main Menu (by lumien231)
+* More Bees (by Tencao)
+* QuantumStorage (by Gigabit1011)
+* Translocators 1.8.+ (by covers1624)
+* CodeChicken Core 1.8.+ (by covers1624)
+* Flat Colored Blocks (by AlgorithmX2)
+* RFTools Dimensions (by McJty)
+* Super Circuit Maker (by amadornes)
+* Base Metals (by jriwanek)
+* Applied Energistics 2 (by AlgorithmX2)
+* Tinkers Construct (by mDiyo)
+* Tiny Progressions (by Kashdeya)
+* Actually Additions (by Ellpeck)
+* Chameleon (by jaquadro)
+* CraftTweaker (by jaredlll08)
+* Chest Transporter (by CubeX2)
+* Compact Solars (by progwml6)
+* SwingThroughGrass (by exidex)
+* Chisels & Bits (by AlgorithmX2)
+* Bed Bugs (by gr8pefish)
+* ValkyrieLib (by ValkyrieofNight)
+* Deep Resonance (by McJty)
+* ElecCore | Rendering Library (by Elec332)
+* Modern Metals (by jriwanek)
+* Hammer Core (by apengu_)
+* Draconic Evolution (by brandon3055)
+* Mantle (by mDiyo)
+* Bookshelf (by darkh4x)
+* Advanced Rocketry (by zmaster587)
+* Wireless Crafting Terminal (by TheRealp455w0rd)
+* Aroma1997Core (by Aroma1997)
+* The One Probe (by McJty)
+* MPUtils Basic Tools (by GenDeathrow)
+* Just Enough Resources (JER) (by Way2muchnoise)
+* Tech Reborn (by modmuss50)
+* Ranged Pumps (by raoulvdberge)
+* Forestry (by SirSengir)
+* Better Builder's Wands (by Portablejim)
+* RFTools Control (by McJty)
+* Bookshelf API Library (by TeamBRModding)
+* Mekanism Generators (by aidancbrady)
+* Just Enough Items (JEI) (by mezz)
+* ZeroCore (by ZeroNoRyouki)
+* Extreme Reactors (by ZeroNoRyouki)
+* Brandon's Core (by brandon3055)
+* Inventory Tweaks (by Kobata)
+* Common Capabilities (by kroeser)
+* Ender Storage 1.8.+ (by covers1624)
+* ConnectedTexturesMod (by tterrag1098)
+* CodeChicken Lib 1.8.+ (by covers1624)
+* CompatLayer (by McJty)
+* Bagginses (by lorddusk)
+* Clay Bucket (by abecderic)
+* FTBLib (by FTB)
+* Reborn Core (by modmuss50)
+* MPUtils (by GenDeathrow)
+* Extra Utilities (by RWTema)
+* More Overlays (by feldim2425)
+* Environmental Tech (by ValkyrieofNight)
+* ModTweaker (by jaredlll08)
+* LibVulpes (by zmaster587)
+* FTB Utilities (by FTB)
+* Aroma1997s Dimensional World (by Aroma1997)
+* Advanced Solar Panels (by Chocohead)
+* NeoTech (by TeamBRModding)
+* Industrial Craft (by Player)
+* Dark Utilities (by darkh4x)
+* TESLA (by darkh4x)
+* GraveStone Mod (by EuhDawson)
+* Mekanism (by aidancbrady)
+* Ender IO (by CrazyPants_MC)
+* EnderCore (by tterrag1098)
+* Bad Wither No Cookie! (by droidicus)
+* JEI Bees (by bdew)
+* CalcCrT - ATM:E Tweaks (by BloodWorkXGaming)
+* Solar Flux Reborn (by apengu_)
+* p455w0rd's Library (by TheRealp455w0rd)
+* Morpheus (by Quetzi)
+* Sonar Core (by Ollie_Lansdell)
+* Cyclops Core (by kroeser)
+* BetterAchievements (by Way2muchnoise)
+* BdLib (by bdew)
+* MTLib (by jaredlll08)
+* Simply Jetpacks 2 (by Tomson124)
+* Integrated Dynamics (by kroeser)
+* Custom Achievements (by davqvist)
+* Chisel (by tterrag1098)

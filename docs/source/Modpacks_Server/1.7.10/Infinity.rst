@@ -5,112 +5,140 @@ Concept
 -------
 The pack for all people. Infinity is the general all-purpose pack from the FTB team that is designed for solo play as well as small and medium population servers.
 
-You can find more info about FTB Infinity over on the Website : ``https://www.feed-the-beast.com/projects/ftb-infinity-evolved``
+You can find more info about Infinity over on the Website `here <https://www.feed-the-beast.com/projects/ftb-infinity-evolved>`_
 
 Mods
 ----
-* Forge/FML by LexManos, cpw
-* Advanced Solar Panels by SeNtiMeL
-* AOBD 2 by ganymedes01
-* Applied Energistics by AlgorithX2
-* Aroma1997Core by Aroma1997
-* AromaBackup by Aroma1997
-* Baubles by Azanor
-* Bdlib by bdew
-* BiblioCraft by Nuchaz
-* Big Reactors by Erogenous Beef
-* Binnie's Mods by Binnie
-* Biomes O' Plenty by TDWP_FTW, Adubbz
-* Blood Magic by WayofTime
-* Botania by Vazkii
-* Buildcraft by CovertJaguar, SirSengir, Krapht, cpw, spacetoad
-* Carpenter's Blocks by Mineshopper
-* ChickenChunks by Chickenbones
-* Chisel by AUTOMATIC_MAIDEN
-* CodeChickenCore by Chickenbones
-* CodeChickenLib by Chickenbones
-* CoFH Core by CoFH team
-* ComputerCraft by dan200
-* Custom Main Menu by lumien231
-* DecoCraft by RazzleberryFox
-* DenseOres by RWTema
-* Draconic Evolution by brandon3055
-* Ender Tech by Drayshak
-* Ender Zoo by CrazyPants
-* EnderIO by CrazyPants
-* EnderStorage by Chickenbones
-* Extra Utilities by RWTema
-* ExtraTiC by Glassmaker
-* FastCraft by Player
-* FastLeafDecay by Olafski
-* Forbidden Magic by SpitefulFox
-* Forestry by SirSengir
-* Forge Multipart by Chickenbones
-* Funky Locomotion by RWTema
-* Gendustry by bdew
-* Gravitation Suite by SeNtiMeL
-* HarvestCraft by MatrexsVigil, Rhodox
-* Hat Stand by iChun
-* Hats by iChun
-* Headcrumbs by ganymedes
-* iChunUtil by iChun
-* IndustrialCraft 2 by IC2 Dev Team
-* InfiniBows by Myrathi
-* INpure Core by denoflionsx
-* Inventory Tweaks by Kobata
-* IronChests by cpw
-* JABBA by ProfMobius
-* JourneyMap by techbrew
-* LogisticsPipes by davboecki, AartBluestoke, ArtForz, GUIpsp, theZorro266
-* Magic Bees by MysteriousAges
-* Mantle by mDiyo, progwml6
-* Mapwriter by mapwriter
-* MineFactory Reloaded by skyboy026, powercrystals
-* MineTweaker by StanH
-* MobiusCore by ProfMobius
-* Morpheus by quetzi
-* Mystcraft by XCompWiz
-* Natura by mDiyo
-* NEI Addons by bdew
-* NEI Integration by Tonius
-* NetherOres by skyboy026, powercrystals
-* Not Enough Items by Chickenbones
-* Not Enough Keys by Mr_okushama
-* Nuclear Control by shedar
-* OpenBlocks by Mikeemoo
-* OpenModsLib by Mikeemoo
-* OpenPeripheral Core by Mikeemoo
-* Opis by ProfMobius
-* Portal Gun by iChun
-* Project Red by MrTJP, Chickenbones
-* Railcraft by CovertJaguar
-* Redstone Arsenal by TeamCoFH
-* Resource Loader by lumien231
-* RFtools by McJty
-* Runic Dungeons by MrComputerGhost
-* Simply Jetpacks by Tonius
-* Solar Expansion by TedTheRusSB624
-* Springboards by Galoubet
-* Steve's Addons by hilburn
-* Steve's Carts 2 by Vswe
-* Steve's Factory Manager by Vswe
-* Steve's Workshop by Vswe
-* Thaumcraft by Azanor
-* Thaumcraft NEI Plugin by DjGiannuzz
-* Thaumic Energistics by Nividica
-* Thaumic Exploration by Flaxbeard, nekosune
-* Thaumic Tinkerer by pixlepix, nekosune, vazkii
-* Thermal Dynamics by TeamCoFH
-* Thermal Expansion by CoFH team
-* Thermal Foundation by TeamCoFH
-* TiC Tooltips by squeek502
-* Tinker's Construct by boni, mDiyo
-* Tinker's Mechworks by mDiyo
-* Translocators by Chickenbones
-* ttCore by tterrag
-* Twilight Forest by Benimatic
-* Waila by ProfMobius
-* Waila Harvestability by squeek502
-* Wawla by Darkhax
-* Wireless Redstone CBE by Chickenbones
-* Witchery by Emoniph
+* Baubles (by azanor)
+* Forge Multi Part (by chicken_bones)
+* Forge Relocation (by Mr_TJP)
+* Forge Relocation - FMP Plugin (by Mr_TJP)
+* MrTJPCore (by Mr_TJP)
+* AgriCraft (by InfinityRaider)
+* Another One Bites the Dust (by ganymedes01)
+* Applied Energistics 2 (by AlgorithmX2)
+* Aroma1997Core (by Aroma1997)
+* Aroma1997s Dimensional World (by Aroma1997)
+* Avaritia (by Assassinfox)
+* BdLib (by bdew)
+* BiblioCraft (by JDSinclair)
+* BiblioCraft: BiblioWoods Biomes O'Plenty Edition (by JDSinclair)
+* BiblioCraft: BiblioWoods Forestry Edition (by JDSinclair)
+* BiblioCraft: BiblioWoods Natura Edition (by JDSinclair)
+* Big Reactors (by ErogenousBeef)
+* BinniePatcher (by Chocohead)
+* Binnie's Mods (by Binnie567)
+* Biomes O' Plenty (by Glitchfiend)
+* Blood Magic (by WayofTime)
+* Botania (by Vazkii)
+* Brandon's Core (by brandon3055)
+* Buildcraft (by CovertJaguar)
+* Buildcraft Compat (by buildcraftchildsplay)
+* Carpenter's Blocks (by Syntaxial)
+* Chisel (by tterrag1098)
+* CodeChickenCore (by chicken_bones)
+* CoFH Core (by TeamCoFH)
+* CoFH Lib (by TeamCoFH)
+* ComputerCraft (by dantwohundred)
+* CraftTweaker (by jaredlll08)
+* MineTogether (by Creeperhost)
+* Custom Main Menu (by lumien231)
+* Decocraft2 (by RazzleberryFox)
+* Dense Ores (by RWTema)
+* Draconic Evolution (by brandon3055)
+* EnderCore (by tterrag1098)
+* Ender IO (by CrazyPants_MC)
+* Ender Storage (by chicken_bones)
+* EnderTech (by CarrotCodes)
+* Ender Zoo (by CrazyPants_MC)
+* ExtraCells2 (by Destroyer7128)
+* ExtraTiC (by JeanGlassmaker)
+* Extra Utilities (by RWTema)
+* FastCraft (by Player)
+* Fast Leaf Decay (by Olafskii)
+* Forbidden Magic (by Assassinfox)
+* Forestry (by SirSengir)
+* FTB Library (by FTB)
+* FTB Tweaks (by FTB)
+* FTB Utilities (by FTB)
+* Funky Locomotion (by RWTema)
+* Gendustry (by bdew)
+* Guide-API (by TehNut)
+* Hats (by iChun)
+* Hat Stand (by iChun)
+* Headcrumbs (by ganymedes01)
+* Hardcore Questing Mode (by lorddusk)
+* Nuclear Control 2 (by Xbony2)
+* iChunUtil (by iChun)
+* Immersive Engineering (by BluSunrize)
+* Immersive Integration (by UnwrittenFun)
+* Industrial Craft (by Player)
+* INpureCore (by INpureProjects)
+* Inventory Tweaks (by Kobata)
+* Iron Chests (by progwml6)
+* Jabba (by ProfMobius)
+* JourneyMap (by techbrew)
+* Logistics Pipes (by RS485)
+* Magic Bees (by MysteriousAges)
+* Mantle (by mDiyo)
+* McJtyLib (by McJty)
+* Minefactory Reloaded (by skyboy026)
+* ModTweaker (by jaredlll08)
+* Morpheus (by Quetzi)
+* Mystcraft (by XCompWiz)
+* Natura (by mDiyo)
+* NEI Addons (by bdew)
+* NEI Integration (by tonius111)
+* NetherOres (by skyboy026)
+* NotEnoughItems (by chicken_bones)
+* NotEnoughResources (by Way2muchnoise)
+* OpenBlocks (by OpenMods)
+* OpenModsLib (by OpenMods)
+* OpenPeripheralAddons (by OpenMods)
+* OpenPeripheralCore (by OpenMods)
+* OpenPeripheralIntegration (by OpenMods)
+* Pam's HarvestCraft (by MatrexsVigil)
+* ASP + GS Patcher (by Chocohead)
+* Portal Gun (by iChun)
+* Project Red - Base (by Mr_TJP)
+* Project Red - Compat (by Mr_TJP)
+* Project Red - Integration (by Mr_TJP)
+* Project Red - Lighting (by Mr_TJP)
+* Project Red - Mechanical (by Mr_TJP)
+* Project Red - World (by Mr_TJP)
+* Railcraft (by CovertJaguar)
+* Redstone Arsenal (by TeamCoFH)
+* Resource Loader (by lumien231)
+* RFTools (by McJty)
+* Runic Dungeons (by MrComputerGhost)
+* Simply Jetpacks (by tonius111)
+* Solar Expansion (by Shad0wB1ade)
+* Springboards (by Galoubet)
+* Steve's Addons (by hilburn)
+* Steve's Carts 2 (by Vswe)
+* Steve's Factory Manager (by Vswe)
+* Steve's Workshop (by Vswe)
+* Storage Drawers (by jaquadro)
+* Storage Drawers: Biomes O' Plenty Pack (by jaquadro)
+* Storage Drawers: Forestry Pack (by jaquadro)
+* Storage Drawers: Misc Pack (by jaquadro)
+* Storage Drawers: Natura Pack (by jaquadro)
+* Thaumic Inventory Scanning (Thaumcraft Addon) (by BlayTheNinth)
+* Tinkers Construct (by mDiyo)
+* Thaumcraft (by azanor)
+* Thaumcraft NEI Plugin (by DjGiannuzz)
+* Thaumic Energistics (by Nividica)
+* Thaumic Exploration (by nekosune)
+* Thermal Dynamics (by TeamCoFH)
+* Thermal Expansion (by TeamCoFH)
+* Thermal Foundation (by TeamCoFH)
+* TiC Tooltips (by squeek502)
+* Tinkers' Mechworks (by mDiyo)
+* Translocators (by chicken_bones)
+* The Twilight Forest (by Benimatic)
+* Waila (by ProfMobius)
+* Waila Harvestability (by squeek502)
+* Wawla - What Are We Looking At (by Darkhax)
+* Witchery (by Emoniph)
+* WR-CBE-Universal (by chicken_bones)
+* ChickenChunks (by chicken_bones)
