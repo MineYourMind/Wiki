@@ -79,3 +79,6 @@ Server Specific Exceptions
 
 **Engmatica 2: Expert Skyblock**
 - The End and Nether Dimensions do not reset
+
+**Revelations**
+- Twilight Forest Weekly Reset
