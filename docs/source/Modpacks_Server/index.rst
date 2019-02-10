@@ -33,3 +33,11 @@ Custom Modpacks (MyM)
    :glob:
 
    1.10.2/*
+
+1.12.2
+------
+
+.. toctree::
+   :glob:
+
+   1.12.2/*

@@ -20,7 +20,7 @@ All information about applying to staff (Jr.Moderator) and their responsibilitie
 When do I get promoted from Lost Soul etc.?
 -------------------------------------------
 
-The ranks are titles only and nothing more. There is more planned but on a pretty low priority. The promotion itself happens based on your time spent on the server. If you want to know your tracked time, try ``/stats`` in-game. You can view how long it takes to get to each rank `here <https://docs.google.com/spreadsheets/d/1FYG5h0ZcSNyUvcGDIasFGRLEum-BiRZ8ZhB1ny1hrSI/edit>`_.
+The ranks are titles only and nothing more. There is more planned but on a pretty low priority. The promotion itself happens based on your time spent on the server. If you want to know your tracked time, try ``/stats`` in-game. You can view how long it takes to get to each rank `here <http://mym.li/titles>`_.
 
 
 What are starter kits or server upgrades?
@@ -76,7 +76,7 @@ Currently, we don't have any special ranks in place.
 What are tokens and how do I get them?
 --------------------------------------
 
-You get tokens by voting. For further information use ``/vote`` ingame. Once you have tokens, you can exchange them for Claimblocks, MyMs, chunk loader tickets and random items by using /shop.
+You get tokens by voting. For further information use ``/vote`` ingame. Once you have tokens, you can exchange them for Claimblocks, MyMs, chunk loader tickets and random items by using ``/shop``.
 
 
 What are MyM's, what can I use them for and how do I get them?
@@ -147,10 +147,18 @@ Griefing is not allowed, be it protected or not. Taking the belongings of anothe
 Please read the rules. They state clearly that griefing/raiding isn't allowed in any case, be it protected or unprotected. **Exceptions** are clearly stated within the server's internal ``/rules``.
 
 
+Is EMC Looping allowed?
+-----------------------
+
+Yes it is allowed! You can read the post `here <https://mineyourmind.net/forum/threads/emc-looping-rules-update.30910/>`_ that has more info on the subject.
+
+With that being said, duping items is **NOT** allowed. That is abusing a bug, and not intended as a valid way of getting items. EMC looping on the other hand is a valid way to get EMC in our opinion. Read the post for more info.
+
+
 Can I get a refund for my [Item]?
 ---------------------------------
 
-No, we do not refund items. Please check read post our No Refund Policy `here <http://mym.li/refunds>`_ for an explaination and some more info
+No, we do not refund items. Please read our No Refund Policy `here <http://mym.li/refunds>`_ for more info.
 
 
 Where can I see the banned items?
@@ -204,7 +212,7 @@ If you have questions about a particular item feel free to open up a `support th
 How do I create a ticket?
 -------------------------
 
-Create a ticket requires a forum account which you can create `here <https://mineyourmind.net/forum/login/>`_. 
+Creating a ticket requires a forum account which you can create `here <https://mineyourmind.net/forum/login/>`_. 
 
 Once you have a forums acount, run ``/ticket`` in game and follow the instructions. (Make sure to be at the correct location before you issue the command as your location will be included.) 
 
