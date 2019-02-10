@@ -86,8 +86,3 @@ Backups can be used to restore many different files and fix many issues. Here ar
 * Restoring player data (rarely happens, but it has happened)
 * Fixing accidentally overwritten config files
 * And many more issues that backups remove the headaches from!
-
-About MineYourMind
-==================
-
-WIP (Coming soon!)
