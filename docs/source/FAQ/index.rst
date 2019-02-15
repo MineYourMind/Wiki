@@ -226,3 +226,8 @@ What is a Standalone server?
 ----------------------------
 
 A Standalone server is one that has a separate inventory and chat from the other servers of the same pack.
+
+How does the Patron friend pass work?
+----------------------------
+
+If you have Patron Tier 2 or above, you'll have access to the command ``/patron friendpass [player]`` which will give permissions to ``[player]`` to join a patron only server, for 30 days. The player will not have permission to join early, meaning he will have permission to join at the same time as the Tier 1. Depending on your Patron Tier, you might have more friend passes to give out.
