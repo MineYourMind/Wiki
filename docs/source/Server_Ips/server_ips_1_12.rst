@@ -35,6 +35,14 @@ FTB Sky Adventures (1.12.2)
 
 * ``skyadventures.mym.li`` - Version ``1.4.0``
 
+Project Ozone 3 (1.12.2)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+
+* ``projectozone3.mym.li`` - Version ``3.0.37``
+
+.. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
+
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
