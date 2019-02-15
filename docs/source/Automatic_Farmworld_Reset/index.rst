@@ -82,3 +82,13 @@ Server Specific Exceptions
 
 **Revelations**
 - Twilight Forest Weekly Reset
+
+**Project Ozone 3**
+Weekly
+- Abyssalcraft Dimensions
+- Twilight Forest (DIM3)
+- Erebus (DIM9)
+
+Monthly
+- Hunting Dimension (DIM14)
+- Landia (DIM12)
