@@ -18,9 +18,9 @@ Private Area
 The private area is for anything that only staff can see. From private bug reports, to ban appeals, it all goes here. Click here to visit this section.
 
 - Sub Forums
-  - Ban Appeal
-  - Complaints against Players and Staff
-  - Private Bug Reports (dupes, protection bypass..)
+	- Ban Appeal
+	- Complaints against Players and Staff
+	- Private Bug Reports (dupes, protection bypass..)
 
 Jobs
 ----
