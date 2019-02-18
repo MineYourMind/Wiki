@@ -60,4 +60,4 @@ StoneBlock 2 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ftbstoneblock.mym.li`` - Version ``1.3.0``
+* ``ftbstoneblock.mym.li`` - Version ``1.5.0``
