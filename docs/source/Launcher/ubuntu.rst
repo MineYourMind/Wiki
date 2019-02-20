@@ -1,9 +1,9 @@
-++++++
-Ubuntu
-++++++
+++++++++++++++
+Ubuntu Install
+++++++++++++++
 
 MyM Launcher on Ubuntu
---------------------------------
+----------------------
 
 *This is optional! It only allows it to show up as an Application, and adds a desktop icon!*
 
