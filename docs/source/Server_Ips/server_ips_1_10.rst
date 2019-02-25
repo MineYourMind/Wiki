@@ -1,6 +1,7 @@
 =================
 Server Ip's 1.10.2
 =================
+.. note:: ``mym.li`` can be used in place of ``mineyourmind.net``
 .. contents:: Servers
   :depth: 2
   :local:

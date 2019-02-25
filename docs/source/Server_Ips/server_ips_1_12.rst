@@ -1,6 +1,7 @@
 ==================
 Server Ip's 1.12.2
 ==================
+.. note:: ``mym.li`` can be used in place of ``mineyourmind.net``
 .. contents:: Servers
   :depth: 2
   :local:
@@ -10,6 +11,7 @@ Enigmatica 2: Expert (1.12.2)
 .. note:: This is highly experimental
 
 * ``enigmatica.mineyourmind.net`` - Version ``1.56``
+* ``enigmatica2.mineyourmind.net`` - Version ``1.56``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
