@@ -1,5 +1,5 @@
-Project Ozone 2
-===============
+Tekkit Legends
+==============
 
 Concept
 -------
