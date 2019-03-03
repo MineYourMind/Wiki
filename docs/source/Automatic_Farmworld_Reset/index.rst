@@ -89,3 +89,4 @@ Server Specific Exceptions
 - Erebus (is being reset *Weekly*)
 - Hunting Dimension (is being reset *Monthly*)
 - Landia (is being reset *Monthly*)
+- Lost Cities (is being reset *Monthly*)
