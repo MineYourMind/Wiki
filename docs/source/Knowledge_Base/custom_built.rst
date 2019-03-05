@@ -28,7 +28,6 @@ Automaticly deletes claim/island after 2 weeks of a player being inactive
 Redis Chat
 ----------
 
-
 Stats
 -----
 Keeps track of your playtime and other useful stats use ``/stats me`` to see them
@@ -98,7 +97,7 @@ allows for kits to give you items ingame
 World Downloader
 ----------------
 Allows a player to download their claim(s) to single player and test or continue to play.
-Its mainly use is when a server is shutting down
+Its mainly use is when a server is shutting down. See the guide :ref:`here <ref-worlddownloader>` on how to use it.
 
 EntityControl
 -------------
@@ -107,14 +106,12 @@ Allows staff members to control/limit mob spawning
 Chunk Deleter
 -------------
 
-
 MyM-Tweaks
 ----------
 Applies several tweaks to allow all servers to operate correctly
 
 MyMKit
 ------
-
 
 ModPatches
 ----------
