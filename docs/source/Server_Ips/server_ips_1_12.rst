@@ -10,8 +10,8 @@ Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.56``
-* ``enigmatica2.mineyourmind.net`` - Version ``1.56``
+* ``enigmatica.mineyourmind.net`` - Version ``1.57``
+* ``enigmatica2.mineyourmind.net`` - Version ``1.57``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -41,7 +41,7 @@ Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``projectozone3.mym.li`` - Version ``3.0.37``
+* ``projectozone3.mym.li`` - Version ``3.0.38``
 
 .. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
 
@@ -51,15 +51,8 @@ Sevtech (1.12.2)
 
 * ``sevtech.mineyourmind.net`` - Version ``3.0.8``
 
-StoneBlock (1.12.2)
-^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-
-* ``stoneblock.mym.li`` - Version ``1.0.33``
-* ``stoneblock2.mym.li`` - Version ``1.0.33`` - (Recommended)
-
 StoneBlock 2 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ftbstoneblock.mym.li`` - Version ``1.5.0``
+* ``ftbstoneblock.mym.li`` - Version ``1.7.0``

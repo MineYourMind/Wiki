@@ -1,9 +1,12 @@
-+++++++++++++
++++++++++++
 Server Ip's
-+++++++++++++
++++++++++++
 
 .. toctree::
-   :glob:
-   :maxdepth: 2
-
-   *
+	:glob:
+	:maxdepth: 2
+	
+   server_ips_1_12
+   server_ips_1_10
+   server_ips_1_7
+   server_ips_1_6

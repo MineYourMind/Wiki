@@ -1,6 +1,6 @@
-=================
-Server Ip's 1.7 +
-=================
+===============
+Server Ip's 1.7
+===============
 .. note:: ``mym.li`` can be used in place of ``mineyourmind.net``
 .. contents:: Servers
   :depth: 2
@@ -62,11 +62,3 @@ Tekkit Legends (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.1``
 * ``tekkit2.mym.li``
-
-Awakening (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.28.2``
-* ``awakening.mym.li``
-
-.. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
- 
