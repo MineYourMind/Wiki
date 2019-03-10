@@ -50,5 +50,49 @@ Item Pipes
 
 As for Buildcraft, try using pipes from other mods which don't show the items. These days most mods work with just about any machine. If your setup requires BC pipes for whatever reason, try using as few of them as possible. You can also just use BC pipes as entry and exit point of your piping system and then switch to opaque Thermal Expansion ducts, as they will interconnect.
 
+
+
+Increasing total amount of ram
+==============================
+
+While Minecraft itself needs no more ram than what is defaultly allocated, modded minecraft can need anywhere from 2 GB minimum to even 6 GB minimum.
+
+Installing 64 bit java
+----------------------
+
+Before you set your total memory to an amount larger than 2^3 bits (Or 4 GB), you will need to install 64 bit java.
+
+First, navigate to https://www.java.com/en/download/manual.jsp and select the 64 bit version of java that you need.
+
+Download the file, and make sure that it is installed.
+
+You should be ready for the next steps in increasing the total amount of RAM, but if you run into any issues, you may need to either restart or check to see what went wrong.
+
+
+MyM Launcher
+------------
+
+To increase the amount of RAM that is on the MYM launcher, first launch the MYM launcher and click options.
+
+You will see a screen that says:
+
+General Java Minecraft Proxy Advanced
+
+Click Java, and set the amounts to:
+
+For minimum memory, you can set this to **no more than half** of your computer's total RAM. This should also be exactly one GB less than your maximum memory, but you can set it to even less if you wish.
+
+For maximum memory, you can set this to **no more than half** of your computer's total RAM. This should also not be any more than 6 GB or 6,192 MB unless you are using HD texture packs as you may notice slowdowns as java is unable to dump excess memory.
+
+For PermGen you can either set it to 256 for 32 bit and 512 for 64 bit.
+
+Now just test to see if it allocated that memory, launch the pack in question and when you are in-game press F3 and look for something like "Total Memory Usage: x MB used out of (What you put in maximum memory)"
+
+If so, you have successfully increased the amount of memory you have.
+
+
+
+
+
 .. todo::
    Client performance guide. (get the most out of it)
