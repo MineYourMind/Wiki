@@ -6,6 +6,22 @@ Before you read any further, this policy is **Non-Negotiable**. The final determ
 
 **Do not let this policy discourage you from posting a bug report!**
 
+A brief summary
+===============
+
+We **do not** refund items for reasons including, but not limited to:
+
+* Deaths (Be careful when fighting mobs, however if your grave is in a claim let us know)
+* Accidental item drops (Pressed "Q" when flying over the void or lava)
+* PvP kills
+* Item Clears (It gives sufficient warnings.)
+* Mod Bugs such as NBT overload (ME drives in a backpack or nesting portable storage devices), TombManyGraves, etc.
+* Grief/Theft (Please read the section covering our protection plugin. Protect your stuff!)
+
+**Make sure** to report any errors to the appropriate section in the forums (Modpack support forums, private bug reports, etc).
+
+Whether or not we refund items is up to staff discretion, so please make sure to report such errors as you might just be one of those rare occurrences where this happens (again, no promises).
+
 Why we made this policy
 =======================
 
@@ -28,21 +44,5 @@ With that being said...
 
 **Report these bugs or glitches to us!**
 Aside from the reasons why we don't refund items, we do not want to stop you from letting us know if a bug or glitch is happening. **Please report the errors/bugs/glitches to us in a ticket or support forums post!** Your input could save others from making the same mistake, sometimes it can even get the issue fixed. In **extreme** circumstances (**no promises**) you may get your items back as a result of solving the bug. All of this is only possible if you report the bug to us.
-
-A brief summary
-===============
-
-We **do not** refund items for reasons including, but not limited to:
-
-* Deaths (Be careful when fighting mobs, however if your grave is in a claim let us know)
-* Accidental item drops (Pressed "Q" when flying over the void or lava)
-* PvP kills
-* Item Clears (It gives sufficient warnings.)
-* Mod Bugs such as NBT overload (ME drives in a backpack or nesting portable storage devices), TombManyGraves, etc.
-* Grief/Theft (Please read the section covering our protection plugin. Protect your stuff!)
-
-**Make sure** to report any errors to the appropriate section in the forums (Modpack support forums, private bug reports, etc).
-
-Whether or not we refund items is up to staff discretion, so please make sure to report such errors as you might just be one of those rare occurrences where this happens (again, no promises).
 
 Thank you, and we hope you have a wonderful time on our servers.
