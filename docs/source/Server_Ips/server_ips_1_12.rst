@@ -6,18 +6,27 @@ Server Ip's 1.12.2
   :depth: 2
   :local:
 
+
+FTB Interactions (1.12.2)
+^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+
+* ``interactions.mym.li`` - Version ``1.1.2``
+* ``interactions2.mym.li`` - Version ``1.1.2``
+
+
 Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.59a``
-* ``enigmatica2.mineyourmind.net`` - Version ``1.59a``
+* ``enigmatica.mineyourmind.net`` - Version ``1.62``
+* ``enigmatica2.mineyourmind.net`` - Version ``1.62``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmaticasky.mineyourmind.net`` - Version ``1.25``
+* ``enigmaticasky.mineyourmind.net`` - Version ``1.27a``
 
 FTB Continuum (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^
