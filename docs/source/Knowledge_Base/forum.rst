@@ -56,3 +56,7 @@ Anything not covered in any other section, can go here!
 
 - Subforums
 	- Annoying Forum Games
+
+Two Factor Authentication
+-------------------------
+Read here for more information: See :ref:`ref-forum_2fa` for more information.
