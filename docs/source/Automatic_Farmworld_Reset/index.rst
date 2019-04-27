@@ -90,3 +90,4 @@ Server Specific Exceptions
 - Hunting Dimension (is being reset *Monthly*)
 - Landia (is being reset *Monthly*)
 - Lost Cities (is being reset *Monthly*)
+- Xia (is being reset *Weekly*)

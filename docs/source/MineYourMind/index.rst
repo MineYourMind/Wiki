@@ -46,7 +46,7 @@ They report directly to the Founder position.
 
 Manager
 *******
-Our Managers handle staffing issues. This means hiring/firing of all moderator positions, resolving player complaints, reviewing ban reports/appeals, and directly overseeing the day to day activity of the moderator/senior moderator and junior administrator positions.
+Our Managers handle staffing issues. This means hiring/firing of all moderator positions, resolving player complaints, reviewing ban reports/appeals, and directly overseeing the day to day activity of the moderator/senior moderator positions.
 They report directly to the Founder position.
 
 Senior Moderator

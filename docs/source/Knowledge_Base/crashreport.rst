@@ -13,7 +13,7 @@ MyM Launcher
 3. Open the ``crash-reports`` folder.
 4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
 5. Click on the ``Create new paste`` button and copy the web link.
-6. Paste the link in the forum thread/webchat/ticket.
+6. Paste the link in the forum thread/discord/ticket.
 
 
 FTB Launcher
@@ -25,7 +25,7 @@ FTB Launcher
 4. Open the ``crash-reports`` folder.
 5. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
 6. Click on the ``Create new paste`` button and copy the web link.
-7. Paste the link in the forum thread/webchat/ticket.
+7. Paste the link in the forum thread/discord/ticket.
 
 
 Technic Launcher
@@ -36,7 +36,7 @@ Technic Launcher
 3. Now you click on ``OpenFolder`` and open the ``crash-reports`` folder.
 4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
 5. Click on the ``Create new paste`` button and copy the web link.
-6. Paste the link in the forum thread/webchat/ticket.
+6. Paste the link in the forum thread/discord/ticket.
 
 ATLauncher
 ==========
@@ -46,14 +46,14 @@ ATLauncher
 3. Click ``Open Folder``and locate the ``crash-report`` folder.
 4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
 5. Click on the ``Create new paste`` button and copy the web link.
-6. Paste the link in the forum thread/webchat/ticket.
+6. Paste the link in the forum thread/discord/ticket.
 
-Curse Launcher
-==============
+Twitch Launcher
+===============
 
 1. Open the launcher.
-2. Select ``Minecraft``, and locate your pack.
+2. Select ``Mods`` on the top bar. Then select ``Minecraft``, and locate your pack.
 3. Right click and select ``Open folder``, then locate the ``crash-reports`` folder.
 4. Paste the contents of the latest crash-report on `Pastebin <http://pastebin.com>`_.
 5. Click on the ``Create new paste`` button and copy the web link.
-6. Paste the link in the forum thread/webchat/ticket.
+6. Paste the link in the forum thread/discord/ticket.
