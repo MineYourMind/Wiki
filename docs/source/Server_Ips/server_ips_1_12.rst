@@ -17,21 +17,21 @@ FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``interactions.mym.li`` - Version ``1.5.0``
-* ``interactions2.mym.li`` - Version ``1.5.0``
+* ``interactions.mym.li`` - Version ``1.6.1``
+* ``interactions2.mym.li`` - Version ``1.6.1``
 
 Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.62``
-* ``enigmatica2.mineyourmind.net`` - Version ``1.62``
+* ``enigmatica.mineyourmind.net`` - Version ``1.64d``
+* ``enigmatica2.mineyourmind.net`` - Version ``1.64d``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmaticasky.mineyourmind.net`` - Version ``1.27a``
+* ``enigmaticasky.mineyourmind.net`` - Version ``1.29e``
 
 FTB Continuum (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^
