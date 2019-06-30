@@ -43,7 +43,7 @@ Galactic Science (1.7.10)
 
 Infinity (1.7.10) 
 ^^^^^^^^^^^^^^^^^
-.. note:: Current version ``3.0.2``
+.. note:: Current version ``3.1.0``
 * ``infinity2.mym.li`` - normal mode - latest (recommended)
 * ``infinity-expert.mym.li`` - expert mode - latest (recommended)
 
