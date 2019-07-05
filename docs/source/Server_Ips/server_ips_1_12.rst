@@ -33,31 +33,17 @@ Enigmatica 2: Expert Skyblock (1.12.2)
 
 * ``enigmaticasky.mineyourmind.net`` - Version ``1.29e``
 
-FTB Continuum (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-
-* ``continuum2.mym.li`` - Version ``1.6.0``
-
 FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
 * ``revelation2.mineyourmind.net`` - Version ``2.7.0``
 
-FTB Sky Adventures (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-
-* ``skyadventures.mym.li`` - Version ``1.4.0``
-
 Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
 * ``projectozone3.mym.li`` - Version ``3.0.40``
-
-.. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
