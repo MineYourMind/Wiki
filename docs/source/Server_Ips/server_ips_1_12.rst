@@ -17,8 +17,8 @@ FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``interactions.mym.li`` - Version ``1.6.1``
-* ``interactions2.mym.li`` - Version ``1.6.1``
+* ``interactions.mym.li`` - Version ``1.9.1``
+* ``interactions2.mym.li`` - Version ``1.9.1``
 
 Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
