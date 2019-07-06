@@ -43,7 +43,7 @@ Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``projectozone3.mym.li`` - Version ``3.0.40``
+* ``projectozone3.mym.li`` - Version ``3.0.41``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
