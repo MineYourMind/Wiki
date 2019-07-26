@@ -38,6 +38,7 @@ FTB Revelation (1.12.2)
 .. note:: This is highly experimental
 
 * ``revelation2.mineyourmind.net`` - Version ``2.7.0``
+* ``revelation3.mineyourmind.net`` - Version ``3.0.1``
 
 Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
