@@ -60,7 +60,7 @@ Tickets
 See :ref:`ref-ticket` for more information.
 
 
-.. _patron-commands-1.10:
+.. _ref-patron-commands-1.10:
 Patron
 ------
 * ``/ca`` - Allows to change your cosmetic armor
