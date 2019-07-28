@@ -60,8 +60,7 @@ Tickets
 See :ref:`ref-ticket` for more information.
 
 
-.. _Patron Commands 1.10:
-
+.. _patron-commands-1.10:
 Patron
 =======
 * ``/ca`` - Allows to change your cosmetic armor
@@ -72,7 +71,7 @@ Patron
 * ``/patron friendpass [player]`` - Gives the player a friend pass
 
 LegacyTiers
-=======
+===========
 **Tier1:**
 
 * ``/kit <kitname>`` - Shows all kits, or redeems the defined kit
