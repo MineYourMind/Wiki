@@ -62,7 +62,7 @@ See :ref:`ref-ticket` for more information.
 
 .. _patron-commands-1.10:
 Patron
-=======
+------
 * ``/ca`` - Allows to change your cosmetic armor
 * ``/claimfarewell [message]`` - Changes the leave message of your claim
 * ``/claimgreeting [message]`` - Changes the enter message of your claim

@@ -71,7 +71,7 @@ See :ref:`ref-ticket` for more information.
 
 .. _patron-commands:
 Patron
-=======
+------
 * ``/ca`` - Allows you to change your cosmetic armor
 * ``/is flag [greeting/farewell] [message]`` - Changes the leave/enter message of your island
 * ``/gp flag [greeting/farewell] [message]`` - Changes the leave/enter message of your claim
