@@ -1,4 +1,5 @@
 # Wiki
+[![Build Status](https://travis-ci.com/MineYourMind/Wiki.svg?branch=master)](https://travis-ci.com/MineYourMind/Wiki) [![Documentation Status](https://readthedocs.org/projects/mineyourmind/badge/?version=latest)](http://docs.mym.li/en/latest/?badge=latest)
 The small documentation of the MineYourMind modded Minecraft Server Community. Here on github so everyone can suggest changes and additions.
 
 ## Local Environment
