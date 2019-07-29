@@ -1,3 +1,6 @@
+build/
+node_modules/
+
 docs/readability/
 docs/source/_themes/mineyourmind/static/*
 !docs/source/_themes/mineyourmind/static/css
