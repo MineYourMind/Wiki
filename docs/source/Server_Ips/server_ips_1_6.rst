@@ -10,14 +10,17 @@ Server Ip's 1.6.4
 Agrarian Skies (1.6.4) 
 ^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``4.0.5``
+
 * ``agrarian.mym.li``
 
 Attack of the B-Team (1.6.4)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.0.12c``
+
 * ``bteam.mym.li``
 
 Crash Landing (1.6.4)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.3``
+
 * ``crash.mym.li``

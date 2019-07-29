@@ -45,6 +45,7 @@ Island
 * ``/island setspawn`` - Sets your island's spawn point at your position
 * ``/island spawn <username>`` - Teleports you to your island's spawn point (Only use <username> if you are a trusted island member and not the owner)
 * ``/island homesetbiome <biometype>`` - Change your island biome type
+
 .. note:: The biome options are ``ocean``, ``swampland``, ``forest``, ``flower_forest``, ``jungle``, ``plains``
 
 Market
@@ -57,12 +58,13 @@ Tickets
 * ``/ticket`` - Shows information regarding ticket creation
 * ``/ticket create`` - Creates an empty ticket and displays a link in which to fill in the information
 
-See :ref:`ref-ticket` for more information.
+See :ref:`create-ticket` for more information.
 
 
-.. _ref-patron-commands-1.10:
+.. _patron-commands-110:
+
 Patron
-------
+======
 * ``/ca`` - Allows to change your cosmetic armor
 * ``/claimfarewell [message]`` - Changes the leave message of your claim
 * ``/claimgreeting [message]`` - Changes the enter message of your claim

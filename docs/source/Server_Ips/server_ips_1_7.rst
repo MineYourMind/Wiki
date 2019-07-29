@@ -9,55 +9,66 @@ Server Ip's 1.7
 Hub (1.7.10)
 ^^^^^^^^^^^^
 .. note:: You can join the hub on Minecraft 1.7 or 1.8 (vanilla or modded)
+
 * ``hub.mym.li``
 
 Agrarian Skies 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.14``
+
 * ``as2.mym.li``
 
 Crackpack (1.7.10)
 ^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.0``
+
 * ``crackpack.mym.li``
 
 Crundee Craft (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.0``
+
 * ``crundee.mym.li``
 
 Direwolf20 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.10.0``
+
 * ``direwolf202.mym.li``
 
 Divine Journey (1.7.10)
-^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version is ``1.5.7``
+
 * ``divinejourney.mym.li``
 
 Galactic Science (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.6.4``
+
 * ``galactic.mym.li``
 
 Infinity (1.7.10) 
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``3.1.0``
+
 * ``infinity2.mym.li`` - normal mode - latest (recommended)
 * ``infinity-expert.mym.li`` - expert mode - latest (recommended)
 
 Infinity Skyblock (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.0.1``
+
 * ``infinityskyblock.mym.li``
 
 Project Ozone 2 (1.7.10)
-^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.3.0``
+
 * ``projectozone2.mym.li``
 
 Tekkit Legends (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.1``
+
 * ``tekkit2.mym.li``

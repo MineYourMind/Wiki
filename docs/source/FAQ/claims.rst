@@ -23,7 +23,7 @@ We have an automated secondary world reset system in place. Farmworlds are being
 Are there any warnings prior to the reset?
 ------------------------------------------
 
-Warnings are given around 5-7 days before with automated ingame announcements. We will also make an announcment in advance on the forums `here <https://mineyourmind.net/forum/forums/announcements.152/>`_
+Warnings are given around 5-7 days before with automated ingame announcements. We will also make an announcment in advance on the forums `here <https://mineyourmind.net/forum/forums/announcements.152/>`__
 
 
 How do I get more Claimblocks?
@@ -41,4 +41,4 @@ There is a limit, but you don't really need to worry about it as it is quite hig
 Can you remove this claim next to mine?
 ---------------------------------------
 
-We utilize an automatic reset system on our servers. Claims get removed after 2 weeks of inactivity from the claim owner. Members of the claim can request a transfer to them after the 7th day of inactivity. They can do this by creating a ticket in game by jumping to :ref:`here <ref-ticket>` or by creating a forums post `here <https://mineyourmind.net/forum/categories/support-forums.155/>`_
+We utilize an automatic reset system on our servers. Claims get removed after 2 weeks of inactivity from the claim owner. Members of the claim can request a transfer to them after the 7th day of inactivity. They can do this by creating a ticket in game by jumping to :ref:`here <create-ticket>` or by creating a forums post `here <https://mineyourmind.net/forum/categories/support-forums.155/>`__

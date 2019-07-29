@@ -6,7 +6,7 @@ Rules and Server info
 Is raiding/griefing allowed?
 ----------------------------
 
-Griefing is not allowed, be it protected or not. Taking the belongings of another player is griefing. Please click `here <http://en.wikipedia.org/wiki/Wikipedia:Griefing>`_ for the exact definition of the word "griefing" for the full picture.
+Griefing is not allowed, be it protected or not. Taking the belongings of another player is griefing. Please click `here <http://en.wikipedia.org/wiki/Wikipedia:Griefing>`__ for the exact definition of the word "griefing" for the full picture.
 
 Please read the rules. They state clearly that griefing/raiding isn't allowed in any case, be it protected or unprotected. **Exceptions** are clearly stated within the server's internal ``/rules``.
 
@@ -20,7 +20,7 @@ Unless stated otherwise, PvP is not allowed. On some servers, you can use ``/pvp
 Is EMC Looping allowed?
 -----------------------
 
-Yes it is allowed! You can read the post `here <https://mineyourmind.net/forum/threads/emc-looping-rules-update.30910/>`_ that has more info on the subject.
+Yes it is allowed! You can read the post `here <https://mineyourmind.net/forum/threads/emc-looping-rules-update.30910/>`__ that has more info on the subject.
 
 With that being said, duping items is **NOT** allowed. That is abusing a bug, and not intended as a valid way of getting items. EMC looping on the other hand is a valid way to get EMC in our opinion. Read the post for more info.
 
@@ -28,7 +28,7 @@ With that being said, duping items is **NOT** allowed. That is abusing a bug, an
 Can I get a refund for my [Item]?
 ---------------------------------
 
-No, we do not refund items. Please read our No Refund Policy `here <http://mym.li/refunds>`_ for more info.
+No, we do not refund items. Please read our No Refund Policy `here <http://mym.li/refunds>`__ for more info.
 
 
 Where do I report a bug?

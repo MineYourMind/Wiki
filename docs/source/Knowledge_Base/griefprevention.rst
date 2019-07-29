@@ -5,7 +5,7 @@ GriefPrevention (protect your land)
 +++++++++++++++++++++++++++++++++++
 
 .. image:: https://i.imgur.com/9yf2Cf2.png
-  :height: 120px!important
+  :height: 120px
   :align:  right
  
 

@@ -5,7 +5,7 @@ Legacy Tier Information
 Summary
 =======
 
-Legacy Tiers were once sold on our `shop <http://mym.li/shop>`_ as a donor rank. It came in 5 different levels with each level getting more perks than the last. Below is a chart of all the perks for each tier. We stopped selling Legacy Tiers to comply with Mojang's EULA. You can read more about the situation `here <https://mineyourmind.net/forum/threads/the-future-of-mym-is-vague.27500/>`_.
+Legacy Tiers were once sold on our `shop <http://mym.li/shop>`_ as a donor rank. It came in 5 different levels with each level getting more perks than the last. Below is a chart of all the perks for each tier. We stopped selling Legacy Tiers to comply with Mojang's EULA. You can read more about the situation `here <https://mineyourmind.net/forum/threads/the-future-of-mym-is-vague.27500/>`__.
 
 
 Perks
@@ -14,7 +14,7 @@ Perks
 .. note::
    Some features only work on older Minecraft versions! (1.6/1.7)
 
-This chart is not guarenteed to be accurate. If a feature is not listed here, please let us know by creating at ticket in game with ``/ticket create`` or support forums post `here <https://mineyourmind.net/forum/forums/other.269/>`_
+This chart is not guarenteed to be accurate. If a feature is not listed here, please let us know by creating at ticket in game with ``/ticket create`` or support forums post `here <https://mineyourmind.net/forum/forums/other.269/>`__
 
 `*` = Only available on Skyblock servers
 

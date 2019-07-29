@@ -66,12 +66,13 @@ Tickets
 =======
 * ``/ticket`` - Creates a new ticket
 
-See :ref:`ref-ticket` for more information.
+See :ref:`create-ticket` for more information.
 
 
-.. _ref-patron-commands:
+.. _patron-commands:
+
 Patron
-------
+======
 * ``/ca`` - Allows you to change your cosmetic armor
 * ``/is flag [greeting/farewell] [message]`` - Changes the leave/enter message of your island
 * ``/gp flag [greeting/farewell] [message]`` - Changes the leave/enter message of your claim

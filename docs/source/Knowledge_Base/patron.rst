@@ -1,6 +1,7 @@
 ++++++
 Patron
 ++++++
+
 Patron Commands
 ---------------
-See :ref:`ref-patron-commands` for 1.6.4+ and :ref:`ref-patron-commands-1.10` for 1.10.2+
+See :ref:`commands for 1.6.4+<patron-commands>` and :ref:`commands for 1.10+ <patron-commands-110>`
