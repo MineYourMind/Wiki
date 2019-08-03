@@ -6,69 +6,64 @@ Server Ip's 1.7
   :depth: 2
   :local:
 
-Hub (1.7.10)
-^^^^^^^^^^^^
-.. note:: You can join the hub on Minecraft 1.7 or 1.8 (vanilla or modded)
-
-* ``hub.mym.li``
 
 Agrarian Skies 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.14``
 
-* ``as2.mym.li``
+* ``as2.mineyourmind.net``
 
 Crackpack (1.7.10)
 ^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.0``
 
-* ``crackpack.mym.li``
+* ``crackpack.mineyourmind.net``
 
 Crundee Craft (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.0``
 
-* ``crundee.mym.li``
+* ``crundee.mineyourmind.net``
 
 Direwolf20 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.10.0``
 
-* ``direwolf202.mym.li``
+* ``direwolf202.mineyourmind.net``
 
 Divine Journey (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version is ``1.5.7``
 
-* ``divinejourney.mym.li``
+* ``divinejourney.mineyourmind.net``
 
 Galactic Science (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.6.4``
 
-* ``galactic.mym.li``
+* ``galactic.mineyourmind.net``
 
 Infinity (1.7.10) 
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``3.1.0``
 
-* ``infinity2.mym.li`` - normal mode - latest (recommended)
-* ``infinity-expert.mym.li`` - expert mode - latest (recommended)
+* ``infinity2.mineyourmind.net`` - normal mode - latest (recommended)
+* ``infinity-expert.mineyourmind.net`` - expert mode - latest (recommended)
 
 Infinity Skyblock (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.0.1``
 
-* ``infinityskyblock.mym.li``
+* ``infinityskyblock.mineyourmind.net``
 
 Project Ozone 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``2.3.0``
 
-* ``projectozone2.mym.li``
+* ``projectozone2.mineyourmind.net``
 
 Tekkit Legends (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.1.1``
 
-* ``tekkit2.mym.li``
+* ``tekkit2.mineyourmind.net``

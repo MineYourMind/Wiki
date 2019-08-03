@@ -11,14 +11,14 @@ FTB Ultimate Reloaded (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ultimatereloaded.mym.li`` - Version ``1.7.1``
+* ``ultimatereloaded.mineyourmind.net`` - Version ``1.7.1``
 
 FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``interactions.mym.li`` - Version ``1.9.1``
-* ``interactions2.mym.li`` - Version ``1.9.1``
+* ``interactions.mineyourmind.net`` - Version ``1.9.1``
+* ``interactions2.mineyourmind.net`` - Version ``1.9.1``
 
 Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -37,14 +37,13 @@ FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``revelation2.mineyourmind.net`` - Version ``2.7.0``
-* ``revelation3.mineyourmind.net`` - Version ``3.0.1``
+* ``revelation.mineyourmind.net`` - Version ``3.0.1``
 
 Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``projectozone3.mym.li`` - Version ``3.0.41``
+* ``projectozone3.mineyourmind.net`` - Version ``3.0.41``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
@@ -56,4 +55,4 @@ StoneBlock 2 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ftbstoneblock.mym.li`` - Version ``1.14.0``
+* ``ftbstoneblock.mineyourmind.net`` - Version ``1.14.0``
