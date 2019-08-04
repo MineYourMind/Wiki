@@ -24,8 +24,8 @@ Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.64d``
-* ``enigmatica2.mineyourmind.net`` - Version ``1.64d``
+* ``enigmatica.mineyourmind.net`` - Version ``1.66c``
+* ``enigmatica2.mineyourmind.net`` - Version ``1.66c``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
