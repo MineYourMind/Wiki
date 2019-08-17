@@ -55,4 +55,4 @@ StoneBlock 2 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ftbstoneblock.mineyourmind.net`` - Version ``1.14.0``
+* ``ftbstoneblock.mineyourmind.net`` - Version ``1.15.0``
