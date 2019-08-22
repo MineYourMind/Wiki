@@ -1,10 +1,11 @@
-+++++++++++++++++
++++++++++++++++++++++
 Discord - Public Chat
-+++++++++++++++++
++++++++++++++++++++++
 
 Introduction
 ============
 .. What is Discord?::
+
 Discord is an app that allows you to communicate with other players and staff either by chatting in text channels or talking to people in voice channels
 
 

@@ -11,53 +11,39 @@ FTB Ultimate Reloaded (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ultimatereloaded.mym.li`` - Version ``1.5.0``
+* ``ultimatereloaded.mineyourmind.net`` - Version ``1.7.1``
 
 FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``interactions.mym.li`` - Version ``1.2.1``
-* ``interactions2.mym.li`` - Version ``1.2.1``
+* ``interactions.mineyourmind.net`` - Version ``1.9.1``
+* ``interactions2.mineyourmind.net`` - Version ``1.9.1``
 
 Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.62``
-* ``enigmatica2.mineyourmind.net`` - Version ``1.62``
+* ``enigmatica.mineyourmind.net`` - Version ``1.66c``
+* ``enigmatica2.mineyourmind.net`` - Version ``1.66c``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmaticasky.mineyourmind.net`` - Version ``1.27a``
-
-FTB Continuum (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-
-* ``continuum2.mym.li`` - Version ``1.6.0``
+* ``enigmaticasky.mineyourmind.net`` - Version ``1.29e``
 
 FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``revelation2.mineyourmind.net`` - Version ``2.7.0``
-
-FTB Sky Adventures (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-
-* ``skyadventures.mym.li`` - Version ``1.4.0``
+* ``revelation.mineyourmind.net`` - Version ``3.0.1``
 
 Project Ozone 3 (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``projectozone3.mym.li`` - Version ``3.0.39``
-
-.. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
+* ``projectozone3.mineyourmind.net`` - Version ``3.0.41``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
@@ -69,4 +55,4 @@ StoneBlock 2 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ftbstoneblock.mym.li`` - Version ``1.10.0``
+* ``ftbstoneblock.mineyourmind.net`` - Version ``1.15.0``

@@ -156,11 +156,11 @@ Our live monitoring system. If a server is getting into trouble it barks. Built 
 * ``Entities`` - Amount of entities (Animals, Monsters, Villagers, Items on the ground..) loaded across all worlds. /p entities per player with a 128 total tolerance removed (the overworld spawn is usually loaded).
 * ``TileEntities`` - Amount of tile entities (Machines, Chests, Cables/Conduits..) loaded across all worlds. /p tile entities per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
 
-Watchdog can be found `here <https://mineyourmind.net/server-status.html>`_
+Watchdog can be found `here <https://mineyourmind.net/server-status.html>`__
 
 Mark2
 -----
 
 Website
 -------
-The website can be found `here <https://mineyourmind.net/>`_
+The website can be found `here <https://mineyourmind.net/>`__

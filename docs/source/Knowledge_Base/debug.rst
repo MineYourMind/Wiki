@@ -35,7 +35,7 @@ To find out what Minecraft is doing at the moment, do the following:
 
 Connection
 ==========
-1. Download `WinMTR <http://winmtr.net>`_
+1. Download `WinMTR <http://downloads.sourceforge.net/project/winmtr/WinMTR-v092.zip>`_
 2. Type the server address into the ``Host`` box and click ``Start``
 3. Click ``Stop`` after 5 minutes
 4. Paste it on `Pastebin <http://pastebin.com>`_

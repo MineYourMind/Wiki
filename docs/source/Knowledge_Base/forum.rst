@@ -59,4 +59,4 @@ Anything not covered in any other section, can go here!
 
 Two Factor Authentication
 -------------------------
-Read here for more information: See :ref:`ref-forum_2fa` for more information.
+See :doc:`forum_2fa` for more information.

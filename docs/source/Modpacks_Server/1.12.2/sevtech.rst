@@ -148,7 +148,7 @@ Mods
 * Progression Tweaks (by turkey2349)
 * Immersive Craft (by McJty)
 * AbyssalCraft (by Shinoow)
-* Ender Utilities (by masa_)
+* Ender Utilities (by masa\_)
 * ConnectedTexturesMod (by tterrag1098)
 * Advanced Generators (by bdew)
 * QuantumStorage (by Gigabit1011)
