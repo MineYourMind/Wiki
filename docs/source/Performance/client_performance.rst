@@ -142,8 +142,9 @@ First, navigate to https://www.java.com/en/download/manual.jsp and select the 64
 Download the file, and make sure that it is installed.
 
 You should be ready for the next steps in increasing the total amount of RAM, but if you run into any issues, you may need to either restart or check to see what went wrong.
-..note::
-Make sure to set your memory to **no more than half** of your computer's total RAM. This should also not be any more than 6 GB or 6,192 MB unless you are using HD texture packs as you may notice slowdowns as java is unable to dump excess memory.
+
+.. note::
+	Make sure to set your memory to **no more than half** of your computer's total RAM. This should also not be any more than 6 GB or 6,192 MB unless you are using HD texture packs as you may notice slowdowns as java is unable to dump excess memory.
 
 MyM Launcher
 ------------
