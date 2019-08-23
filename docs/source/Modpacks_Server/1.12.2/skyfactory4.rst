@@ -9,12 +9,16 @@ Back again for more modded skyblock fun! SkyFactory 4 offers a brand-new experie
 Gaining Prestige with Cachet
 ----------------------------
 
-SkyFactory 4 also introduces the prestige system! Seen in the normal modpack this utilizes the Parabox to generate points but MYM has their very own unique plugin to generate these points for you created by our very own Matryoshika. Here is how it works:
+Skyfactory 4 includes a point gathering system called "Prestige Points." Prestige is seen in Skyfactory 4 normally by the use of the parabox mod. As this mod is not server friendly, we have disabled the mod for the most part. With the help of MyM's own Matryoshika, we have developed a plugin to gain prestige passively.
 
 Every time you complete a tab, you get a point. Once you complete one tab you will start earning one prestige point per tab per hour. 
 
 * 1 Tab Completed: 1 Prestige point per hour.
 * 2 Tabs Completed: 2 Prestige points per hour.
+
+For example, you will see something that looks like this:
+
+.. image:: https://i.gyazo.com/3d4341f944f95f7dfbfde9bbe191e132.png
 
 And so on.
 
