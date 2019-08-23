@@ -5,7 +5,7 @@ How to increase Client FPS
 Basic Minecraft
 ===============
 
-To increase your FPS on many of our modpacks, firstly you will want to open your favourite modpack and go to options.
+To increase your FPS on many of our modpacks, firstly you will want to open your favorite modpack and go to options.
 From there you will need to go to the options tab on the menu.
 From there you will want to go to Video settings and do the following:
 
@@ -25,14 +25,14 @@ Set V-Sync to OFF.
 
 Make sure you have no resource packs on.
 
-Other ways to increase your FPS include downloading performance inhancers such as Fastcraft which is on most MYM modpacks or even optifine which will be listed below.
+Other ways to increase your FPS include downloading performance enhancers such as Fastcraft which is on most MYM modpacks or even Optifine which will be listed below.
 
 For information regarding how to install these performance mods, please consult the Knowledge Database on installing mods to your launcher
 
 Fastcraft
 ---------
 
-To install fastcraft, simply download it at this link here and follow the above instructions: https://www.curseforge.com/minecraft/mc-mods/fastcraft/files
+To install Fastcraft, simply download it at this link here and follow the above instructions: https://www.curseforge.com/minecraft/mc-mods/fastcraft/files
 
 BetterFPS
 ---------
@@ -121,7 +121,7 @@ Immersive Engineering Waterwheels and Windmills have moving parts which can caus
 Item Pipes
 ----------
 
- Item ducts that aren't opaque from Thermal Expansion and Buildcraft pipes can dramatically reduce your fps as they both show items moving through the pipes. These tile entities can drastically lower your fps, if you are using the clear item ducts from Thermal Expansion. If possible try to use the opaque ones as they are better for your fps and don't show the items moving through the pipes but work at the same transfer rate. 
+Item ducts that aren't opaque from Thermal Expansion and Buildcraft pipes can dramatically reduce your fps as they both show items moving through the pipes. These tile entities can drastically lower your fps, if you are using the clear item ducts from Thermal Expansion. If possible try to use the opaque ones as they are better for your fps and don't show the items moving through the pipes but work at the same transfer rate.
 
 As for Buildcraft, try using pipes from other mods which don't show the items. These days most mods work with just about any machine. If your setup requires BC pipes for whatever reason, try using as few of them as possible. You can also just use BC pipes as entry and exit point of your piping system and then switch to opaque Thermal Expansion ducts, as they will interconnect.
 
@@ -130,7 +130,7 @@ As for Buildcraft, try using pipes from other mods which don't show the items. T
 Increasing total amount of ram
 ==============================
 
-While Minecraft itself needs no more ram than what is defaultly allocated, modded minecraft can need anywhere from 2 GB minimum to even 6 GB minimum.
+While Minecraft itself needs no more ram than what is allocated by default, modded minecraft can need anywhere from 2 GB minimum to even 6 GB minimum.
 
 Installing 64 bit java
 ----------------------
@@ -143,7 +143,7 @@ Download the file, and make sure that it is installed.
 
 You should be ready for the next steps in increasing the total amount of RAM, but if you run into any issues, you may need to either restart or check to see what went wrong.
 ..note::
-	Make sure to set your memory to **no more than half** of your computer's total RAM. This should also not be any more than 6 GB or 6,192 MB unless you are using HD texture packs as you may notice slowdowns as java is unable to dump excess memory.
+Make sure to set your memory to **no more than half** of your computer's total RAM. This should also not be any more than 6 GB or 6,192 MB unless you are using HD texture packs as you may notice slowdowns as java is unable to dump excess memory.
 
 MyM Launcher
 ------------
@@ -193,7 +193,7 @@ Technic Launcher
 
 To increase the amount of RAM that is on the Technic Launcher, launch the program and click "Launcher Options"
 
-Navigate to the tab called "Java Settings" and set the memory to no more than  of your computer's total RAM. 
+Navigate to the tab called "Java Settings" and set the memory to no more than  of your computer's total RAM.
 
 To make sure that you are using 64 bit java, check in the java version at the top if it says "64-Bit"
 
@@ -202,6 +202,3 @@ To make sure that you are using 64 bit java, check in the java version at the to
 Now just test to see if it allocated that memory, launch the pack in question and when you are in-game press F3 and look for something like "Total Memory Usage: x MB used out of (What you put in maximum memory)"
 
 If so, you have successfully increased the amount of memory you have.
-
-.. todo::
-   Client performance guide. (get the most out of it)
