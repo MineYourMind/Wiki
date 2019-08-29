@@ -11,12 +11,14 @@ Gaining Prestige with Cachet
 
 Skyfactory 4 includes a point gathering system called "Prestige Points." Prestige is seen in Skyfactory 4 normally by the use of the parabox mod. As this mod is not server friendly, we have disabled the mod for the most part. With the help of MyM's own Matryoshika, we have developed a plugin to gain prestige passively.
 
-Every time you complete a tab, you get a point. Once you complete one advancements tab you will start earning one prestige point per tab per hour. 
+Every time you complete a tab, you get a point. Once you complete one advancements tab you will start earning one prestige point per tab per hour.
 
 * 1 Tab Completed: 1 Prestige point per hour.
 * 2 Tabs Completed: 2 Prestige points per hour.
 
-And so on, these points can then be used to unlock mods such as Mystical Agriculture, Flux Networks, etc. These can be unlocked by using the keybinding for the prestige tab (default "p") and clicking on the stage you wish to unlock. 
+.. note:: You can use the in-game command ``/cachet`` to check time
+
+And so on, these points can then be used to unlock mods such as Mystical Agriculture, Flux Networks, etc. These can be unlocked by using the keybinding for the prestige tab (default "p") and clicking on the stage you wish to unlock.
 
 For example, you will see something that looks like this:
 
