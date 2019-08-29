@@ -11,7 +11,7 @@ FTB Ultimate Reloaded (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ultimatereloaded.mineyourmind.net`` - Version ``1.7.1``
+* ``ultimatereloaded.mineyourmind.net`` - Version ``1.8.0``
 
 FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -24,20 +24,20 @@ Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.66c``
-* ``enigmatica2.mineyourmind.net`` - Version ``1.66c``
+* ``enigmatica.mineyourmind.net`` - Version ``1.67``
+* ``enigmatica2.mineyourmind.net`` - Version ``1.67``
 
 Enigmatica 2: Expert Skyblock (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmaticasky.mineyourmind.net`` - Version ``1.29e``
+* ``enigmaticasky.mineyourmind.net`` - Version ``1.30``
 
 FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``revelation.mineyourmind.net`` - Version ``3.0.1``
+* ``revelation.mineyourmind.net`` - Version ``3.1.0``
 
 Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^
