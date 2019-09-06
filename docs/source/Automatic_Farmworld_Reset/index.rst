@@ -63,27 +63,46 @@ Server Specific Exceptions
 --------------------------
 
 **Attack of the B-Team**
+
 - Tropicraft (is *NOT* being reset)
 
 **Galatic Science**
+
 - Nothing will be reset 
 
 **SevTech**
-- Twilight Forest Weekly Reset
+
+- Twilight Forest (is being reset *Weekly*)
 
 **Infinity Evolved Skyblock**
+
 - Nether (is *NOT* being reset as it is a void world)
 
+**Divine Journey**
+
+- Runic Dungeons (is being reset *Weekly*)
+- Eden (is being reset *Weekly*)
+- Iceika (is being reset *Weekly*)
+- Wildwood (is being reset *Monthly*)
+- Apalachia (is being reset *Monthly*)
+- Skythern (is being reset *Monthly*)
+- Mortum (is being reset *Monthly*)
+
 **Engmatica 2: Expert**
-- Twilight Forest Weekly Reset
+
+- Twilight Forest (is being reset *Weekly*)
 
 **Engmatica 2: Expert Skyblock**
-- The End and Nether Dimensions do not reset
+
+- The End (is *NOT* being reset)
+- Nether (is *NOT* being reset)
 
 **Revelations**
-- Twilight Forest Weekly Reset
+
+- Twilight Forest (is being reset *Weekly*)
 
 **Project Ozone 3**
+
 - Abyssalcraft Dimensions (is being reset *Weekly*)
 - Twilight Forest (is being reset *Weekly*)
 - Erebus (is being reset *Weekly*)
