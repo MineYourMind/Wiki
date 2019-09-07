@@ -56,3 +56,9 @@ StoneBlock 2 (1.12.2)
 .. note:: This is highly experimental
 
 * ``ftbstoneblock.mineyourmind.net`` - Version ``1.15.0``
+
+Skyfactory 4 (1.12.2)
+^^^^^^^^^^^^^^^^^^^^^
+.. note:: This is highly experimental and is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
+
+* ``skyfactory4next.mym.li`` - Version ``4.0.8``
