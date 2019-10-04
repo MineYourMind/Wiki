@@ -7,17 +7,10 @@ Server Ip's 1.12.2
   :local:
 
 
-FTB Ultimate Reloaded (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-
-* ``ultimatereloaded.mineyourmind.net`` - Version ``1.8.0``
-
 FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``interactions.mineyourmind.net`` - Version ``1.9.1``
 * ``interactions2.mineyourmind.net`` - Version ``1.9.1``
 
 Enigmatica 2: Expert (1.12.2)
@@ -25,13 +18,6 @@ Enigmatica 2: Expert (1.12.2)
 .. note:: This is highly experimental
 
 * ``enigmatica.mineyourmind.net`` - Version ``1.67``
-* ``enigmatica2.mineyourmind.net`` - Version ``1.67``
-
-Enigmatica 2: Expert Skyblock (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-
-* ``enigmaticasky.mineyourmind.net`` - Version ``1.30``
 
 FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
