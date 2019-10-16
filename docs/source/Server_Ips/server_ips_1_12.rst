@@ -47,4 +47,4 @@ Skyfactory 4 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental and is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
 
-* ``skyfactory4next.mym.li`` - Version ``4.0.8``
+* ``skyfactory4next.mym.li`` - Version ``4.1.0``
