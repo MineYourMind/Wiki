@@ -43,7 +43,7 @@ Galactic Science (1.7.10)
 
 * ``galactic.mineyourmind.net``
 
-Infinity (1.7.10) 
+Infinity (1.7.10)
 ^^^^^^^^^^^^^^^^^
 .. note:: Current version ``3.1.0``
 
@@ -55,6 +55,12 @@ Infinity Skyblock (1.7.10)
 .. note:: Current version ``2.0.1``
 
 * ``infinityskyblock.mineyourmind.net``
+
+Regrowth (1.7.10)
+^^^^^^^^^^^^^^^^^
+.. note:: Current version ``1.0.2``
+
+* ``regrowth.mineyourmind.net``
 
 Project Ozone 2 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^

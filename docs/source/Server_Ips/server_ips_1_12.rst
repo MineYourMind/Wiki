@@ -6,6 +6,11 @@ Server Ip's 1.12.2
   :depth: 2
   :local:
 
+  Dungeons, Dragons and Space Shuttles (1.12.2)
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  .. note:: This is highly experimental
+
+  * ``ddss.mineyourmind.net`` - Version ``6.3``
 
 FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
