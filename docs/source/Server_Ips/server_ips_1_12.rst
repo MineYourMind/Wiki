@@ -10,7 +10,7 @@ Server Ip's 1.12.2
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   .. note:: This is highly experimental
 
-  * ``ddss.mineyourmind.net`` - Version ``6.3``
+  * ``ddss.mineyourmind.net`` - Version ``6.5``
 
 FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
