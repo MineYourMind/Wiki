@@ -42,6 +42,7 @@ Sevtech (1.12.2)
 .. note:: This is highly experimental
 
 * ``sevtech.mineyourmind.net`` - Version ``3.0.8``
+* ``sevtech2.mineyourmind.net`` - Version ``3.1.2 Hotfix 1``
 
 StoneBlock 2 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
@@ -51,6 +52,6 @@ StoneBlock 2 (1.12.2)
 
 Skyfactory 4 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental and is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron.
+.. note:: This is highly experimental
 
 * ``skyfactory4next.mym.li`` - Version ``4.1.0``
