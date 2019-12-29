@@ -49,6 +49,7 @@ General
 - Hoanna
 - Advent of Ascension Worlds
 - Aether
+- Hunting Dimension
 
 Never resetting worlds/dimensions
 ---------------------------------
@@ -106,7 +107,6 @@ Server Specific Exceptions
 - Abyssalcraft Dimensions (is being reset *Weekly*)
 - Twilight Forest (is being reset *Weekly*)
 - Erebus (is being reset *Weekly*)
-- Hunting Dimension (is being reset *Monthly*)
 - Landia (is being reset *Monthly*)
 - Lost Cities (is being reset *Monthly*)
 - Xia (is being reset *Weekly*)
