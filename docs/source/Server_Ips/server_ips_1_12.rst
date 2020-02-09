@@ -11,7 +11,7 @@ Dungeons Dragons and Space Shuttles (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ddss.mineyourmind.net`` - Version ``6.5``
+* ``ddss.mineyourmind.net`` - Version ``7.1a``
 
 FTB Interactions (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
