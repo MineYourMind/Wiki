@@ -6,6 +6,11 @@ Server Ip's 1.12.2
   :depth: 2
   :local:
 
+Crackpack 3 (1.12.2)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+
+* ``crackpack3.mineyourmind.net`` - Version ``3.0.7``
 
 Dungeons Dragons and Space Shuttles (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
