@@ -18,12 +18,6 @@ Dungeons Dragons and Space Shuttles (1.12.2)
 
 * ``ddss.mineyourmind.net`` - Version ``7.1a``
 
-FTB Interactions (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
-
-* ``interactions2.mineyourmind.net`` - Version ``1.9.1``
-
 Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
@@ -35,6 +29,12 @@ FTB Revelation (1.12.2)
 .. note:: This is highly experimental
 
 * ``revelation.mineyourmind.net`` - Version ``3.2.0``
+
+Omnifactory (1.12.2)
+^^^^^^^^^^^^^^^^^^^^
+.. note:: This is highly experimental
+
+* ``omnifactory.mineyourmind.net`` - Version ``1.2.1``
 
 Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^
