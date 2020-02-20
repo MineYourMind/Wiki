@@ -73,7 +73,8 @@ Server Specific Exceptions
 
 **SevTech**
 
-  **Weekly**
+ **Weekly**
+
  - End
  - Abyssal Wstelands
  - Dreadlands
@@ -83,7 +84,8 @@ Server Specific Exceptions
  - Twilight Forest
  - Betweenlands
   
-  **Monthly**
+ **Monthly**
+
  - Nether
  - Farmworld
  - Saturn
