@@ -73,7 +73,23 @@ Server Specific Exceptions
 
 **SevTech**
 
-- Twilight Forest (is being reset *Weekly*)
+ **Weekly**
+
+ - End
+ - Abyssal Wstelands
+ - Dreadlands
+ - Beneath
+ - Omothol
+ - Aroma Hunting Dim
+ - Twilight Forest
+ - Betweenlands
+  
+ **Monthly**
+
+ - Nether
+ - Farmworld
+ - Saturn
+ - Kepler22b
 
 **Infinity Evolved Skyblock**
 
