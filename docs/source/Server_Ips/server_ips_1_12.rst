@@ -40,7 +40,7 @@ Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``projectozone3.mineyourmind.net`` - Version ``3.0.41``
+* ``projectozone3.mineyourmind.net`` - Version ``3.2.51``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
