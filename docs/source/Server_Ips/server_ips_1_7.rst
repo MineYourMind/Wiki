@@ -13,29 +13,11 @@ Agrarian Skies 2 (1.7.10)
 
 * ``as2.mineyourmind.net``
 
-Crackpack (1.7.10)
-^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.1.0``
-
-* ``crackpack.mineyourmind.net``
-
-Crundee Craft (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.1.0``
-
-* ``crundee.mineyourmind.net``
-
 Direwolf20 (1.7.10)
 ^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.10.0``
 
 * ``direwolf202.mineyourmind.net``
-
-Divine Journey (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version is ``1.5.7``
-
-* ``divinejourney.mineyourmind.net``
 
 Galactic Science (1.7.10)
 ^^^^^^^^^^^^^^^^^^^^^^^^^

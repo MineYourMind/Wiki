@@ -7,12 +7,6 @@ Server Ip's 1.6.4
   :local:
 
 
-Agrarian Skies (1.6.4) 
-^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``4.0.5``
-
-* ``agrarian.mineyourmind.net``
-
 Attack of the B-Team (1.6.4)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Current version ``1.0.12c``
