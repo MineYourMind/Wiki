@@ -7,7 +7,7 @@ Server Ip's 1.12.2
   :local:
 
 Crackpack 3 (1.12.2)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
 * ``crackpack3.mineyourmind.net`` - Version ``3.0.7``
@@ -40,7 +40,7 @@ Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``projectozone3.mineyourmind.net`` - Version ``3.2.51``
+* ``projectozone3.mineyourmind.net`` - Version ``3.2.55``
 
 Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
