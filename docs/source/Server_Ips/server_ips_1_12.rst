@@ -16,7 +16,7 @@ Dungeons Dragons and Space Shuttles (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ddss.mineyourmind.net`` - Version ``7.1a``
+* ``ddss.mineyourmind.net`` - Version ``7.2b``
 
 Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
