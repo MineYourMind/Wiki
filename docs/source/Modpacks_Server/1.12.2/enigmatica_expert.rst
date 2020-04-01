@@ -1,5 +1,5 @@
-Enigmatica Expert
-=================
+Enigmatica 2 Expert
+===================
 
 Concept
 -------
