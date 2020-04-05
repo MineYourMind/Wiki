@@ -22,7 +22,7 @@ Enigmatica 2: Expert (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``enigmatica.mineyourmind.net`` - Version ``1.76a``
+* ``enigmatica.mineyourmind.net`` - Version ``1.78``
 
 FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
