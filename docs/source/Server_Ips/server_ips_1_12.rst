@@ -34,7 +34,7 @@ Omnifactory (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``omnifactory.mineyourmind.net`` - Version ``1.2.1``
+* ``omnifactory.mineyourmind.net`` - Version ``1.2.2``
 
 Project Ozone 3 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^^
