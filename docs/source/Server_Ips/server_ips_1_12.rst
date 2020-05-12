@@ -28,7 +28,14 @@ FTB Revelation (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``revelation.mineyourmind.net`` - Version ``3.2.0``
+* ``revelation.mineyourmind.net`` - Version ``3.2.1``
+
+MC Eternal (1.12.2)
+^^^^^^^^^^^^^^^^^^^
+.. note:: This is highly experimental. 
+
+* ``mceternal.mym.li`` - Version ``1.3.5.3`` - **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details
+* ``mceternal2.mym.li`` - Version ``1.3.5.3``
 
 Omnifactory (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^
@@ -46,14 +53,13 @@ Sevtech (1.12.2)
 ^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``sevtech.mineyourmind.net`` - Version ``3.0.8``
 * ``sevtech2.mineyourmind.net`` - Version ``3.1.2 Hotfix 1``
 
 StoneBlock 2 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
 .. note:: This is highly experimental
 
-* ``ftbstoneblock.mineyourmind.net`` - Version ``1.15.0``
+* ``ftbstoneblock.mineyourmind.net`` - Version ``1.16.1``
 
 Skyfactory 4 (1.12.2)
 ^^^^^^^^^^^^^^^^^^^^^
