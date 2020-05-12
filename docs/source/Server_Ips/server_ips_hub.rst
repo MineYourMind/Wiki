@@ -6,15 +6,22 @@ Hub Servers
   :depth: 2
   :local:
 
+----
 
 Hub
 ^^^
-.. note:: You can join the hub on Minecraft 1.7.x to 1.14.x (vanilla or modded)
+MC Version - ``1.7.x`` to ``1.14.x``
+------------------------------------
 
 * ``play.mineyourmind.net``
 
+----
+
 Hub (Legacy)
 ^^^^^^^^^^^^
-.. note:: You can join the hub on Minecraft 1.6.x (vanilla or modded)
+MC Version - ``1.6.x``
+----------------------
 
 * ``legacy.mineyourmind.net``
+
+----

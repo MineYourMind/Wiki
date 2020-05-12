@@ -3,18 +3,25 @@ Server Ip's 1.6.4
 =================
 .. note:: ``mym.li`` can be used in place of ``mineyourmind.net``
 .. contents:: Servers
-  :depth: 2
+  :depth: 1
   :local:
 
+----
 
-Attack of the B-Team (1.6.4)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.0.12c``
+Attack of the B-Team
+^^^^^^^^^^^^^^^^^^^^
+Version - ``1.0.12c``
+---------------------
 
-* ``bteam.mineyourmind.net``
+* **Node 1:** ``bteam.mineyourmind.net``
 
-Crash Landing (1.6.4)
-^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.1.3``
+----
 
-* ``crash.mineyourmind.net``
+Crash Landing
+^^^^^^^^^^^^^
+Version - ``1.1.3``
+-------------------
+
+* **Node 1:** ``crash.mineyourmind.net``
+
+----

@@ -1,57 +1,82 @@
-===============
-Server Ip's 1.7
-===============
+==================
+Server Ip's 1.7.10
+==================
 .. note:: ``mym.li`` can be used in place of ``mineyourmind.net``
 .. contents:: Servers
-  :depth: 2
+  :depth: 1
   :local:
 
+----
 
-Agrarian Skies 2 (1.7.10)
+Agrarian Skies 2
+^^^^^^^^^^^^^^^^
+Version - ``1.1.14``
+--------------------
+
+* **Node 1:** ``as2.mineyourmind.net``
+
+----
+
+Direwolf 20
+^^^^^^^^^^^
+Version - ``1.10.0``
+--------------------
+
+* **Node 2:** ``direwolf202.mineyourmind.net``
+
+----
+
+Galactic Science
+^^^^^^^^^^^^^^^^
+Version - ``1.6.4``
+-------------------
+
+* **Node 1:** ``galactic.mineyourmind.net``
+
+----
+
+Infinity Evolved
+^^^^^^^^^^^^^^^^
+Version - ``3.1.0``
+-------------------
+
+* **Node 1:** ``infinity-expert.mineyourmind.net`` - **expert mode**
+* **Node 2:** ``infinity2.mineyourmind.net`` - **normal mode**
+
+----
+
+Infinity Evolved Skyblock
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.1.14``
+Version - ``2.0.1``
+-------------------
 
-* ``as2.mineyourmind.net``
+* **Node 1:** ``infinityskyblock.mineyourmind.net``
 
-Direwolf20 (1.7.10)
-^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.10.0``
+----
 
-* ``direwolf202.mineyourmind.net``
+Project Ozone 2
+^^^^^^^^^^^^^^^
+Version - ``2.3.0``
+-------------------
 
-Galactic Science (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.6.4``
+* **Node 1:** ``projectozone2.mineyourmind.net``
 
-* ``galactic.mineyourmind.net``
+----
 
-Infinity (1.7.10)
-^^^^^^^^^^^^^^^^^
-.. note:: Current version ``3.1.0``
+Regrowth
+^^^^^^^^
+Version - ``1.0.2``
+-------------------
 
-* ``infinity2.mineyourmind.net`` - normal mode - latest (recommended)
-* ``infinity-expert.mineyourmind.net`` - expert mode - latest (recommended)
+* **Node 1:** ``regrowth.mineyourmind.net``
 
-Infinity Skyblock (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.0.1``
+----
 
-* ``infinityskyblock.mineyourmind.net``
+Tekkit Legends
+^^^^^^^^^^^^^^
+Version - ``1.1.1``
+-------------------
 
-Regrowth (1.7.10)
-^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.0.2``
+* **Node 2:** ``tekkit2.mineyourmind.net``
 
-* ``regrowth.mineyourmind.net``
-
-Project Ozone 2 (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``2.3.0``
-
-* ``projectozone2.mineyourmind.net``
-
-Tekkit Legends (1.7.10)
-^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: Current version ``1.1.1``
-
-* ``tekkit2.mineyourmind.net``
+----

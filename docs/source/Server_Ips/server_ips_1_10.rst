@@ -1,39 +1,55 @@
 ==================
 Server Ip's 1.10.2
 ==================
-.. note:: ``mym.li`` can be used in place of ``mineyourmind.net``
+.. note::  All 1.10 servers are highly experimental. ``mym.li`` can be used in place of ``mineyourmind.net``.
 .. contents:: Servers
-  :depth: 2
+  :depth: 1
   :local:
+
+----
   
-  
-Age of Engineering (1.10)
-^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
+Age of Engineering
+^^^^^^^^^^^^^^^^^^
+Version - ``1.1.2``
+-------------------
 
-* ``aoe4.mineyourmind.net`` - Version ``1.1.2``
+* **Node 4:** ``aoe4.mineyourmind.net``
 
-Beyond (1.10)
-^^^^^^^^^^^^^
-.. note:: This is highly experimental
+----
 
-* ``beyond4.mineyourmind.net`` - Version ``1.11.0``
+FTB Beyond
+^^^^^^^^^^
+Version - ``1.11.0``
+--------------------
 
-Forever Stranded (1.10)
-^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
+* **Node 4:** ``beyond4.mineyourmind.net``
 
-* ``stranded2.mineyourmind.net`` - Version ``1.9.9.1``
+----
 
-Project Ozone Lite (1.10)
-^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
+Forever Stranded
+^^^^^^^^^^^^^^^^
+Version - ``1.9.9.1``
+---------------------
 
-* ``polite.mineyourmind.net`` - Version ``1.3.6``
+* **Node 2:** ``stranded2.mineyourmind.net``
 
-SkyFactory 3 (1.10)
-^^^^^^^^^^^^^^^^^^^
-.. note:: This is highly experimental
+----
 
-* ``skyfactory3.mineyourmind.net`` - Version ``3.0.15``
-* ``skyfactory4.mineyourmind.net`` - Version ``3.0.15``
+Project Ozone Lite
+^^^^^^^^^^^^^^^^^^
+Version - ``1.3.6``
+-------------------
+
+* **Node 1:** ``polite.mineyourmind.net``
+
+----
+
+SkyFactory 3
+^^^^^^^^^^^^
+Version - ``3.0.15``
+--------------------
+
+* **Node 3:** ``skyfactory3.mineyourmind.net``
+* **Node 4:** ``skyfactory4.mineyourmind.net``
+
+----
