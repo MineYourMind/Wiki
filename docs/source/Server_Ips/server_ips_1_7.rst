@@ -79,4 +79,3 @@ Version - ``1.1.1``
 
 * **Node 2:** ``tekkit2.mineyourmind.net``
 
-----

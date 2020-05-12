@@ -24,4 +24,3 @@ Version - ``1.1.3``
 
 * **Node 1:** ``crash.mineyourmind.net``
 
-----

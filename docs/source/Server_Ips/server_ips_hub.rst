@@ -24,4 +24,3 @@ MC Version - ``1.6.x``
 
 * ``legacy.mineyourmind.net``
 
-----

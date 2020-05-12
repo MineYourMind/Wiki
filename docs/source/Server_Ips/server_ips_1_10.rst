@@ -52,4 +52,3 @@ Version - ``3.0.15``
 * **Node 3:** ``skyfactory3.mineyourmind.net``
 * **Node 4:** ``skyfactory4.mineyourmind.net``
 
-----
