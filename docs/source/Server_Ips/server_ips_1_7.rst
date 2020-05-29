@@ -54,15 +54,6 @@ Version - ``2.0.1``
 
 ----
 
-Project Ozone 2
-^^^^^^^^^^^^^^^
-Version - ``2.3.0``
--------------------
-
-* **Node 1:** ``projectozone2.mineyourmind.net``
-
-----
-
 Regrowth
 ^^^^^^^^
 Version - ``1.0.2``

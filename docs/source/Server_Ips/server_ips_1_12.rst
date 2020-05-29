@@ -8,15 +8,6 @@ Server Ip's 1.12.2
 
 ----
 
-Crackpack 3
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``3.0.7``
--------------------
-
-* **Node 1:** ``crackpack3.mineyourmind.net`` 
-
-----
-
 Dungeons Dragons and Space Shuttles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Version - ``7.2b``
