@@ -10,7 +10,7 @@ Server Ip's 1.12.2
 
 Dungeons Dragons and Space Shuttles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``7.2b``
+Version - ``7.4a``
 -------------------
 
 * **Node 1:** ``ddss.mineyourmind.net``
