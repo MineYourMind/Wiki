@@ -56,10 +56,11 @@ Version - ``1.2.2``
 
 Project Ozone 3
 ^^^^^^^^^^^^^^^
-Version - ``3.2.55``
+Version - ``3.3.58A``
 --------------------
 
-* **Node 1:** ``projectozone3.mineyourmind.net``
+* **Node 1:** ``kappa.mineyourmind.net`` - **kappa mode**
+* **Node 2:** ``projectozone3new.mym.li`` - **normal mode**
 
 ----
 
