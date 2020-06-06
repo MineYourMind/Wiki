@@ -59,7 +59,7 @@ Project Ozone 3
 Version - ``3.3.58A``
 --------------------
 
-* **Node 1:** ``kappa.mineyourmind.net`` - **kappa mode**
+* **Node 1:** ``po3kappa.mineyourmind.net`` - **kappa mode**
 * **Node 2:** ``projectozone3new.mym.li`` - **normal mode**
 
 ----
