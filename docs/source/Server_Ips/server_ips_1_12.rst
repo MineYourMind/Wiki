@@ -56,7 +56,7 @@ Version - ``1.2.2``
 
 Project Ozone 3
 ^^^^^^^^^^^^^^^
-Version - ``3.3.58A``
+Version - ``3.3.59``
 ---------------------
 
 * **Node 1:** ``po3kappa.mineyourmind.net`` - **kappa mode**
@@ -88,4 +88,3 @@ Version - ``4.1.0``
 -------------------
 
 * **Node 1:** ``skyfactory4next.mym.li``
-
