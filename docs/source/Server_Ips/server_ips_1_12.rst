@@ -19,7 +19,7 @@ Version - ``7.4a``
 
 Enigmatica 2: Expert
 ^^^^^^^^^^^^^^^^^^^^
-Version - ``1.80``
+Version - ``1.81a``
 ------------------
 
 * **Node 1:** ``enigmatica.mineyourmind.net``
