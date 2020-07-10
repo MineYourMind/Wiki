@@ -27,6 +27,7 @@ How to: Using Radius
 ====================
 
 1. Add a radius around you to world downloader by running the command ``/wd add radius <number>`` while standing in the desired area. 
+	Note: You can only download the area if it has been claimed by you, or you are trusted in the claim.
 
 * The number is the amount of chunks around you that you want to download. So if you want to download a 4x4 chunk area, put 2 in as that will download the a 4x4 area. Repeat this for all the areas you want to save before moving on to step 2.
 
