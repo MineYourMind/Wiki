@@ -20,7 +20,7 @@ Version - ``7.4a``
 Enigmatica 2: Expert
 ^^^^^^^^^^^^^^^^^^^^
 Version - ``1.81a``
-------------------
+-------------------
 
 * **Node 1:** ``enigmatica.mineyourmind.net``
 
@@ -38,7 +38,7 @@ Version - ``3.2.1``
 MC Eternal
 ^^^^^^^^^^
 Version - ``1.3.6``
----------------------
+-------------------
 
 * **Node 1:** ``mceternal.mym.li`` - **Patron Only server.** See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details
 * **Node 2:** ``mceternal2.mym.li``
