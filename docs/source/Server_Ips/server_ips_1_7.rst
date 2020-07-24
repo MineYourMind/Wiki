@@ -10,10 +10,10 @@ Server Ip's 1.7.10
 
 Agrarian Skies 2
 ^^^^^^^^^^^^^^^^
-Version - ``1.1.14``
---------------------
+Version - ``2.0.5``
+-------------------
 
-* **Node 1:** ``as2.mineyourmind.net``
+* **Node 2:** ``as2new.mineyourmind.net``
 
 ----
 
@@ -69,4 +69,3 @@ Version - ``1.1.1``
 -------------------
 
 * **Node 2:** ``tekkit2.mineyourmind.net``
-
