@@ -10,7 +10,7 @@ Server Ip's 1.7.10
 
 Agrarian Skies 2
 ^^^^^^^^^^^^^^^^
-Version - ``2.0.5``
+Version - ``2.0.6``
 -------------------
 
 * **Node 2:** ``as2new.mineyourmind.net``
