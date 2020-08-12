@@ -27,5 +27,5 @@ Canceling the Subscription
 
 **Xsolla**
 
-.. todo::
-	Cancel subscription via Xsolla.
+The first email you have received from tebex.io will have a link to cancel the subscription.
+Please contact us if you are unable to find it and we will cancel it for you.
