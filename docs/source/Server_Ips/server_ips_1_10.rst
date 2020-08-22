@@ -7,15 +7,6 @@ Server Ip's 1.10.2
   :local:
 
 ----
-  
-Age of Engineering
-^^^^^^^^^^^^^^^^^^
-Version - ``1.1.2``
--------------------
-
-* **Node 4:** ``aoe4.mineyourmind.net``
-
-----
 
 FTB Beyond
 ^^^^^^^^^^
@@ -35,20 +26,10 @@ Version - ``1.9.9.1``
 
 ----
 
-Project Ozone Lite
-^^^^^^^^^^^^^^^^^^
-Version - ``1.3.6``
--------------------
-
-* **Node 1:** ``polite.mineyourmind.net``
-
-----
-
 SkyFactory 3
 ^^^^^^^^^^^^
 Version - ``3.0.15``
 --------------------
 
-* **Node 3:** ``skyfactory3.mineyourmind.net``
-* **Node 4:** ``skyfactory4.mineyourmind.net``
+* **Node 5:** ``skyfactory3new.mym.li``
 
