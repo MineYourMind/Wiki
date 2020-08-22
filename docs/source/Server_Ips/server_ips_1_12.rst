@@ -45,15 +45,6 @@ Version - ``1.3.6``
 
 ----
 
-Omnifactory
-^^^^^^^^^^^
-Version - ``1.2.2``
--------------------
-
-* **Node 1:** ``omnifactory.mineyourmind.net``
-
-----
-
 Project Ozone 3
 ^^^^^^^^^^^^^^^
 Version - ``3.3.59``
