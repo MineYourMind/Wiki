@@ -17,15 +17,6 @@ Version - ``2.0.6``
 
 ----
 
-Direwolf 20
-^^^^^^^^^^^
-Version - ``1.10.0``
---------------------
-
-* **Node 2:** ``direwolf202.mineyourmind.net``
-
-----
-
 Galactic Science
 ^^^^^^^^^^^^^^^^
 Version - ``1.6.4``
