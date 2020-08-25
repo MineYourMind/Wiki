@@ -46,8 +46,8 @@ Version - ``3.2.1``
 
 MC Eternal
 ^^^^^^^^^^
-Version - ``1.3.6``
--------------------
+Version - ``1.3.7.1``
+---------------------
 
 * **Node 1:** ``mceternal.mineyourmind.net`` - **Patron Only server.** See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details
 * **Node 2:** ``mceternal2.mineyourmind.net``
