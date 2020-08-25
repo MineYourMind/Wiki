@@ -31,5 +31,4 @@ SkyFactory 3
 Version - ``3.0.15``
 --------------------
 
-* **Node 5:** ``skyfactory3new.mym.li``
-
+* **Node 5:** ``skyfactory3new.mineyourmind.net``
