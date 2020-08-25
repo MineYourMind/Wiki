@@ -26,6 +26,15 @@ Version - ``1.81a``
 
 ----
 
+FTB Interactions
+^^^^^^^^^^^^^^^^
+Version - ``2.0.9``
+-------------------
+
+* **Node 3:** ``interactions.mineyourmind.net``
+
+----
+
 FTB Revelation
 ^^^^^^^^^^^^^^
 Version - ``3.2.1``
@@ -40,8 +49,8 @@ MC Eternal
 Version - ``1.3.6``
 -------------------
 
-* **Node 1:** ``mceternal.mym.li`` - **Patron Only server.** See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details
-* **Node 2:** ``mceternal2.mym.li``
+* **Node 1:** ``mceternal.mineyourmind.net`` - **Patron Only server.** See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details
+* **Node 2:** ``mceternal2.mineyourmind.net``
 
 ----
 
@@ -51,7 +60,7 @@ Version - ``3.3.59``
 ---------------------
 
 * **Node 1:** ``po3kappa.mineyourmind.net`` - **kappa mode**
-* **Node 2:** ``projectozone3new.mym.li`` - **normal mode**
+* **Node 2:** ``po3normal.mineyourmind.net`` - **normal mode**
 
 ----
 
@@ -77,4 +86,4 @@ Skyfactory 4
 Version - ``4.1.0``
 -------------------
 
-* **Node 1:** ``skyfactory4next.mym.li``
+* **Node 1:** ``skyfactory4next.mineyourmind.net``
