@@ -1,6 +1,8 @@
 Applied Energistics
 +++++++++++++++++++
 
+.. image:: https://i.imgur.com/uDrRAvV.jpg
+
 As you can imagine, the performance impact of an Applied Energistics ME-System is mainly related to the size of the System. But there are parts with a bigger impact than others. There a lot of possible optimizations with less downsights - in some cases even quite some benefits - and easy implementation. This guide has been created to give an idea of how the system works and how to get the most out of it in terms of performance.
 
 Basics
