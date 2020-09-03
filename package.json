@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "browser-sync": "^2.26.7",
-    "del": "^5.0.0",
+    "browser-sync": "^2.26.12",
+    "del": "^5.1.0",
     "gulp": "^4.0.2",
     "plugin-error": "^1.0.1"
   }
