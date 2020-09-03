@@ -1,7 +1,7 @@
 # Wiki
 [![Build Status](https://travis-ci.com/MineYourMind/Wiki.svg?branch=master)](https://travis-ci.com/MineYourMind/Wiki) [![Documentation Status](https://readthedocs.org/projects/mineyourmind/badge/?version=latest)](http://docs.mym.li/en/latest/?badge=latest)  
 The small documentation of the MineYourMind modded Minecraft Server Community. Here on github so everyone can suggest changes and additions.
-#
+
 ## Local Environment
 
 You can setup an environment so you can instantly see the changes that have been made to the docs.
@@ -10,8 +10,8 @@ You can setup an environment so you can instantly see the changes that have been
 2. [Install reStructuredText Extension](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext)
 3. Click "*Open Preview to the Side*" and choose sphinx for preview
 <br/>
-<br/>
 ### Alternative
+
 Install the following and view it in the browser:
 
 1. [Install Python 3](https://www.python.org)
