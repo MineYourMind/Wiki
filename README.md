@@ -9,7 +9,7 @@ You can setup an environment so you can instantly see the changes that have been
 1. [Install VS Code](https://code.visualstudio.com)
 2. [Install reStructuredText Extension](https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext)
 3. Click "*Open Preview to the Side*" and choose sphinx for preview
-<br/>
+
 ### Alternative
 
 Install the following and view it in the browser:
