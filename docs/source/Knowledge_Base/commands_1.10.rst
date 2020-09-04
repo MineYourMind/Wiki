@@ -105,3 +105,8 @@ LegacyTiers
 * ``/god`` - Enables god mode, making you invincible, disabling damage taken (Not including damage that bypasses creative ex. Chaos Guardian)
 * ``/thru`` - Moves you through the block(s) you're looking at, right clicking a compass has the same effect
 * ``/jump`` - Moves you to the block your cursor is pointing at, right clicking a compass has the same effect
+
+Utility
+=======
+* ``/cm`` - Manage your chunk loaders
+* ``/entitycontrol list-near`` - Get a list of entities in a 3x3 chunk radius
