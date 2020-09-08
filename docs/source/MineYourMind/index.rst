@@ -65,9 +65,22 @@ Our Managers handle staffing issues. This means hiring/firing of all moderator p
 
 They report directly to the Founder position.
 
+Community Coordinator
+*********************
+Community Coordinator focuses on developing, leading and executing our community outreach goals. This role will build, maintain, and optimize our social media channels and any other community driven platforms. This is not limited to but includes Facebook, Instagram, Twitter, MyM's Wiki, and the MyM Forums. The Community Coordinator role will work closely with the Administration Team to better communicate with the player-base but fall under the direction of the Management Team.
+
+Their duties are as follows:
+
+- Collaborate with the Admin team to better reach out to the MyM Community
+- Identify or Brainstorm new ways to communicate internally and externally using digital platforms
+- Help and respond to any inquiries on all social media platforms
+- Create and plan events to engage the community in something fun (eventually)
+- Inform the Community about upcoming or current changes happening within MyM
+- Handle and forward community concerns and feedback
+
 Senior Moderator
 ****************
-Our Senior Moderators are in charge of the day to day operation of the servers in game. Their main focus is on dealing with the community, handling escalated tickets from moderators, mentoring Jr. Moderators and general task lists from administrators and managers.
+Our Senior Moderators are in charge of the day to day operation of the servers in game. Their main focus is on dealing with the community, handling escalated tickets from moderators, mentoring Jr. Moderators and general task lists from Administrators and Managers.
 
 They are also responsible for handling issues that don't require backend access, and they handle issues that are out of the hands of the Moderators and are not directly required to be fixed by an Administrator. 
 
@@ -87,7 +100,7 @@ They report directly to the Manager position.
 
 Junior Moderator
 ****************
-Our Junior Moderators are a new position to MyM. This position serves as a trial period for new staff members before moving into the Moderator position. This gives the new staff member an idea of what is expected as far as work ethic and our staff members a chance to make sure the new staff member is a good fit for the team. 
+Our Junior Moderators are the newest members of the MyM Staff Team. This position serves as a trial period for new staff members before moving into the Moderator position. This gives the new staff member an idea of what is expected as far as work ethic and our staff members a chance to make sure the new staff member is a good fit for the team. 
 
 They mainly focus on Moderating chat and shadowing the Moderator team members to learn the ropes.
 
