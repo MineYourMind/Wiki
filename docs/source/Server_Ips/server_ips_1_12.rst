@@ -83,7 +83,7 @@ Version - ``1.16.1``
 
 Skyfactory 4
 ^^^^^^^^^^^^
-Version - ``4.1.0``
+Version - ``4.2.2``
 -------------------
 
 * **Node 1:** ``skyfactory4next.mineyourmind.net``
