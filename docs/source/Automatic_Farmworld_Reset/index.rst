@@ -116,3 +116,13 @@ Server Specific Exceptions
 
 - Farmworld (is being reset *Weekly*)
 - Twilight Forest (is being reset *Weekly*)
+
+**MCEternal**
+
+- Twilight Forest (is being reset *Weekly*)
+- The Moon (is being reset *Monthly*)
+- Ratlantis (is being reset *Monthly*)
+- The Betweenlands (is being reset *Monthly*)
+- Midnight (is being reset *Monthly*)
+- The Aurorian (is being reset *Monthly*)
+- Atum (is being reset *Monthly*)
