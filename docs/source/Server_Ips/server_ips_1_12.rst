@@ -78,6 +78,7 @@ Version - ``1.16.1``
 --------------------
 
 * **Node 1:** ``ftbstoneblock.mineyourmind.net``
+* **Node 2:** ``ftbstoneblock2.mineyourmind.net``
 
 ----
 
