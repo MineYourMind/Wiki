@@ -88,3 +88,10 @@ Version - ``4.2.2``
 -------------------
 
 * **Node 1:** ``skyfactory4next.mineyourmind.net``
+
+Tekxit 3
+^^^^^^^^
+Version - ``0.981``
+-------------------
+
+* **Node 1:** ``tekxit3.mineyourmind.net``
