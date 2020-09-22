@@ -28,7 +28,7 @@ Version - ``1.9.9.1``
 
 SkyFactory 3
 ^^^^^^^^^^^^
-Version - ``3.0.15``
+Version - ``3.0.21``
 --------------------
 
 * **Node 5:** ``skyfactory3new.mineyourmind.net``
