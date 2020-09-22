@@ -91,7 +91,7 @@ Version - ``4.2.2``
 
 Tekxit 3
 ^^^^^^^^
-Version - ``0.981``
+Version - ``0.990``
 -------------------
 
 * **Node 1:** ``tekxit3.mineyourmind.net``
