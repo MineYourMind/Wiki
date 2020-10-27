@@ -10,7 +10,7 @@ Server Ip's 1.12.2
 
 Dungeons Dragons and Space Shuttles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``7.4a``
+Version - ``8.0 R1``
 ------------------
 
 * **Node 1:** ``ddss.mineyourmind.net``
@@ -19,7 +19,7 @@ Version - ``7.4a``
 
 Enigmatica 2: Expert
 ^^^^^^^^^^^^^^^^^^^^
-Version - ``1.81a``
+Version - ``1.82a``
 -------------------
 
 * **Node 1:** ``enigmatica.mineyourmind.net``
@@ -37,7 +37,7 @@ Version - ``2.0.9``
 
 FTB Revelation
 ^^^^^^^^^^^^^^
-Version - ``3.2.1``
+Version - ``3.3.0``
 -------------------
 
 * **Node 1:** ``revelation.mineyourmind.net``
@@ -55,7 +55,7 @@ Version - ``1.3.7.1``
 
 Project Ozone 3
 ^^^^^^^^^^^^^^^
-Version - ``3.3.59``
+Version - ``3.3.61``
 ---------------------
 
 * **Node 1:** ``po3kappa.mineyourmind.net`` - **kappa mode**
