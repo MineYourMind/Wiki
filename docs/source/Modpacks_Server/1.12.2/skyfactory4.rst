@@ -25,7 +25,7 @@ For example, you will see something that looks like this:
 .. image:: https://i.gyazo.com/3d4341f944f95f7dfbfde9bbe191e132.png
 
 Warning:
- -------
+-------
 
  Due to how Cachet works with Prestige Points, you will not be able to change how the points are allocated if you respec. If you use the respec button you will loose both the advancement and the points if those points were earned using the Cachet system.
 
