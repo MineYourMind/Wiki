@@ -9,7 +9,7 @@ Back again for more modded skyblock fun! SkyFactory 4 offers a brand-new experie
 Gaining Prestige with Cachet
 ----------------------------
 
-Skyfactory 4 includes a point gathering system called "Prestige Points." Prestige is seen in Skyfactory 4 normally by the use of the parabox mod. As this mod is not server friendly, we have disabled the mod for the most part. With the help of MyM's own Matryoshika, we have developed a plugin to gain prestige passively.
+Skyfactory 4 includes a point gathering system called "Prestige Points." Prestige is seen in Skyfactory 4 normally by the use of the Parabox mod. As this mod is not server friendly, we have disabled the mod for the most part. With the help of MyM's own Matryoshika, we have developed a plugin to gain prestige passively.
 
 Every time you complete a tab, you get a point. Once you complete one advancements tab you will start earning one prestige point per tab per hour.
 
@@ -23,6 +23,13 @@ And so on, these points can then be used to unlock mods such as Mystical Agricul
 For example, you will see something that looks like this:
 
 .. image:: https://i.gyazo.com/3d4341f944f95f7dfbfde9bbe191e132.png
+
+Warning:
+--------
+
+ Due to how Cachet works with Prestige Points, you will not be able to change how the points are allocated if you respec. If you use the respec button you will loose both the advancement and the points if those points were earned using the Cachet system.
+
+ .. image:: https://i.imgur.com/ou80LYp.png
 
 Mods
 ----
