@@ -11,7 +11,7 @@ Server Ip's 1.12.2
 Dungeons Dragons and Space Shuttles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Version - ``8.0 R1``
-------------------
+--------------------
 
 * **Node 1:** ``ddss.mineyourmind.net``
 
@@ -56,7 +56,7 @@ Version - ``1.3.7.1``
 Project Ozone 3
 ^^^^^^^^^^^^^^^
 Version - ``3.3.61``
----------------------
+--------------------
 
 * **Node 1:** ``po3kappa.mineyourmind.net`` - **kappa mode**
 * **Node 2:** ``po3normal.mineyourmind.net`` - **normal mode**
