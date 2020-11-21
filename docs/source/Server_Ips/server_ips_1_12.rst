@@ -52,6 +52,7 @@ Version - ``2.0.9.0``
 * **Node 1:** ``horizons.mineyourmind.net``
 
 ----
+
 MC Eternal
 ^^^^^^^^^^
 Version - ``1.3.7.1``
