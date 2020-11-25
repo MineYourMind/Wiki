@@ -26,6 +26,15 @@ Version - ``1.6.4``
 
 ----
 
+GT: New Horizons
+^^^^^^^^^^^^^^^^
+Version - ``2.0.9.0``
+---------------------
+
+* **Node 1:** ``horizons.mineyourmind.net``
+
+----
+
 Infinity Evolved
 ^^^^^^^^^^^^^^^^
 Version - ``3.1.0``
