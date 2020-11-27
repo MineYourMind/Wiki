@@ -126,3 +126,7 @@ Server Specific Exceptions
 - Midnight (is being reset *Monthly*)
 - The Aurorian (is being reset *Monthly*)
 - Atum (is being reset *Monthly*)
+
+**GT: New Horizons**
+
+- Twilight Forest (is being reset *Weekly*)
