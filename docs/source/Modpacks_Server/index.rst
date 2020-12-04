@@ -34,3 +34,11 @@ You can go `here <http://mym.li/ip>`_ for a list of our Server IPs and modpack v
    :glob:
 
    1.12.2/*
+
+1.16.4
+------
+
+.. toctree::
+   :glob:
+
+   1.16.4/*
