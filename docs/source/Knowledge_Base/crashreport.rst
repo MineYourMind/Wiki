@@ -49,7 +49,7 @@ ATLauncher
 6. Paste the link in the forum thread/discord/ticket.
 
 Curseforge Launcher
-===============
+===================
 
 1. Open the launcher.
 2. Select ``Minecraft`` on the left bar, and locate your modpack.
