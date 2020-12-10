@@ -48,12 +48,12 @@ ATLauncher
 5. Click on the ``Create new paste`` button and copy the web link.
 6. Paste the link in the forum thread/discord/ticket.
 
-Twitch Launcher
-===============
+Curseforge Launcher
+===================
 
 1. Open the launcher.
-2. Select ``Mods`` on the top bar. Then select ``Minecraft``, and locate your pack.
-3. Right click and select ``Open folder``, then locate the ``crash-reports`` folder.
+2. Select ``Minecraft`` on the left bar, and locate your modpack.
+3. Right click it and select ``Open folder``, then locate the ``crash-reports`` folder.
 4. Paste the contents of the latest crash-report on `Pastebin <http://pastebin.com>`_.
 5. Click on the ``Create new paste`` button and copy the web link.
 6. Paste the link in the forum thread/discord/ticket.
