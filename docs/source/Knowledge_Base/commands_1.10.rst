@@ -52,6 +52,8 @@ Market
 ======
 * ``/market open`` - Opens the buy interface
 * ``/market add [price] <amount>`` - Creates a listing for the market. You need to be holding the item you wish to list in your hand.
+* ``/sellclaimblocks <amount>`` - Sells Claimblocks for MyM's, 1:1 Ratio.
+* ``/buyclaimblocks <amount>`` - Buys Claimblocks for MyM's, 1:1 Ratio.
 
 Tickets
 =======
