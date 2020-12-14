@@ -42,6 +42,8 @@ Commands
 * ``/Untrust All`` - Removes all permissions for all players in your claim.
 * ``/SubdivideClaims`` - Switches your shovel to subdivison mode, so you can subdivide your claims.
 * ``/BasicClaims`` - Puts your shovel back in basic claim mode.
+* ``/sellclaimblocks <amount>`` - Sells Claimblocks for MyM's, 1:1 Ratio.
+* ``/buyclaimblocks <amount>`` - Buys Claimblocks for MyM's, 1:1 Ratio.
  
 Fakeplayers
 ===========
