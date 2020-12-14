@@ -61,6 +61,8 @@ Market
 * ``/market create [price] <amount>`` - Creates a listing for the market. You need to be holding the item you wish to list in your hand.
 * ``/market pricecheck`` - Checks the recommended price of an item in your hand
 * ``/market send [player] <amount>`` - Transfers the item (In your hand) to a player, this allows for long distance trading from player to player
+* ``/sellclaimblocks <amount>`` - Sells Claimblocks for MyM's, 1:1 Ratio.
+* ``/buyclaimblocks <amount>`` - Buys Claimblocks for MyM's, 1:1 Ratio.
 
 Tickets
 =======
