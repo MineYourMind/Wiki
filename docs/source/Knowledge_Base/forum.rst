@@ -46,10 +46,6 @@ Tutorials, Tips and Tricks
 --------------------------
 Have a cool thing you want to teach the community about? You can post it here! This is the collection of all the network's minecraft and forums knowledge. Click here to visit this section.
 
-Endgame Items
--------------
-Here you will find a variety of lists for endgame items. There is a subsection for every server that we deem necessary.
-
 Offtopic
 --------
 Anything not covered in any other section, can go here!
