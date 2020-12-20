@@ -10,8 +10,8 @@ Server Ip's 1.16.4
 
 All of the Mods 6
 ^^^^^^^^^^^^^^^^^
-Version - ``1.3.3``
--------------------
+Version - ``1.3.6b``
+--------------------
 
 * **Node 1:** ``atm6.mineyourmind.net``
 
