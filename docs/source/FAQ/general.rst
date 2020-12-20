@@ -22,7 +22,24 @@ There is a ``Verified`` rank on Teamspeak but this doesn't restrict you. This in
 
 Is there a Discord server?
 --------------------------
-We do now! You can get to the MyM discord by accepting `this <https://discord.gg/8tyM6xb>`__ invite. 
+We do now! You can get to the MyM discord by accepting `this <https://discord.gg/8tyM6xb>`__ invite.
+
+What are vote rewards?
+----------------------
+
+At the end of every week and month, we give out rewards for the top voters respectively. Here is what the rewards are currently;
+
+**Weekly**
+- 1st Place: 400 Credits & 200 Tokens
+- 2nd Place: 150 Tokens
+- 3rd Place: 100 Tokens
+
+**Monthly**
+- 1st Place: 1 Month FREE Patron Tier 3 and 1000 Credits
+- 2nd Place: 1 Month FREE Patron Tier 2 and 800 Credits
+- 3rd Place: 1 Month FREE Patron Tier 1 and 600 Credits
+- 4th Place: 600 Credits
+- 5th Place: 400 Credits
 
 
 Can I record YouTube or Twitch on here?
@@ -67,7 +84,6 @@ How do I create a ticket?
 
 Creating a ticket requires a forum account which you can create `here <https://mineyourmind.net/forum/login/>`__.
 
-Once you have a forums acount, run ``/ticket`` in game and follow the instructions. (Make sure to be at the correct location before you issue the command as your location will be included.) 
+Once you have a forums acount, run ``/ticket`` in game and follow the instructions. (Make sure to be at the correct location before you issue the command as your location will be included.)
 
 **Note:** The command only creates a ticket entry. You **must** click the link that pops up in chat and fill it out or else staff will be unable to see it. Alternatively, you can view your ticket by going to `this <https://mineyourmind.net/ticket/ticket/user>`__ page and clicking the empty ticket.
-
