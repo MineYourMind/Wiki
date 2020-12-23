@@ -7,11 +7,11 @@ Overall
 =======
 - `Forge <http://www.minecraftforge.net/>`_, LexManos
 - `LiteLoader <http://www.minecraftforum.net/topic/1868280-172api-liteloader-for-minecraft-172/>`_, Mumfrey
-- `VoxelLib <http://www.voxelwiki.com/minecraft/VoxelLib>`_, VoxelModPack Team
-- `VoxelMenu <http://www.voxelwiki.com/minecraft/VoxelMenu>`_, Mumfrey & Thatapplefreak
-- `VoxelPlayer <http://www.voxelwiki.com/minecraft/VoxelPlayer>`_, Mumfrey & MamiyaOtaru
+- VoxelLib, VoxelModPack Team
+- VoxelMenu, Mumfrey & Thatapplefreak
+- VoxelPlayer, Mumfrey & MamiyaOtaru
 - `VoxelMap <http://www.planetminecraft.com/mod/zans-minimap/>`_, MamiyaOtaru
-- `VoxelBoards <http://www.voxelwiki.com/minecraft/VoxelBoards>`_, Mumfrey
+- VoxelBoards, Mumfrey
 - `VoxelCam <http://www.minecraftforum.net/topic/1999989-164-liteloader-voxelcam-minecraft-screenshot-manager/>`_, Thatapplefreak
 - `Tabbychat <http://www.minecraftforum.net/topic/1540451-164-tabbychat-v11000-smp-chat-overhaul/>`_, RocketMan10404
 - `WorldEdit CUI <http://casualcoding.net/wecui/>`_, lahwran, yetanotherx, nejinx
