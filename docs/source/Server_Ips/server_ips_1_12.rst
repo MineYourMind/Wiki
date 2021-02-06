@@ -73,7 +73,7 @@ Version - ``3.1.7``
 
 StoneBlock 2
 ^^^^^^^^^^^^
-Version - ``1.16.1``
+Version - ``1.20.0``
 --------------------
 
 * **Node 2:** ``ftbstoneblock2.mineyourmind.net``
