@@ -29,17 +29,30 @@ What are vote rewards?
 
 At the end of every week and month, we give out rewards for the top voters respectively. Here is what the rewards are currently;
 
-**Weekly**
-* 1st Place: 400 Credits & 200 Tokens
-* 2nd Place: 150 Tokens
-* 3rd Place: 100 Tokens
++---------------+---------+---------+
+|  **Weekly**   | Credits |  Tokens |
++---------------+---------+---------+
+| 1st Place:    |  200    |   400   |
++---------------+---------+---------+
+| 2nd Place:    |  150    |         |
++---------------+---------+---------+
+| 3rd Place:    |  100    |         |
++---------------+---------+---------+
 
-**Monthly**
-* 1st Place: 1 Month FREE Patron Tier 3 and 1000 Credits
-* 2nd Place: 1 Month FREE Patron Tier 2 and 800 Credits
-* 3rd Place: 1 Month FREE Patron Tier 1 and 600 Credits
-* 4th Place: 600 Credits
-* 5th Place: 400 Credits
+
++---------------+---------+----------------------------+
+|  **Monthly**  | Credits |           Patron           |
++---------------+---------+----------------------------+
+| 1st Place:    |   1000  | 1 Month FREE Patron Tier 3 |
++---------------+---------+----------------------------+
+| 2nd Place:    |   800   | 1 Month FREE Patron Tier 2 |
++---------------+---------+----------------------------+
+| 3rd Place:    |   600   | 1 Month FREE Patron Tier 1 |
++---------------+---------+----------------------------+
+| 4th Place:    |   600   |                            |
++---------------+---------+----------------------------+
+| 5th Place:    |   400   |                            |
++---------------+---------+----------------------------+
 
 
 Can I record YouTube or Twitch on here?
