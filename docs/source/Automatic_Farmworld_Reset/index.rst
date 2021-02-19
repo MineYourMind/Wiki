@@ -130,3 +130,4 @@ Server Specific Exceptions
 **GT: New Horizons**
 
 - Twilight Forest (is being reset *Weekly*)
+- Ross128b (is being reset *Monthly*)
