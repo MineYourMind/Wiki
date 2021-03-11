@@ -76,7 +76,7 @@ All our staff is working voluntarily without a benefit. No payment, no special p
 Are you guys (staff) playing legit, or use creative for own sake?
 -----------------------------------------------------------------
 
-Staff play 100% legit at all times. Even instant teleportation is not allowed to be used for personal gain. All the extra permissions granted after becoming a part of the staff are only allowed to be used for fulfilling their duties, not for personal advantage. We enforce this strictl and if you are seeing a staff member not playing legit, please report them to us `here <https://mineyourmind.net/forum/forums/complaints-against-players-and-staff.186/>`__.
+Staff play 100% legit at all times. Even instant teleportation is not allowed to be used for personal gain. All the extra permissions granted after becoming a part of the staff are only allowed to be used for fulfilling their duties, not for personal advantage. We enforce this strictly and if you are seeing a staff member not playing legit, please report them to us `here <https://mineyourmind.net/forum/forums/complaints-against-players-and-staff.186/>`__.
 
 
 What is a Standalone server?
