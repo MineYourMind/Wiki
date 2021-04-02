@@ -32,11 +32,11 @@ At the end of every week and month, we give out rewards for the top voters respe
 +---------------+---------+---------+
 |  **Weekly**   | Credits |  Tokens |
 +---------------+---------+---------+
-| 1st Place:    |  200    |   400   |
+| 1st Place:    |  400    |   250   |
 +---------------+---------+---------+
-| 2nd Place:    |  150    |         |
+| 2nd Place:    |         |   150   |
 +---------------+---------+---------+
-| 3rd Place:    |  100    |         |
+| 3rd Place:    |         |   100   |
 +---------------+---------+---------+
 
 
