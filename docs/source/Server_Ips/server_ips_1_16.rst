@@ -10,7 +10,7 @@ Server Ip's 1.16.5
 
 Vanilla 1.16.5 (McMMO)
 ^^^^^^^^^^^^^^^^^
-Version - ``1.16.5`
+Version - ``1.16.5``
 --------------------
 
 * **Node 1:** ``vanilla116.mineyourmind.net``
