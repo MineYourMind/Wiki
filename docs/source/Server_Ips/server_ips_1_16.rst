@@ -19,12 +19,11 @@ Version - ``1.16.5``
 
 ----
 
-All of the Mods 6
-^^^^^^^^^^^^^^^^^
-Version - ``1.5.2``
---------------------
+Stacia Expert
+^^^^^^^^^^^^^
+Version - ``1.9.7.3``
+---------------------
 
-* **Node 1:** ``atm6.mineyourmind.net``
+* **Node 1:** ``stacia.mineyourmind.net``
 
 .. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron and how to access this server.
-
