@@ -26,15 +26,6 @@ Version - ``1.82a``
 
 ----
 
-FTB Interactions
-^^^^^^^^^^^^^^^^
-Version - ``2.0.9``
--------------------
-
-* **Node 3:** ``interactions.mineyourmind.net``
-
-----
-
 FTB Revelation
 ^^^^^^^^^^^^^^
 Version - ``3.4.0``
