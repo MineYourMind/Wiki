@@ -21,8 +21,8 @@ Version - ``1.16.5``
 
 Stacia Expert
 ^^^^^^^^^^^^^
-Version - ``1.10.6``
---------------------
+Version - ``1.10.11``
+---------------------
 
 * **Node 1:** ``stacia.mineyourmind.net``
 
