@@ -44,6 +44,15 @@ Version - ``1.3.7.1``
 
 ----
 
+Multiblock Madness
+^^^^^^^^^^^^^^^^^^
+Version - ``1.1.3``
+-------------------
+
+* **Node 1:** ``multiblock.mineyourmind.net``
+
+----
+
 Project Ozone 3
 ^^^^^^^^^^^^^^^
 Version - ``3.3.61``
