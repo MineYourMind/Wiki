@@ -19,7 +19,7 @@ Version - ``2.0.6``
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
-Version - ``1.6.4``
+Version - ``1.6.10``
 -------------------
 
 * **Node 1:** ``galactic.mineyourmind.net``
