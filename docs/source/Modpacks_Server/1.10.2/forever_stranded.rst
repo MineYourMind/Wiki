@@ -7,13 +7,13 @@ You have managed to crash on a planet. There is little around but sand. You will
 
  The first challenge you will have to face is getting water to cope with the heat.
 
- Second challenge getting food to over come the hunger 
+ Second challenge getting food to over come the hunger. 
 
- The Map is set on hardcore 
+ The Map is set on hardcore. 
 
- More lives will come as you progress
+ More lives will come as you progress.
 
- Good luck my friends 
+ Good luck my friends. 
 
 More info about the pack can be found `here <https://minecraft.curseforge.com/projects/forever-stranded>`_.
 
