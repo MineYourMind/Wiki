@@ -19,8 +19,8 @@ Version - ``2.0.6``
 
 Galactic Science
 ^^^^^^^^^^^^^^^^
-Version - ``1.6.4``
--------------------
+Version - ``1.6.10``
+--------------------
 
 * **Node 1:** ``galactic.mineyourmind.net``
 
@@ -28,7 +28,7 @@ Version - ``1.6.4``
 
 GT: New Horizons
 ^^^^^^^^^^^^^^^^
-Version - ``2.1.0.0``
+Version - ``2.1.1.0``
 ---------------------
 
 * **Node 1:** ``horizons.mineyourmind.net``

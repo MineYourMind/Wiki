@@ -149,8 +149,6 @@ Our live monitoring system. If a server is getting into trouble it barks. Built 
 * ``S6/12/24`` - Server sessions over the last 6/12/24 hours. High numbers signalize that the server crashed/froze/restarted a lot.
 * ``Uptime`` - For how long the server has been up.
 * ``Players`` - Amount of players online.
-* ``Staff`` - Amount of staff online, hover for details (red = staff with operator permissions). 
-* ``StaffSeen`` - Time passed since a staff member has been seen on this server.
 * ``Worlds`` - Amount of worlds present (does not mean loaded).
 * ``Chunks`` - Amount of chunks loaded across all worlds. /p chunks per player with a 256 total tolerance removed (the overworld spawn is usually loaded).
 * ``Entities`` - Amount of entities (Animals, Monsters, Villagers, Items on the ground..) loaded across all worlds. /p entities per player with a 128 total tolerance removed (the overworld spawn is usually loaded).

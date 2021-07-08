@@ -44,6 +44,15 @@ Version - ``1.3.7.1``
 
 ----
 
+Multiblock Madness
+^^^^^^^^^^^^^^^^^^
+Version - ``1.1.4b``
+--------------------
+
+* **Node 1:** ``multiblock.mineyourmind.net``
+
+----
+
 Project Ozone 3
 ^^^^^^^^^^^^^^^
 Version - ``3.3.61``
@@ -56,7 +65,7 @@ Version - ``3.3.61``
 
 SevTech Ages
 ^^^^^^^^^^^^
-Version - ``3.1.7``
+Version - ``3.2.1``
 -------------------
 * **Node 3:** ``sevtech3.mineyourmind.net``
 
@@ -78,9 +87,9 @@ Version - ``4.2.2``
 
 * **Node 1:** ``skyfactory4next.mineyourmind.net``
 
-Tekxit 3
-^^^^^^^^
-Version - ``0.990``
--------------------
+Tekxit 3 Pi
+^^^^^^^^^^^
+Version - ``0.13.2``
+--------------------
 
-* **Node 1:** ``tekxit3.mineyourmind.net``
+* **Node 1:** ``tekxit3pi.mineyourmind.net``
