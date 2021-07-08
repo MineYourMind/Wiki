@@ -5,7 +5,7 @@ Concept
 -------
 FTB Infinity Evolved Skyblock is a modpack designed to provide an extra challenge for any experienced Minecrafter. Work your way through new recipes, twisted game mechanics, and collect the rare and mysterious trophies! Warning, may consume a vast amount of your time.
 
-You can find more info about Infinity Evolved Skyblock over on the website `here <https://www.feed-the-beast.com/projects/ftb-infinity-evolved-skyblock>`_
+More info about the pack can be found `here <https://www.feed-the-beast.com/projects/ftb-infinity-evolved-skyblock>`_.
 
 Mods
 ----

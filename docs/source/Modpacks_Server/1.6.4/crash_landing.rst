@@ -5,6 +5,8 @@ Concept
 -------
 You've managed to crash land on a dry, dusty planet. No water, no food, no real supplies. The first challenge, to survive the blazing heat where every drop of water is precious.
 
+More info about the pack can be found `here <https://www.curseforge.com/minecraft/modpacks/galactic-science>`_.
+
 Mods
 ----
 * BiblioCraft (by JDSinclair)

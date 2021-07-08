@@ -9,6 +9,8 @@ SevTech aims to introduce many mods not frequently used while altering some more
 
 You'll start your first world with nothing. No map or HWYLA and only a handful of items and recipes. As you progress, you will unlock those features, thousands of items and blocks, and much more. Your goal is to follow through the advancement system from the stone age all the way into space!
 
+More info about the pack can be found `here <https://www.curseforge.com/minecraft/modpacks/sevtech-ages>`_.
+
 Mods
 ----
 * B.A.S.E (by lanse505)

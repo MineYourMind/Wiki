@@ -3,19 +3,19 @@ Forever Stranded
 
 Concept
 -------
-You have managed to crash on a planet. There is little around but sand. You will need to follow the quests lines as well as staying cool in this harsh environment. Beware of the night terrible things may happen 
+You have managed to crash on a planet. There is little around but sand. You will need to follow the quests lines as well as staying cool in this harsh environment. Beware of the night - terrible things may happen. 
 
-The first challenge you will have to face is getting water to cope with the heat.
+ The first challenge you will have to face is getting water to cope with the heat.
 
-Second challenge getting food to over come the hunger 
+ Second challenge getting food to over come the hunger 
 
-The Map is set on hardcore 
+ The Map is set on hardcore 
 
-More lives will come as you progress
+ More lives will come as you progress
 
-Good luck my friends 
+ Good luck my friends 
 
-You can find more info about Forever Stranded over on the Website `here <https://minecraft.curseforge.com/projects/forever-stranded>`_
+More info about the pack can be found `here <https://minecraft.curseforge.com/projects/forever-stranded>`_.
 
 Mods
 ----

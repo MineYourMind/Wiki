@@ -5,6 +5,8 @@ Concept
 -------
 This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!
 
+More info about the pack can be found `here <https://www.technicpack.net/modpack/attack-of-the-bteam.552556>`_.
+
 Mods
 ----
 * Advanced Genetics
