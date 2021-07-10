@@ -7,6 +7,8 @@ I've spent the last 8 months and counting, handcrafting a fun and fresh new modd
 
 There is a huge emphasis on using not so known mods that I deemed to be severely underrated, especially in the Adventuring aspect of the pack.
 
+More info about the pack can be found `here <https://www.curseforge.com/minecraft/modpacks/minecraft-eternal>`_.
+
 Mods
 ----
 

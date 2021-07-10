@@ -5,9 +5,9 @@ Concept
 -------
 The nuclear dawn is here. Large powers around the world launched their nuclear arsenals, making the earth a place without future for mankind.
 
-Luckily you have a chance to survive this. Due to the space projects of your uncle Richard you happen to have a space rocket in your backyard and the coordinates of the outpost base on moon. And since im such a great storywriter, thats about it
+Luckily you have a chance to survive this. Due to the space projects of your uncle Richard you happen to have a space rocket in your backyard and the coordinates of the outpost base on moon. And since im such a great storywriter, thats about it.
 
-You can find more info about Galacatic Science over on the website `here <https://minecraft.curseforge.com/projects/galactic-science>`_
+More info about the pack can be found `here <https://minecraft.curseforge.com/projects/galactic-science>`_.
 
 Mods
 ----

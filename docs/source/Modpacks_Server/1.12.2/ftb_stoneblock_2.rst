@@ -5,6 +5,8 @@ Concept
 -------
 The Stoneblock you like, now just even better then before! New mods, new dimensions, and new bosses! Like the first Stoneblock you start in world of stone, now with new modified Mining and End dimension! Kitchen-sink-like modpack with quests to help guide you in the start and to give you some goals to reach.
 
+More info about the pack can be found `here <https://www.feed-the-beast.com/modpack/ftb_presents_stoneblock_2>`_.
+
 Mods
 ----
 * Actually Additions (by Ellpeck)

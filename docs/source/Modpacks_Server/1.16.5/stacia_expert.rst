@@ -10,10 +10,12 @@ Concept
 * Mekanism V10 And Other New Mods Are Great!
 * Do You Want To Try Them In A More Customized, Quest-Based And Challenging Pack?
 
+More info about the pack can be found `here <https://www.curseforge.com/minecraft/modpacks/stacia-expert>`_.
+
 Server Adjustments
 ------------------
-* The only automatic Farmworld reset happening on this server is the End which is being reset weekly
-* By Default you have a maximum of 8 home points you can set
+* The only automatic Farmworld reset on this server is the End which is being reset weekly
+* By default you have a maximum of 8 home points you can set
 * ``/rtp`` has a cooldown of 15 seconds
 * ``/tpa`` has a cooldown of 30 seconds
 * ``/back`` has a cooldown of 30 seconds

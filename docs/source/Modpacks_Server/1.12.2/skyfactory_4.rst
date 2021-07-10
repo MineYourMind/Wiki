@@ -6,6 +6,8 @@ Concept
 
 Back again for more modded skyblock fun! SkyFactory 4 offers a brand-new experience never before seen in the series. Full automation, tech, magic, and bacon resources! This iteration offers over 30+ world types so you can play the pack like never before! While some world types are based on the classic tree on dirt others are designed with unique recipes and advancements.
 
+More info about the pack can be found `here <https://www.curseforge.com/minecraft/modpacks/skyfactory-4>`_.
+
 Gaining Prestige with Cachet
 ----------------------------
 

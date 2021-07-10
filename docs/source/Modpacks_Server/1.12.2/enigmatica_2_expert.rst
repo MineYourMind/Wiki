@@ -10,6 +10,8 @@ Concept
 * Tons and tons of custom recipes.
 * The progression will lead you to Space, where you'll have the opportunity to explore custom worlds.
 
+More info about the pack can be found `here <https://www.curseforge.com/minecraft/modpacks/enigmatica2expert>`_.
+
 Mods
 ----
 * AE2 Wireless Terminal Library (by TheRealp455w0rd)

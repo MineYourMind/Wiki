@@ -5,7 +5,7 @@ Concept
 -------
 The original skyblock quest pack is back for 1.7.10. Follow the quest book, meet new quest givers and rebuild your world starting from almost nothing. There are multiple map options ranging from easy to hard. Your game difficulty will determine what you start with for resources.  This pack completely changes the way minecraft is played. Nothing is safe from The Jaded One's tweaks. 
 
-You can find more info about Agrarian Skies 2 over on this website `here <https://minecraft.curseforge.com/projects/agrarian-skies-2>`_
+More info about the pack can be found `here <https://minecraft.curseforge.com/projects/agrarian-skies-2>`_.
 
 Mods
 ----

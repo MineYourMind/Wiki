@@ -5,6 +5,8 @@ Concept
 -------
 Project Ozone 3: A New Way Forward is a pack filled to the brim of mods ranging from tech to magic to even exploration. A Better Questing pack filled with "currently 1106" quests (if you include the reward system). Project Ozone 3 also supports pack modes as they become available (Normal, Titan and Kappa). Normal mode in PO3 will be "slightly" more difficult than Project Ozone 2's due to mod progression. There are still "simple" achievements after the main quests we just use Better Questing entirely.
 
+More info about the pack can be found `here <https://www.curseforge.com/minecraft/modpacks/project-ozone-3-a-new-way-forward>`_.
+
 Mods
 ----
 * Resource Loader (by lumien231)

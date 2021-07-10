@@ -5,7 +5,7 @@ Concept
 -------
 The pack for all people. Beyond is the general all-purpose pack from the FTB team that is designed for solo play as well as small and medium population servers. 
 
-You can find more info about FTB Infinity over on the Website `here <https://www.feed-the-beast.com/projects/ftb-beyond>`_
+More info about the pack can be found `here <https://www.feed-the-beast.com/projects/ftb-beyond>`_.
 
 Mods
 ----
