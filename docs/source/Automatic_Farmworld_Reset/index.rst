@@ -131,3 +131,7 @@ Server Specific Exceptions
 
 - Twilight Forest (is being reset *Weekly*)
 - Ross128b (is being reset *Monthly*)
+
+**Multiblock Madness**
+
+- Farmworld (is being reset *Weekly*)
