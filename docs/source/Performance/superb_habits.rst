@@ -59,3 +59,5 @@ If you are unsure if a setup is impacting the server in a negative way, don't he
  - Do not have cable/pipes crossing chunk boundaries if not chunk loaded
  - Keep an eye on mob farms in case of item leaks
  - Do not put an entire base in one chunk - spread it out!
+ - Cardboard boxes can be used to pick up various glitched blocks, i.e. glitched immersive engineering conveyor belt.
+ - Antiblocks, when used in excess, can lag even the most powerful of computers. Beware of chiseled anti-blocks.
