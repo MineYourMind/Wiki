@@ -46,8 +46,8 @@ Version - ``1.3.7.1``
 
 Multiblock Madness
 ^^^^^^^^^^^^^^^^^^
-Version - ``1.1.4b``
---------------------
+Version - ``1.2.0``
+-------------------
 
 * **Node 1:** ``multiblock.mineyourmind.net``
 

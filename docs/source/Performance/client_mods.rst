@@ -20,7 +20,7 @@ Curseforge Link - `Fastcraft <https://www.curseforge.com/minecraft/mc-mods/fastc
 
 Foamfix
 ^^^^^^^
-Curseforge Link - `Fastcraft <https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod>`__
+Curseforge Link - `Formfix <https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod>`__
 -------------------------------------------------------------------------------------------------------
 
 * **Description:** ``FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations.``
@@ -38,7 +38,7 @@ Performance Mods for 1.12.2
 
 Foamfix
 ^^^^^^^
-Curseforge Link - `Fastcraft <https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod>`__
+Curseforge Link - `Foamfix <https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod>`__
 -------------------------------------------------------------------------------------------------------
 
 * **Description:** ``FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations.``
