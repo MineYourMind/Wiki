@@ -19,11 +19,11 @@ Version - ``1.16.5``
 
 ----
 
-Stacia Expert
+Life in the Village 2
 ^^^^^^^^^^^^^
-Version - ``1.11.4``
+Version - ``1.2.5``
 --------------------
 
-* **Node 1:** ``stacia.mineyourmind.net``
+* **Node 1:** ``village2.mineyourmind.net``
 
 .. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron and how to access this server.
