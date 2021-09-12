@@ -8,15 +8,6 @@ Server Ip's 1.10.2
 
 ----
 
-FTB Beyond
-^^^^^^^^^^
-Version - ``1.11.0``
---------------------
-
-* **Node 4:** ``beyond4.mineyourmind.net``
-
-----
-
 Forever Stranded
 ^^^^^^^^^^^^^^^^
 Version - ``1.9.9.1``

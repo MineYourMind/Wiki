@@ -54,15 +54,6 @@ Version - ``2.0.1``
 
 ----
 
-Regrowth
-^^^^^^^^
-Version - ``1.0.2``
--------------------
-
-* **Node 1:** ``regrowth.mineyourmind.net``
-
-----
-
 Tekkit Legends
 ^^^^^^^^^^^^^^
 Version - ``1.1.1``
