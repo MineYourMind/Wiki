@@ -21,8 +21,8 @@ Version - ``1.16.5``
 
 Life in the Village 2
 ^^^^^^^^^^^^^^^^^^^^^
-Version - ``1.2.5``
--------------------
+Version - ``1.26``
+------------------
 
 * **Node 1:** ``village2.mineyourmind.net``
 
