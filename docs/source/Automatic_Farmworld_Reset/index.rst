@@ -135,3 +135,4 @@ Server Specific Exceptions
 **Multiblock Madness**
 
 - Farmworld (is being reset *Weekly*)
+- Anu Lair (is being reset *Weekly*)
