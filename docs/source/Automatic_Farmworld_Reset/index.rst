@@ -71,12 +71,32 @@ Server Specific Exceptions
 
 - Nothing will be reset
 
+**Divine Journey 2**
+
+ **Weekly**
+ 
+ - Abyssalcraft Dimensions
+ - DivineRPG Dimensions
+ - Twilight Forest
+ - Erebus
+ - Atum
+ - Aether
+ - Underworld
+ - Emptiness
+
+ **Monthly**
+
+ - Farmworld
+ - Nether
+ - Deep Dark
+ - (Quantum) Quarry Dim
+
 **SevTech**
 
  **Weekly**
 
  - End
- - Abyssal Wstelands
+ - Abyssal Wastelands
  - Dreadlands
  - Beneath
  - Omothol
