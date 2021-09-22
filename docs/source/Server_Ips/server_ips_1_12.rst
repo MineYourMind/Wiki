@@ -8,6 +8,15 @@ Server Ip's 1.12.2
 
 ----
 
+Divine Journey 2
+^^^^^^^^^^^^^^^^
+Version - ``2.4.0``
+-------------------
+
+* **Node 1:** ``dj2.mineyourmind.net``
+
+----
+
 Dungeons Dragons and Space Shuttles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Version - ``8.0 R1``
