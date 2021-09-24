@@ -87,6 +87,11 @@ Version - ``1.20.0``
 
 * **Node 2:** ``ftbstoneblock2.mineyourmind.net``
 
+Version - ``1.21.1``
+--------------------
+
+* **Node 3:** ``stoneblock2.mineyourmind.net``
+
 ----
 
 Skyfactory 4
