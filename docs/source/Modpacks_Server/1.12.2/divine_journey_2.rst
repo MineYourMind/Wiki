@@ -6,20 +6,20 @@ Concept
 A Minecraft 1.12.2 Expert modpack that is the spiritual successor to the 1.7.10 Divine Journey modpack. It features a unique progression line and a lot more mods to go through than it's predecessor.
 Features:
 
-* Automate Everything!
- * Most aspects of every single included mod need to be explored and automated.
- * The bulk of the pack consists of magical crafting and automation, which you've been given the tools to set up!
-* Expert pack, but not grindy(tm)
- * There is no recipe you'll have to wait hours for.
- * All items you need to craft in bulk are automatable.
- * You'll only have to wait a short while to gather EMC in the lategame for Neutronium to pile up.
- * You won't have have to kill any boss more than twice.
- * EMC is purely for lag reduction, to replace your old farms, mob spawners and quarries.
-* The hardest "fair" 1.12 Expert pack
- * You'll need to progress through every single mod listed in the progression line, and most recipes are highly gated behind mods that come earlier in the list.
- * Lategame recipes are more "intriguing" than "grindy"
-* Custom Dungeons by the community
- * DivineRPG and Galacticraft Dimensions have been spiced up, and they all now feature a custom dungeon!
+Automate Everything!
+* Most aspects of every single included mod need to be explored and automated.
+* The bulk of the pack consists of magical crafting and automation, which you've been given the tools to set up!
+Expert pack, but not grindy(tm)
+* There is no recipe you'll have to wait hours for.
+* All items you need to craft in bulk are automatable.
+* You'll only have to wait a short while to gather EMC in the lategame for Neutronium to pile up.
+* You won't have have to kill any boss more than twice.
+* EMC is purely for lag reduction, to replace your old farms, mob spawners and quarries.
+The hardest "fair" 1.12 Expert pack
+* You'll need to progress through every single mod listed in the progression line, and most recipes are highly gated behind mods that come earlier in the list.
+* Lategame recipes are more "intriguing" than "grindy"
+Custom Dungeons by the community
+* DivineRPG and Galacticraft Dimensions have been spiced up, and they all now feature a custom dungeon!
 * Over 1600 Quests through 30 Chapters
 * Custom Modular Machines
 * Over 5000 custom recipes
