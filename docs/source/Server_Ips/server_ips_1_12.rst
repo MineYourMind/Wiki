@@ -37,7 +37,7 @@ Version - ``1.82a``
 
 FTB Revelation
 ^^^^^^^^^^^^^^
-Version - ``3.4.0``
+Version - ``3.5.0``
 -------------------
 
 * **Node 1:** ``revelation.mineyourmind.net``
