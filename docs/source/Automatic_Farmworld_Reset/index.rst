@@ -90,6 +90,9 @@ Server Specific Exceptions
  - Nether
  - Deep Dark
  - (Quantum) Quarry Dim
+ - Moon
+ - Mars
+ - Asteroids
 
 **SevTech**
 
