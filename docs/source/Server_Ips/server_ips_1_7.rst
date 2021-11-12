@@ -41,7 +41,7 @@ Version - ``3.1.0``
 -------------------
 
 * **Node 1:** ``infinity-expert.mineyourmind.net`` - **expert mode**
-* **Node 2:** ``infinity2.mineyourmind.net`` - **normal mode**
+* **Node 2:** ``infinityN3.mineyourmind.net`` - **normal mode**
 
 ----
 
