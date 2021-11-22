@@ -57,7 +57,7 @@ Never resetting worlds/dimensions
 - OverWorld
 - Void World
 - Last Millenium (*Extra Utilities*)
-- Galaticraft Planets
+- Galacticraft Planets
 - Advanced Rocketry Planets
 
 Server Specific Exceptions
@@ -67,7 +67,7 @@ Server Specific Exceptions
 
 - Tropicraft (is *NOT* being reset)
 
-**Galatic Science**
+**Galactic Science**
 
 - Nothing will be reset
 
