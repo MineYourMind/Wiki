@@ -74,7 +74,7 @@ Version - ``3.3.61``
 
 SevTech Ages
 ^^^^^^^^^^^^
-Version - ``3.2.1``
+Version - ``3.2.2``
 -------------------
 * **Node 3:** ``sevtech3.mineyourmind.net``
 
