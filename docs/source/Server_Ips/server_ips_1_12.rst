@@ -50,7 +50,7 @@ Version - ``1.3.7.1``
 ---------------------
 
 * **Node 2:** ``mceternal2.mineyourmind.net``
-* **Node 3:** ``eternal3.mym.li``
+* **Node 3:** ``eternal3.mineyourmind.net``
 
 ----
 
@@ -68,8 +68,8 @@ Project Ozone 3
 Version - ``3.4.4``
 --------------------
 
-* **Node 1:** ``po3kappa.mineyourmind.net`` - **kappa mode**
-* **Node 2:** ``po3normal.mineyourmind.net`` - **normal mode**
+* **Node 1:** ``po3kappa.mineyourmind.net`` - **Kappa mode**
+* **Node 2:** ``po3normal.mineyourmind.net`` - **Normal mode**
 
 ----
 
