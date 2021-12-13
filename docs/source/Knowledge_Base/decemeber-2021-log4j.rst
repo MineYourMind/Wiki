@@ -31,9 +31,10 @@ Do not be worried! We have you covered! We have patched the MYM launcher to fix 
     :alt: log4j-window
     :align: center
     :scale: 80
+
 |
 
-More information can be found out when this was implemented at this `changelog <https://mineyourmind.net/forum/threads/global-changelog.2705/page-29#post-225524>`_
+.. note:: More information can be found out when this was implemented at this `changelog <https://mineyourmind.net/forum/threads/global-changelog.2705/page-29#post-225524>`_
 
 Servers
 #######
