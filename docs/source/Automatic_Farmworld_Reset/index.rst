@@ -55,8 +55,8 @@ Montly
 - Aether
 - Hunting Dimension
 
-Never Resetting Worlds
-######################
+Worlds that Never Reset
+#######################
 
 - OverWorld
 - Void World
@@ -130,8 +130,8 @@ Infinity Evolved Skyblock
 
 - Nether (is *NOT* being reset as it is a void world)
 
-Engmatica 2: Expert
-###################
+Enigmatica 2: Expert
+####################
 
 - Twilight Forest (is being reset *Weekly*)
 
