@@ -50,7 +50,7 @@ Version - ``1.3.7.1``
 ---------------------
 
 * **Node 2:** ``mceternal2.mineyourmind.net``
-* **Node 3:** ``eternal3.mineyourmind.net``
+* **Node 3:** ``mceternal3.mineyourmind.net``
 
 ----
 
