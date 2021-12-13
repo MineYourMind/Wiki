@@ -18,3 +18,4 @@ docs/assets/
 docs/make.bat
 docs/Makefile
 docs/requirements.txt
+.vscode/settings.json
