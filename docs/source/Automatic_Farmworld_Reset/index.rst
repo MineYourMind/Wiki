@@ -38,8 +38,8 @@ Weekly
 - Outer Lands (*Thaumcraft*)
 - Erebus
 
-Montly
-######
+Monthly
+#######
 
 - Farmworld
 - Nether
