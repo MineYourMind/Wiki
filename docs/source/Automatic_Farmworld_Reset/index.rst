@@ -164,8 +164,8 @@ MCEternal
 - Ratlantis (is being reset *Monthly*)
 - The Betweenlands (is being reset *Monthly*)
 - Midnight (is being reset *Monthly*)
-- The Aurorian (is being reset *Monthly*)
-- Atum (is being reset *Monthly*)
+- The Aurorian (is being reset *Weekly*)
+- Atum (is being reset *Weekly*)
 
 GT: New Horizons
 ################
