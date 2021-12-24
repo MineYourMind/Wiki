@@ -46,10 +46,9 @@ Version - ``3.5.0``
 
 MC Eternal
 ^^^^^^^^^^
-Version - ``1.3.7.1``
----------------------
+Version - ``1.5`
+----------------
 
-* **Node 2:** ``mceternal2.mineyourmind.net``
 * **Node 3:** ``mceternal3.mineyourmind.net``
 
 ----
@@ -100,7 +99,7 @@ Version - ``4.2.4``
 
 Tekxit 3 Pi
 ^^^^^^^^^^^
-Version - ``0.13.2``
+Version - ``1.0.4``
 --------------------
 
 * **Node 1:** ``tekxit3pi.mineyourmind.net``
