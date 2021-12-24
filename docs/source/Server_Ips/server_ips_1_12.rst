@@ -46,8 +46,8 @@ Version - ``3.5.0``
 
 MC Eternal
 ^^^^^^^^^^
-Version - ``1.5`
-----------------
+Version - ``1.5``
+-----------------
 
 * **Node 3:** ``mceternal3.mineyourmind.net``
 
