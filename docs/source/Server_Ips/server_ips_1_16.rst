@@ -19,11 +19,11 @@ Version - ``1.16.5``
 
 ----
 
-Life in the Village 2
-^^^^^^^^^^^^^^^^^^^^^
-Version - ``1.26``
-------------------
+FTB Oceanblock
+^^^^^^^^^^^^^^
+Version - ``1.11.0``
+--------------------
 
-* **Node 1:** ``village2.mineyourmind.net``
+* **Node 1:** ``oceanblock.mineyourmind.net``
 
 .. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron and how to access this server.
