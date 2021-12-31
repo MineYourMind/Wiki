@@ -8,7 +8,7 @@ MyM Chunkloaders are only available in Minecraft versions 1.7.10 or higher. Crea
 
 Iron Block: This creates an iron chunkloader, which only loads entities like a normal chunkloader when you are online. This means that you aren't using tickets when you don't need to, and is usually for quarries, etc that you don't need chunkloaded all the time but is in a different dimension. 
 
-Gold Block: This creates a gold chunkloader, which functions similarly to an iron chunkloader, but it runs all the time. When you are offline, the chunkloading cost changes to quintuple the normal cost, and the chunkloading limits are reduced to save vital processing power. Note: Gold chunk loaders turn themselves off after 24 hours.
+Gold Block: This creates a gold chunkloader, which functions similarly to an iron chunkloader, but it runs all the time. When you are offline, the chunkloading cost changes to quintuple the normal cost, and the chunkloading limits are reduced to save vital processing power. Note: Gold chunk loaders turn themselves off after you have been offline for 48 hours.
 
 Chunkloading limits
 ===================
