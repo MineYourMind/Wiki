@@ -178,3 +178,8 @@ Multiblock Madness
 
 - Farmworld (is being reset *Weekly*)
 - Anu Lair (is being reset *Weekly*)
+
+Oceanblock (Patron Server)
+##########################
+
+- **Nothing** is resetting currently
