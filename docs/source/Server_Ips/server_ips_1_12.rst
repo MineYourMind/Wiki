@@ -49,7 +49,7 @@ MC Eternal
 Version - ``1.5``
 -----------------
 
-* **Node 3:** ``mceternal3.mineyourmind.net``
+* **Node 3:** ``mceternal3.mineyourmind.net`` - **Normal Mode**
 
 ----
 
