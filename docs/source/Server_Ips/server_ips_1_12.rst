@@ -60,6 +60,8 @@ Version - ``1.2.3``
 
 * **Node 1:** ``multiblock.mineyourmind.net``
 
+* **Node 2:** ``multiblock2.mineyourmind.net``
+
 ----
 
 Project Ozone 3
