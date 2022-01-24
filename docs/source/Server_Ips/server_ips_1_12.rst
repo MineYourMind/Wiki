@@ -55,10 +55,9 @@ Version - ``1.5``
 
 Multiblock Madness
 ^^^^^^^^^^^^^^^^^^
-Version - ``1.2.3``
+Version - ``2.0.3``
 -------------------
 
-* **Node 1:** ``multiblock.mineyourmind.net``
 
 * **Node 2:** ``multiblock2.mineyourmind.net``
 
