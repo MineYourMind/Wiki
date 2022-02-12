@@ -166,6 +166,7 @@ MCEternal
 - Midnight (is being reset *Monthly*)
 - The Aurorian (is being reset *Weekly*)
 - Atum (is being reset *Weekly*)
+- Anu (is being reset *Weekly*)
 
 GT: New Horizons
 ################
