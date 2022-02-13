@@ -28,7 +28,7 @@ Version - ``1.6.10``
 
 GT: New Horizons
 ^^^^^^^^^^^^^^^^
-Version - ``2.1.1.0``
+Version - ``2.1.2.0``
 ---------------------
 
 * **Node 1:** ``horizons.mineyourmind.net``
