@@ -2,7 +2,7 @@
 Patron
 ++++++
 
-.. note:: You can find more info about on our website `here <https://mineyourmind.net/shop/patron.html>`__.
+.. note:: You can find more info about our Patron tiers on our website `here <https://mineyourmind.net/shop/patron.html>`__.
 
 Patron Commands
 ---------------
