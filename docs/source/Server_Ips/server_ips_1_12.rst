@@ -101,6 +101,6 @@ Version - ``4.2.4``
 Tekxit 3 Pi
 ^^^^^^^^^^^
 Version - ``1.0.5.1``
---------------------
+---------------------
 
 * **Node 1:** ``tekxit3pi.mineyourmind.net``
