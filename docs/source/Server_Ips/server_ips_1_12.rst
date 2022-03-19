@@ -84,7 +84,7 @@ Version - ``3.2.3``
 StoneBlock 2
 ^^^^^^^^^^^^
 
-Version - ``1.21.1``
+Version - ``1.22.0``
 --------------------
 
 * **Node 3:** ``stoneblock2.mineyourmind.net``
