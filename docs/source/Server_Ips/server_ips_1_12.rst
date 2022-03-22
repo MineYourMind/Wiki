@@ -55,7 +55,7 @@ Version - ``1.5``
 
 Multiblock Madness
 ^^^^^^^^^^^^^^^^^^
-Version - ``3.0.2``
+Version - ``3.0.3``
 -------------------
 
 
