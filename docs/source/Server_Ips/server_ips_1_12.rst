@@ -7,6 +7,14 @@ Server Ip's 1.12.2
   :local:
 
 ----
+Antimatter Chemistry
+^^^^^^^^^^^^^^^^^^^^
+Version - ``1.2.34``
+--------------------
+
+* **Node 1** ``antimatter.nym.li``
+
+----
 
 Divine Journey 2
 ^^^^^^^^^^^^^^^^
