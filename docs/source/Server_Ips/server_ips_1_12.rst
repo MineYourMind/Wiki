@@ -8,6 +8,15 @@ Server Ip's 1.12.2
 
 ----
 
+Antimatter Chemistry
+^^^^^^^^^^^^^^^^^^^^
+Version - ``1.2.34``
+--------------------
+
+* **Node 1:** ``antimatter.mineyourmind.net``
+
+----
+
 Divine Journey 2
 ^^^^^^^^^^^^^^^^
 Version - ``2.13.0``

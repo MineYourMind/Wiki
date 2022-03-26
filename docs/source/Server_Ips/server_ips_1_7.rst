@@ -42,21 +42,3 @@ Version - ``3.1.0``
 
 * **Node 1:** ``infinity-expert.mineyourmind.net`` - **expert mode**
 * **Node 3:** ``infinity.mineyourmind.net`` - **normal mode**
-
-----
-
-Infinity Evolved Skyblock
-^^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``2.0.1``
--------------------
-
-* **Node 1:** ``infinityskyblock.mineyourmind.net``
-
-----
-
-Tekkit Legends
-^^^^^^^^^^^^^^
-Version - ``1.1.1``
--------------------
-
-* **Node 2:** ``tekkit2.mineyourmind.net``
