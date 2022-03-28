@@ -67,6 +67,14 @@ Worlds that Never Reset
 Server Specific Exceptions
 ==========================
 
+Antimatter Chemistry
+####################
+
+Weekly
+------
+
+- Atum
+
 Attack of the B-Team
 ####################
 - Tropicraft (is *NOT* being reset)
