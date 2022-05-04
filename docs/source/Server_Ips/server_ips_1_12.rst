@@ -10,8 +10,8 @@ Server Ip's 1.12.2
 
 Antimatter Chemistry
 ^^^^^^^^^^^^^^^^^^^^
-Version - ``1.2.35``
---------------------
+Version - ``1.2.36h``
+---------------------
 
 * **Node 1:** ``antimatter.mineyourmind.net``
 
