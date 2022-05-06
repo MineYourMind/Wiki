@@ -8,17 +8,6 @@ Server Ip's 1.16.5
 
 ----
 
-Vanilla 1.16.5 (McMMO)
-^^^^^^^^^^^^^^^^^^^^^^
-Version - ``1.16.5``
---------------------
-
-* **Node 1:** ``vanilla116.mineyourmind.net``
-
-.. note:: McMMO is a Server-Side plugin, which means that you only need to use Vanilla 1.16.5 to join the server.
-
-----
-
 FTB Oceanblock
 ^^^^^^^^^^^^^^
 Version - ``1.11.0``
