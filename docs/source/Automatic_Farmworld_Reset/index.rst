@@ -133,11 +133,6 @@ Monthly
 - Saturn
 - Kepler22b
 
-Infinity Evolved Skyblock
-#########################
-
-- Nether (is *NOT* being reset as it is a void world)
-
 Enigmatica 2: Expert
 ####################
 
@@ -187,8 +182,3 @@ Multiblock Madness
 
 - Farmworld (is being reset *Weekly*)
 - Anu Lair (is being reset *Weekly*)
-
-Oceanblock (Patron Server)
-##########################
-
-- **Nothing** is resetting currently
