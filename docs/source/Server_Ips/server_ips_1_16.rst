@@ -18,5 +18,3 @@ Version - ``2.0``
 .. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron and how to access this server.
 
 .. note:: You can also access this server if you have been giving a patron friend pass from a active patron.
-  
-----
