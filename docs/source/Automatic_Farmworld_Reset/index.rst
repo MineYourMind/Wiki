@@ -182,3 +182,9 @@ Multiblock Madness
 
 - Farmworld (is being reset *Weekly*)
 - Anu Lair (is being reset *Weekly*)
+
+Techopolis
+##########
+
+- Nether (is being reset *Montly*)
+- End (is being reset *Weekly*)
