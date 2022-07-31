@@ -19,7 +19,7 @@ Version - ``1.2.36h``
 
 Divine Journey 2
 ^^^^^^^^^^^^^^^^
-Version - ``2.13.0``
+Version - ``2.15.0``
 --------------------
 
 * **Node 1:** ``dj2.mineyourmind.net``
