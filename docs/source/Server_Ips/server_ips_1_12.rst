@@ -69,6 +69,7 @@ Version - ``3.2.0``
 
 
 * **Node 2:** ``multiblock2.mineyourmind.net``
+* **Node 3:** ``multiblock3.mineyourmind.net``
 
 ----
 
