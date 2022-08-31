@@ -35,7 +35,7 @@ Back
 RTP 
 * Max distance = 10000
 * Min distance = 1000
-* Cooldown = 150 seconds
+* Cooldown = 60 seconds
 Spawn 
 * Cooldown = 0 seconds
 
