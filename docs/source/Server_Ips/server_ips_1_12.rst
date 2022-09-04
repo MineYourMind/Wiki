@@ -67,8 +67,6 @@ Multiblock Madness
 Version - ``3.2.0``
 -------------------
 
-
-* **Node 2:** ``multiblock2.mineyourmind.net``
 * **Node 3:** ``multiblock3.mineyourmind.net``
 
 ----
@@ -77,6 +75,7 @@ Project Ozone 3
 ^^^^^^^^^^^^^^^
 Version - ``3.4.6``
 --------------------
+
 * **Node 1:** ``po3mythic.mineyourmind.net`` - **Mythic mode**
 * **Node 2:** ``po3kappa.mineyourmind.net`` - **Kappa mode**
 * **Node 3:** ``po3normal.mineyourmind.net`` - **Normal mode**
@@ -87,6 +86,7 @@ SevTech Ages
 ^^^^^^^^^^^^
 Version - ``3.2.3``
 -------------------
+
 * **Node 3:** ``sevtech3.mineyourmind.net``
 
 ----
