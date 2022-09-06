@@ -188,3 +188,6 @@ All of the Mods 7
 
 - Nether (is being reset *Montly*)
 - End (is being reset *Weekly*)
+- Twilight Forest (is being reset *Weekly*)
+- Mining Dimension (is being reset *Montly*)
+- The_Other (is being reset *Monthly*)

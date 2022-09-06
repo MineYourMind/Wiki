@@ -10,7 +10,7 @@ Server Ip's 1.18.2
 
 All of the Mods 7
 ^^^^^^^^^^^^^^^^^
-Version - ``0.4.29``
+Version - ``0.4.30``
 --------------------
 
 * **Node 1:** ``atm7.mineyourmind.net``
