@@ -11,6 +11,29 @@ Why use the launcher?
 * Partitial updates (only changed files get updated)
 * Custom modpacks
 
+Common Launcher Issues
+======================
+1. The error below means that you are using an incorrect version of Java. Make sure you look at the table above to make sure you have the right version!
+
+.. code-block:: sh
+
+    The game is running. Please wait.
+    Unrecognized option: -p
+    Error: Could not create the Java Virtual Machine.
+    Error: A fatal exception has occurred. Program will exit.
+    Process ended with code: 1
+ 
+2. The error below means you have the wrong JVM arguments for your launcher. Go to options<Java and try only putting in the following ``-Djava.net.preferIPv4Stack=true``. This is fixed in `New` downloads of the launcher.
+
+.. code-block:: sh
+
+   The game is running. Please wait.
+   Unrecognized VM option 'UseCMSCompactAtFullCollection'
+   Error: Could not create the Java Virtual Machine.
+   Error: A fatal exception has occurred. Program will exit.
+   Process ended with code: 1
+
+
 REI Minimap migration
 ---------------------
 These are the steps to migrate the REI's waypoints from FTB Launcher to the MYM Launcher.
