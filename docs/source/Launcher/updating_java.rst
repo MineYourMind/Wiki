@@ -1,3 +1,5 @@
+.. _ref-updating_java:
+
 ++++++++++++++++++++++++++++++
 Updating Java for the Launcher
 ++++++++++++++++++++++++++++++

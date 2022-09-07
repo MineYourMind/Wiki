@@ -13,7 +13,7 @@ Why use the launcher?
 
 Common Launcher Issues
 ======================
-1. The error below means that you are using an incorrect version of Java. Make sure you look at the table above to make sure you have the right version!
+1. The error below means that you are using an incorrect version of Java. See :ref:`here <ref-updating_java>`.
 
 .. code-block:: sh
 
