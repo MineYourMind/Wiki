@@ -6,14 +6,6 @@ Server Ip's 1.12.2
   :depth: 1
   :local:
 
-----
-
-Antimatter Chemistry
-^^^^^^^^^^^^^^^^^^^^
-Version - ``1.2.36h``
----------------------
-
-* **Node 1:** ``antimatter.mineyourmind.net``
 
 ----
 
