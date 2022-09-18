@@ -73,7 +73,7 @@ Version - ``3.2.0``
 
 Project Ozone 3
 ^^^^^^^^^^^^^^^
-Version - ``3.4.6``
+Version - ``3.4.9``
 --------------------
 
 * **Node 1:** ``po3mythic.mineyourmind.net`` - **Mythic mode**
