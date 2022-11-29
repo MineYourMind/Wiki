@@ -54,15 +54,6 @@ Version - ``1.5``
 
 ----
 
-Multiblock Madness
-^^^^^^^^^^^^^^^^^^
-Version - ``3.2.0``
--------------------
-
-* **Node 3:** ``multiblock3.mineyourmind.net``
-
-----
-
 Project Ozone 3
 ^^^^^^^^^^^^^^^
 Version - ``3.4.6``

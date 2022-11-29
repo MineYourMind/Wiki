@@ -169,12 +169,6 @@ GT: New Horizons
 - Twilight Forest (is being reset *Weekly*)
 - Ross128b (is being reset *Monthly*)
 
-Multiblock Madness
-##################
-
-- Farmworld (is being reset *Weekly*)
-- Anu Lair (is being reset *Weekly*)
-
 All of the Mods 7
 #################
 
