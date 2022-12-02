@@ -8,12 +8,12 @@ Server Ip's 1.18.2
 
 ----
 
-All of the Mods 7
-^^^^^^^^^^^^^^^^^
-Version - ``0.4.30``
+Stoneblock 3
+^^^^^^^^^^^^
+Version - ``1.4.2``
 --------------------
 
-* **Node 1:** ``atm7.mineyourmind.net``
+* **Node 1:** ``patrons.mineyourmind.net``
 
 .. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron and how to access this server.
 

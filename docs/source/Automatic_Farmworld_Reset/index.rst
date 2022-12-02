@@ -169,11 +169,7 @@ GT: New Horizons
 - Twilight Forest (is being reset *Weekly*)
 - Ross128b (is being reset *Monthly*)
 
-All of the Mods 7
-#################
+Stoneblock 3 (Patron-Only)
+##########################
 
-- Nether (is being reset *Montly*)
-- End (is being reset *Weekly*)
-- Twilight Forest (is being reset *Weekly*)
-- Mining Dimension (is being reset *Montly*)
-- The_Other (is being reset *Monthly*)
+- **Nothing** is currently being reset
