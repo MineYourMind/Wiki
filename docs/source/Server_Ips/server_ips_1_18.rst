@@ -10,7 +10,7 @@ Server Ip's 1.18.2
 
 Stoneblock 3
 ^^^^^^^^^^^^
-Version - ``1.4.2``
+Version - ``1.4.3``
 --------------------
 
 * **Node 1:** ``patrons.mineyourmind.net``

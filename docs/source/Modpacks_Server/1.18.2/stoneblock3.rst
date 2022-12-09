@@ -139,7 +139,6 @@ Mods
 * MineTogether (by Official_CreeperHost)
 * Instrumental Mobs (by Mrbysco)
 * In Control! (by McJty)
-* Better Than Llamas (by ohaiiChun)
 * Party Parrots (by ohaiiChun)
 * Chance Cubes (by TurkeyDev)
 * Better Than Bunnies (by ohaiiChun)
