@@ -47,10 +47,10 @@ Version - ``3.6.0``
 
 MC Eternal
 ^^^^^^^^^^
-Version - ``1.5``
------------------
+Version - ``1.6.1``
+-------------------
 
-* **Node 3:** ``mceternal3.mineyourmind.net`` - **Normal Mode**
+* **Node 3:** ``mceternal4.mineyourmind.net`` - **Normal Mode**
 
 ----
 
