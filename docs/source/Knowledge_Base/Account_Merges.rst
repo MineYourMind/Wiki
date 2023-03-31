@@ -13,7 +13,7 @@ Occasionally, players lose access to their Minecraft account, and decide to simp
 
 **The first method is used if you still have access to your previous forum account:**
 
-1. Create a forum support post here[link] titled "Account Merge", requesting the merge.
+1. Create a forum support post `here <https://mineyourmind.net/forum/forums/other.269/>`_ titled "Account Merge", requesting the merge.
 2. Create a new forum account linked to your NEW Minecraft account.
 3. Respond to your support request with the NEW forum account, authorizing the merge.
 4. Wait for an Administrator to complete the merge for you.
@@ -23,7 +23,7 @@ Occasionally, players lose access to their Minecraft account, and decide to simp
 **The second method is used if you do not have access to your previous forum account:**
 
 1. Create a new forum account linked to your NEW Minecraft account.
-2. Create a forum support post here[link] titled "Account Merge", requesting the merge.
+2. Create a forum support post `here <https://mineyourmind.net/forum/forums/other.269/>`_ titled "Account Merge", requesting the merge.
 3. Once an Administrator responds to your support post, DM them on the forum with either the Email or Date of Birth associated with your old forum account (Do not DM an Administrator before they have responded to your support post).
 4. Wait for an Administrator to complete the merge for you.
 
