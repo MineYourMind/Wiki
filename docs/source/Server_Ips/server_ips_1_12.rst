@@ -11,7 +11,7 @@ Server Ip's 1.12.2
 
 Divine Journey 2
 ^^^^^^^^^^^^^^^^
-Version - ``2.19.1``
+Version - ``2.19.2``
 --------------------
 
 * **Node 1:** ``dj2.mineyourmind.net``
