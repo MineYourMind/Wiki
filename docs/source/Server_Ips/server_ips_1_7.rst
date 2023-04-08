@@ -40,5 +40,4 @@ Infinity Evolved
 Version - ``3.1.0``
 -------------------
 
-* **Node 1:** ``infinity-expert.mineyourmind.net`` - **expert mode**
 * **Node 3:** ``infinity.mineyourmind.net`` - **normal mode**

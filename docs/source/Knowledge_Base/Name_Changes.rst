@@ -19,9 +19,9 @@ Name changes in Minecraft can cause various issues depending on the version of t
 *Most of the mods and plugins support UUIDs by this point. There are still mods that do not support UUIDS however. The affected things that you will probably need transferred are islands, Botania/Thaumcraft/Thermal Expansion data, and Questing Data.*
 
 
-**I play on a Minecraft 1.10+ modded server on MyM, what will happen?** 
+**I play on a Minecraft 1.12 modded server on MyM, what will happen?** 
 
-*Even more mods/plugins support UUIDs. All that will really be lost is some mod related things like baubles, and botania. (I can't think of anymore)*
+*Even more mods/plugins support UUIDs. All that will really be lost is some mod related things like baubles and botania.*
 
 
 **I am a Donor at MyM. What is going to happen to my premium rank, credits..?** 

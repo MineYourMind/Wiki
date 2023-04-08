@@ -60,7 +60,6 @@ Version - ``3.4.10``
 --------------------
 
 * **Node 1:** ``po3mythic.mineyourmind.net`` - **Mythic mode**
-* **Node 2:** ``po3kappa.mineyourmind.net`` - **Kappa mode**
 * **Node 3:** ``po3normal.mineyourmind.net`` - **Normal mode**
 
 ----

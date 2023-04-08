@@ -19,14 +19,6 @@ You can go `here <http://mym.li/ip>`_ for a list of our Server IPs and modpack v
 
    1.7.10/*
 
-1.10.2
-------
-
-.. toctree::
-   :glob:
-
-   1.10.2/*
-
 1.12.2
 ------
 
