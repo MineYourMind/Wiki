@@ -13,7 +13,7 @@ Attack of the B-Team
 Version - ``1.0.12c``
 ---------------------
 
-* **Node 1:** ``bteam.mineyourmind.net``
+* **Node 2:** ``bteam.mineyourmind.net``
 
 ----
 
