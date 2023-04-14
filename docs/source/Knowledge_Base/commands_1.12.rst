@@ -35,7 +35,7 @@ Claims
 * ``/trustlist`` - Lists all trusted players
 * ``/abandonclaim`` - Deletes the claim you're standing in
 * ``/claimslist`` - Lists your claims
-* ``/gd mode tool`` - Toggle claim inspection tool (stick) - Grief Defender Only
+* ``/stick`` - Toggle the claim inspection tool (stick) on/off 
 
 See :ref:`ref-griefprevention` for more information.
 
