@@ -50,7 +50,7 @@ MC Eternal
 Version - ``1.6.1``
 -------------------
 
-* **Node 3:** ``mceternal4.mineyourmind.net`` - **Normal Mode**
+* **Node 4:** ``mceternal4.mineyourmind.net`` - **Normal Mode**
 
 ----
 
@@ -88,7 +88,7 @@ StoneBlock 2
 Version - ``1.22.0``
 --------------------
 
-* **Node 3:** ``stoneblock2.mineyourmind.net``
+* **Node 4:** ``stoneblock2.mineyourmind.net``
 
 ----
 
@@ -97,11 +97,11 @@ Skyfactory 4
 Version - ``4.2.4``
 -------------------
 
-* **Node 1:** ``skyfactory4next.mineyourmind.net``
+* **Node 2:** ``skyfactory4next.mineyourmind.net``
 
 Tekxit 3 Pi
 ^^^^^^^^^^^
 Version - ``1.0.8``
 -------------------
 
-* **Node 1:** ``tekxit3pi.mineyourmind.net``
+* **Node 2:** ``tekxit3pi.mineyourmind.net``
