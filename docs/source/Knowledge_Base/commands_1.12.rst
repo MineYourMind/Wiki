@@ -82,7 +82,7 @@ LegacyTiers
 **Tier2:**
 
 * ``/enderchest`` - Opens your enderchest at will
-* ``/workbench`` - Opens a 9x9 crafting window
+* ``/workbench`` - Opens a 3x3 crafting window
 * ``/et <power>`` - Opens a vanilla enchanting table window (1.10 command only)
 
 **Tier3:**
