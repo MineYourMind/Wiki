@@ -48,7 +48,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'MyM-Wiki'
-copyright = '2015-2022, MyM Community'
+copyright = '2015-2023, MyM Community'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
