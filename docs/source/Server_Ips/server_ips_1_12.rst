@@ -56,8 +56,8 @@ Version - ``1.6.1``
 
 Project Ozone 3
 ^^^^^^^^^^^^^^^
-Version - ``3.4.10``
---------------------
+Version - ``3.4.11F``
+---------------------
 
 * **Node 1:** ``po3mythic.mineyourmind.net`` - **Mythic mode**
 * **Node 3:** ``po3normal.mineyourmind.net`` - **Normal mode**
