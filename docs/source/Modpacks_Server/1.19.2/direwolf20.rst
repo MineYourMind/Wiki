@@ -60,8 +60,8 @@ Server Commands
 * ``/tpadeny`` - Denies a teleport request (also has an on-screen buttom you can click)
 * ``/rtp`` - Teleports you to a random location in the world
 * ``/nickname`` - Allows you to change your nickname
-* ``/back`` - Also teleports you back to your death location (Tier users only)
-* ``/trashcan`` - Opens a trash can for you to dispose of items (Tier users only)
+* ``/trashcan`` - Opens a trash can for you to dispose of items
+* ``/back`` - Also teleports you back to your last location (Premium Rank Users Only)
 
 
 MyM Info
