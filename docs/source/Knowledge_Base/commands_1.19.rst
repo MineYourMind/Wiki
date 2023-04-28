@@ -32,7 +32,6 @@ Chat
 ====
 * ``/msg [player] [message]`` - Sends a private message
 * ``/r [message]`` - Reply to the last player that sent you a message
-* ``/ignore <player>`` - Toggles ignoring of the specified player, disallowing them from sending you messages
 * ``/global <msg>`` - Send a message across the network-wide chat channel. Currently limited to 1.19 servers.
 
 Claims
