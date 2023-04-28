@@ -4,7 +4,7 @@ https://www.feed-the-beast.com/modpacks/101-ftb-presents-direwolf20-119
 
 Warning
 -------
-This 1.19.2 pack is HIGHLY experimental. Expect major,and minor,issues and the possible loss of your work!!
+This 1.19.2 pack is HIGHLY experimental. Expect major, and minor, issues and the possible loss of your work!!
  
 Concept
 -------
