@@ -1,7 +1,7 @@
 .. _ref-griefdefender:
 
 +++++++++++++++++++++++++++++++++++
-GriefDefender (protect your land)
+GriefDefender (protect your land) [Work in Progress]
 +++++++++++++++++++++++++++++++++++
 
 .. image:: https://i.imgur.com/9yf2Cf2.png
