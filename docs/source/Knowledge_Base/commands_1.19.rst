@@ -19,18 +19,21 @@ General
 * ``/kickme`` - Kicks you from the server
 * ``/nickname [nickname]`` - Set a nickname
 * ``/nickname`` - Deletes your current nickname
-* ``/ts`` - Shows our TeamSpeak3 IP
-* ``/website`` - Shows our website url
-* ``/forum`` - Shows our forum url
-* ``/premium`` - Shows our shop url
-* ``/bannedtiems`` - Shows the list of banned items
 
+MyM Info
+========
+* ``/ts`` - Shows our TeamSpeak3 IP (Work in Progress)
+* ``/website`` - Shows our website url (Work in Progress)
+* ``/forum`` - Shows our forum url (Work in Progress)
+* ``/premium`` - Shows our shop url (Work in Progress)
+* ``/banneditems`` - Shows the list of banned items (Work in Progress)
 
 Chat
 ====
 * ``/msg [player] [message]`` - Sends a private message
 * ``/r [message]`` - Reply to the last player that sent you a message
 * ``/ignore <player>`` - Toggles ignoring of the specified player, disallowing them from sending you messages
+* ``/global <msg>`` - Send a message across the network-wide chat channel. Currently limited to 1.19 servers.
 
 Claims
 ======
@@ -48,6 +51,4 @@ See -placeholder for GD link- for more information.
 Tickets
 =======
 * ``/ticket`` - Shows information regarding ticket creation
-
-See :ref:`create-ticket` for more information.
 
