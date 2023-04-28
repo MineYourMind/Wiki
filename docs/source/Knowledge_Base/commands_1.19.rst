@@ -12,7 +12,7 @@ General
 * ``/tpa <name>`` - Requests a teleport to another player
 * ``/tpaccept`` - Accept a teleport request
 * ``/tpadeny`` - Deny a teleport request
-* ``/back`` - Also teleports you back to your death location
+* ``/back`` - Teleports you to your previous location
 * ``/fly`` - Enables creative fly mode 
 * ``/god`` - Enables god mode, making you invincible, disabling damage taken
 * ``/trashcan`` - Opens a trash can for you to dispose of items
