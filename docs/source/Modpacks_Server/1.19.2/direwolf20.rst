@@ -40,7 +40,7 @@ mods like Dark Utilities, Quark & Waystones.
 
 Important Claimblock Information
 --------------------------------
-Earning claimblocks works a bit differently on current 1.19.2 servers. You will begind with 100 claimblocks.
+Earning claimblocks works a bit differently on current 1.19.2 servers. You will begin with 100 claimblocks.
 Enough for a 10x10 claim. Every hour you will earn another 100 claimblocks. However, to prevent AFK  abuse,
 you must move one(1) block every 5 minutes or blocks will be deducted from the amount you receive.
 Obviously, this may cause issues when working in GUI's for long periods. So be aware of that issue.
