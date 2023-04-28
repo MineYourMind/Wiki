@@ -7,9 +7,9 @@ General
 * ``/spawn`` - Teleports you to the spawn point
 * ``/sethome [name]`` - Sets your home location and optionally name it
 * ``/home [name]`` - Teleports you to your home location. Name is optional.
-* ``/back`` - Also teleports you back to your death location    (Excludes both Ag's and Sf2; read Tier 3 for more information)
-* ``/fly`` - Enables creative fly mode    (Excludes both Ag's and Sf2)
-* ``/god`` - Enables god mode, making you invincible, disabling damage taken (Not including damage that bypasses creative ex. Chaos Guardian)
+* ``/back`` - Also teleports you back to your death location
+* ``/fly`` - Enables creative fly mode 
+* ``/god`` - Enables god mode, making you invincible, disabling damage taken 
 * ``/nickname [nickname]`` - Set a nickname
 * ``/nickname`` - Deletes your current nickname
 * ``/ts`` - Shows our TeamSpeak3 IP
