@@ -5,11 +5,18 @@ Commands 1.19 [Work in Progress]
 General
 =======
 * ``/spawn`` - Teleports you to the spawn point
+* ``/rtp`` - Teleports you to a random location with the current world
 * ``/sethome [name]`` - Sets your home location and optionally name it
 * ``/home [name]`` - Teleports you to your home location. Name is optional.
+* ``/listhomes`` - Lists all your homes. 
+* ``/tpa <name>`` - Requests a teleport to another player
+* ``/tpaccept`` - Accept a teleport request
+* ``/tpadeny`` - Deny a teleport request
 * ``/back`` - Also teleports you back to your death location
 * ``/fly`` - Enables creative fly mode 
-* ``/god`` - Enables god mode, making you invincible, disabling damage taken 
+* ``/god`` - Enables god mode, making you invincible, disabling damage taken
+* ``/trashcan`` - Opens a trash can for you to dispose of items
+* ``/kickme`` - Kicks you from the server
 * ``/nickname [nickname]`` - Set a nickname
 * ``/nickname`` - Deletes your current nickname
 * ``/ts`` - Shows our TeamSpeak3 IP
