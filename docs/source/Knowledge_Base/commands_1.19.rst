@@ -6,18 +6,18 @@ General
 =======
 * ``/spawn`` - Teleports you to the spawn point
 * ``/sethome [name]`` - Sets your home location and optionally name it
-* ``/suicide`` - Kills yourself
-* ``/stats`` - Shows the time you have spent on all servers
-* ``/ts`` - Shows our TeamSpeak3 IP
-* ``/website`` - Shows our website url
-* ``/forum`` - Shows our forum url
-* ``/premium`` - Shows our shop url
-* ``/bannedtiems`` - Shows the list of banned items
+* ``/home [name]`` - Teleports you to your home location. Name is optional.
 * ``/back`` - Also teleports you back to your death location    (Excludes both Ag's and Sf2; read Tier 3 for more information)
 * ``/fly`` - Enables creative fly mode    (Excludes both Ag's and Sf2)
 * ``/god`` - Enables god mode, making you invincible, disabling damage taken (Not including damage that bypasses creative ex. Chaos Guardian)
 * ``/nickname [nickname]`` - Set a nickname
 * ``/nickname`` - Deletes your current nickname
+* ``/ts`` - Shows our TeamSpeak3 IP
+* ``/website`` - Shows our website url
+* ``/forum`` - Shows our forum url
+* ``/premium`` - Shows our shop url
+* ``/bannedtiems`` - Shows the list of banned items
+
 
 Chat
 ====

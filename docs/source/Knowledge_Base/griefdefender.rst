@@ -47,35 +47,3 @@ Commands
 * ``/sellclaimblocks <amount>`` - Sells claimblocks for MyM's, 1:1 Ratio.
 * ``/buyclaimblocks <amount>`` - Buys claimblocks for MyM's, 1:1 Ratio.
 
-Fake Players
-============
-
-.. note:: On Minecraft versions 1.6 and 1.7, sometimes you will need to trust a Fake player. If your item or block does not work in your claim, you will have to trust the appropriate Fake Player (listed below). You do not have to do this for 1.10+ Minecraft versions. The fake player should automatically work based on who placed or used it. If your item does not work the server, contact staff via a ticket or support forum thread.
-
-* EllpecksActuallyAdditionsFakePlayer
-* [BuildCraft]
-* [CoFH]
-* [ComputerCraft]
-* [EioFarmer]
-* [EioKillera]
-* FakeThaumcraftGolem
-* [[Forestry]]
-* [Mekanism]
-* [Minecraft]
-* [MineFactory]
-* [OpenComputers]
-* OpenModsFakePlayer-001
-* OpenModsFakePlayer-002
-* OpenModsFakePlayer-003
-* OpenModsFakePlayer-004
-* OpenModsFakePlayer-005
-* OpenModsFakePlayer-006
-* OpenModsFakePlayer-007
-* OpenModsFakePlayer-008
-* OpenModsFakePlayer-009
-* OpenModsFakePlayer-010
-* [PR_FAKE]
-* [SFM_Player]
-* [Stevescart]
-* [ThaumcraftTablet]
-* $player$.robot *(OpenComputer Robots, replace $player$ with yours, or whoever placed the robot)*
