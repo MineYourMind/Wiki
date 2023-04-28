@@ -59,7 +59,6 @@ Server Commands
 * ``/tpaccept`` - Accepts a teleport request (also has an on-screen button you can click)
 * ``/tpadeny`` - Denies a teleport request (also has an on-screen buttom you can click)
 * ``/rtp`` - Teleports you to a random location in the world
-* ``/back`` - Allows you to return to your previous location
 * ``/nickname`` - Allows you to change your nickname
 
 MyM Info
