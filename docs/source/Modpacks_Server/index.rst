@@ -44,5 +44,3 @@ You can go `here <http://mym.li/ip>`_ for a list of our Server IPs and modpack v
    :glob:
 
    1.19.2/*
-   
-   
