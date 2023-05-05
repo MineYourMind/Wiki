@@ -45,7 +45,7 @@ Island
 * ``/island reset`` - Deletes your island and starts a new one
 * ``/island setspawn`` - Sets your island's spawn point at your position
 * ``/island spawn <username>`` - Teleports you to your island's spawn point (Only use <username> if you are a trusted island member and not the owner)
-* ``/island homesetbiome <biometype>`` - Change your island biome type
+* ``/island setbiome <biometype>`` - Change your island biome type
 
 .. note:: The biome options are ``ocean``, ``swampland``, ``forest``, ``flower_forest``, ``jungle``, ``plains``
 

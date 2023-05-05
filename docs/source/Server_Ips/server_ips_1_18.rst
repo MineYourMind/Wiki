@@ -10,10 +10,10 @@ Server Ip's 1.18.2
 
 Stoneblock 3
 ^^^^^^^^^^^^
-Version - ``1.4.3``
+Version - ``1.6.1``
 --------------------
 
-* **Node 1:** ``patrons.mineyourmind.net``
+* **Node 1:** ``stoneblock3.mineyourmind.net``
 
 .. note:: This is a **Patron Only** server. See `Our Shop <https://mineyourmind.net/shop.html>`_ for more details on Patron and how to access this server.
 

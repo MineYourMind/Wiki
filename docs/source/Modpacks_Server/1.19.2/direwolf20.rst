@@ -5,6 +5,10 @@ https://www.feed-the-beast.com/modpacks/101-ftb-presents-direwolf20-119
 Warning
 -------
 This 1.19.2 pack is HIGHLY experimental. Expect major, and minor, issues and the possible loss of your work!!
+
+Note about Minecolonies
+-----------------------
+Minecolonies can have a significant impact on server performance and stability so we usually disable the mod. The problem is 1.19 does not allow clients to connect if there is a mod mismatch. So, we have lowered all the settings so low it cannot possibly have a negative impact on the server. Colonies are limited to a max of 1 chunk and 4 citizens. We have also lowered settigns so slow it will run so slowly it will be a waste of time. This means the mod is effectively useless. So do not waste your time claiming colonies or trying to use this mod.
  
 Concept
 -------
