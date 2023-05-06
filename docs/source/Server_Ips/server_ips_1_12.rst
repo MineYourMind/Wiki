@@ -99,9 +99,3 @@ Version - ``4.2.4``
 
 * **Node 2:** ``skyfactory4next.mineyourmind.net``
 
-Tekxit 3 Pi
-^^^^^^^^^^^
-Version - ``1.0.8``
--------------------
-
-* **Node 2:** ``tekxit3pi.mineyourmind.net``
