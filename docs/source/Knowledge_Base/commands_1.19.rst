@@ -19,6 +19,7 @@ General
 * ``/kickme`` - Kicks you from the server
 * ``/nickname [nickname]`` - Set a nickname
 * ``/nickname`` - Deletes your current nickname
+* ``/warp [warp name]`` - Warps you to a server's warp point.
 
 MyM Info
 ========
