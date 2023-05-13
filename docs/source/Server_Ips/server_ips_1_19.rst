@@ -14,3 +14,21 @@ Version - ``1.11.0``
 ---------------------
 
 * **Node 1:** ``direwolf20.mineyourmind.net``
+
+----
+
+All The Mods 8
+^^^^^^^^^^^^^^
+Version - ``1.0.17``
+---------------------
+
+* **Node 1:** ``atm8.mineyourmind.net``
+
+----
+
+FTB Skies
+^^^^^^^^^
+Version - ``1.1.0``
+--------------------
+
+* **Node 1:** ``ftbskies.mineyourmind.net``
