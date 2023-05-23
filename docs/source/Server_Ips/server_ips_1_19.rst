@@ -19,7 +19,7 @@ Version - ``1.11.0``
 
 All The Mods 8
 ^^^^^^^^^^^^^^
-Version - ``1.0.18``
+Version - ``1.0.19b``
 ---------------------
 
 * **Node 1:** ``atm8.mineyourmind.net``
