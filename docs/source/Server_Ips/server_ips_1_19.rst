@@ -28,7 +28,7 @@ Version - ``1.0.19b``
 
 FTB Skies
 ^^^^^^^^^
-Version - ``1.2.0``
+Version - ``1.2.1``
 --------------------
 
 * **Node 1:** ``ftbskies.mineyourmind.net``
