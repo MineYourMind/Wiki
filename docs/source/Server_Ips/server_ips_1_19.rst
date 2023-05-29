@@ -10,7 +10,25 @@ Server Ip's 1.19.2
 
 Direwolf20
 ^^^^^^^^^^
-Version - ``1.9.0``
---------------------
+Version - ``1.11.0``
+---------------------
 
 * **Node 1:** ``direwolf20.mineyourmind.net``
+
+----
+
+All The Mods 8
+^^^^^^^^^^^^^^
+Version - ``1.0.19b``
+---------------------
+
+* **Node 1:** ``atm8.mineyourmind.net``
+
+----
+
+FTB Skies
+^^^^^^^^^
+Version - ``1.2.1``
+--------------------
+
+* **Node 1:** ``ftbskies.mineyourmind.net``
