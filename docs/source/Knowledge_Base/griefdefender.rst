@@ -11,10 +11,18 @@ GriefDefender (protect your land) [Work in Progress]
 
 Create a claim
 ==============
+You have three options for creating a claim:
 
-Use your first Chest to create a claim or use a golden shovel and click two corners with it to create your claim. If you use the golden shovel to create a claim then you have to look that the claim is at least 10x10 blocks, else it will not work. Everything in this claim is protected from outsiders.
+* Placing a chest will automatically create a basic claim around it.
+* Right clicking the ground with a golden shovel will set the first corner of a claim. Click on the opposite corner of the desired area to set the second corner of the claim. Note: Minimum claim size is 10x10.
+* Use the command ``/claimcreate [radius]`` to create a claim around where you are standing.
 
 The glowstone and gold show you the corners which you can hide with a stick if you right click on the outside of your claim or you click on the inside to show them.
+
+Toggle the Claim Tool
+=====================
+
+On some servers the claim tool may be toggled off by default to prevent interfering with certain mods that require use of a stick. Use the command ``/claimtool`` to toggle the golden shovel and claim inspection stick functions on and off.
 
 Trust a player
 ==============
@@ -26,6 +34,22 @@ Deleting a claim
 ================
 
 You can delete one claim or all claims. To delete a claim you have to stand in the claim and use the command ``/abandonclaim``, use it again to confirm it. If you want to delete all your claims you need to use the command ``/abandonallclaims`` and use the command again to confirm it.
+
+Locate and Inspect claims
+=========================
+
+You can locate nearby claims by right clicking the ground with a stick. This will inform you of any nearby claims in the chat window. If you are standing inside a claim it will give you information about the current claim and its owner. 
+
+Chat GUI and Toggling Claim Flags
+=================================
+
+All of GriefDefender's functions and commands can easily be found in it's chat GUI. This can be opened with the command ``/claiminfo``. Clicking through it's various tabs will give you access to commands, detailed claim info, claim flags, the trustlist, and other options.
+
+.. image:: https://i.imgur.com/mRDaaAj.png
+  :height: 120px
+  :align:  right
+
+Among it's many features, GriefDefender allows us to give players the ability to toggle certain claim flags themselves. This will allow you to decide whether players can enter claims, open chests, if monsters will spawn, water will flow, and nearly every other claim option. This is a very powerful feature and should give you near complate control over your claims. 
 
 
 Commands
