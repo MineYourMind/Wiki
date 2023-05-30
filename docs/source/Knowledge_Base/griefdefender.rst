@@ -49,7 +49,7 @@ All of GriefDefender's functions and commands can easily be found in it's chat G
   :height: 120px
   :align:  right
 
-Among it's many features, GriefDefender allows us to give players the ability to toggle certain claim flags themselves. This will allow you to decide whether players can enter claims, open chests, if monsters will spawn, water will flow, and nearly every other claim option. This is a very powerful feature and should give you near complate control over your claims. 
+Among it's many features, GriefDefender allows us to give players the ability to toggle certain claim flags themselves. This will allow you to decide whether players can enter claims, open chests, if monsters will spawn, water will flow, and nearly every other claim option. This is a very powerful feature and should give you near complete control over your claims. 
 
 
 Commands
