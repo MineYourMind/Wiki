@@ -10,7 +10,7 @@ Server Ip's 1.19.2
 
 Direwolf20
 ^^^^^^^^^^
-Version - ``1.11.0``
+Version - ``1.12.0``
 ---------------------
 
 * **Node 1:** ``direwolf20.mineyourmind.net``
