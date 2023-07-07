@@ -19,7 +19,7 @@ Version - ``1.12.0``
 
 All The Mods 8
 ^^^^^^^^^^^^^^
-Version - ``1.0.19b``
+Version - ``1.0.21b``
 ---------------------
 
 * **Node 1:** ``atm8.mineyourmind.net``
@@ -28,7 +28,7 @@ Version - ``1.0.19b``
 
 FTB Skies
 ^^^^^^^^^
-Version - ``1.2.1``
+Version - ``1.3.1``
 --------------------
 
 * **Node 1:** ``ftbskies.mineyourmind.net``
