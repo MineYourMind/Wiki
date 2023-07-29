@@ -32,3 +32,10 @@ Version - ``1.3.1``
 --------------------
 
 * **Node 1:** ``ftbskies.mineyourmind.net``
+
+All the Mods: Volcano Block
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Version - ``1.0.0``
+-------------------
+
+* **Node 1:** ``atmvb.mineyourmind.net``

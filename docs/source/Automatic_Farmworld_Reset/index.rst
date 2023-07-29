@@ -169,7 +169,13 @@ GT: New Horizons
 - Twilight Forest (is being reset *Weekly*)
 - Ross128b (is being reset *Monthly*)
 
-Stoneblock 3 (Patron-Only)
-##########################
+Stoneblock 3
+############
 
 - **Nothing** is currently being reset
+
+All the Mods: Volcano Block
+###########################
+
+**Only** The Other (is being reset *Monthly*)
+  
