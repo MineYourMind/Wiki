@@ -39,3 +39,10 @@ Version - ``1.0.0``
 -------------------
 
 * **Node 1:** ``atmvb.mineyourmind.net``
+
+Enigmatica 9: Expert
+^^^^^^^^^^^^^^^^^^^^
+Version - ``1.11.2``
+--------------------
+
+* **Node 1:** ``enigmatica9.mineyourmind.net``
