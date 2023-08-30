@@ -45,4 +45,4 @@ Enigmatica 9: Expert
 Version - ``1.11.2``
 --------------------
 
-* **Node 1:** ``enigmatica9.mineyourmind.net`` **(Patron Only**
+* **Node 1:** ``enigmatica9.mineyourmind.net`` **(Patron Only)**
