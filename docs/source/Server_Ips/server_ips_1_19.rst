@@ -42,7 +42,7 @@ Version - ``1.0.6``
 
 Enigmatica 9: Expert
 ^^^^^^^^^^^^^^^^^^^^
-Version - ``1.11.2``
+Version - ``1.12.1``
 --------------------
 
 * **Node 1:** ``enigmatica9.mineyourmind.net`` **(Patron Only)**
