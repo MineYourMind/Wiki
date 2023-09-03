@@ -35,7 +35,7 @@ Version - ``1.3.1``
 
 All the Mods: Volcano Block
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``1.0.0``
+Version - ``1.0.6``
 -------------------
 
 * **Node 1:** ``atmvb.mineyourmind.net``
