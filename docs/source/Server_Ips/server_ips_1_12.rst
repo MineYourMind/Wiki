@@ -29,7 +29,7 @@ Version - ``8.0 R1``
 
 Enigmatica 2: Expert
 ^^^^^^^^^^^^^^^^^^^^
-Version - ``1.90f``
+Version - ``1.90g``
 -------------------
 
 * **Node 2:** ``enigmatica.mineyourmind.net``
