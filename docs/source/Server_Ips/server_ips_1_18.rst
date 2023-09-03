@@ -11,6 +11,6 @@ Server Ip's 1.18.2
 Stoneblock 3
 ^^^^^^^^^^^^
 Version - ``1.7.1``
---------------------
+-------------------
 
 * **Node 1:** ``stoneblock3.mineyourmind.net``
