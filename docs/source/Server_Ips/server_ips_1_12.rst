@@ -18,15 +18,6 @@ Version - ``2.20.0``
 
 ----
 
-Dungeons Dragons and Space Shuttles
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``8.0 R1``
---------------------
-
-* **Node 1:** ``ddss.mineyourmind.net``
-
-----
-
 Enigmatica 2: Expert
 ^^^^^^^^^^^^^^^^^^^^
 Version - ``1.90g``
@@ -42,15 +33,6 @@ Version - ``3.6.0``
 -------------------
 
 * **Node 1:** ``revelation.mineyourmind.net``
-
-----
-
-MC Eternal
-^^^^^^^^^^
-Version - ``1.6.1``
--------------------
-
-* **Node 4:** ``mceternal4.mineyourmind.net`` - **Normal Mode**
 
 ----
 
@@ -70,15 +52,6 @@ Version - ``3.2.3``
 -------------------
 
 * **Node 3:** ``sevtech3.mineyourmind.net``
-
-----
-
-SevTech: Ages of the Sky
-^^^^^^^^^^^^^^^^^^^^^^^^
-Version - ``3.2.3``
--------------------
-
-* **Node 1:** ``sevsky.mineyourmind.net``
 
 ----
 
